@@ -23,4 +23,4 @@ I am currently working under the research project [**Impact of input data altera
 -----
 
 **A brief Introduction of yours truly:**
-> [Brief intro](https://aqasch.github.io/posts/brief-about/)
+> [Brief intro](https://aqasch.github.io/brief-about/)
