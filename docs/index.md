@@ -9,7 +9,7 @@ parmalink : https://aqasch.github.io
 
 ## Intro
 
-![Aqasch](https://www.google.com/search?q=akash+kundu&sxsrf=AOaemvLgGCBEi3Okvn_JvyluXl6lSTDwZw:1641768743099&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjx-fCV4aX1AhWylosKHUUDDXoQ_AUoAXoECAEQAw&biw=767&bih=704&dpr=1.25#imgrc=r6ybR0o-dk4JmM)
+![Aqasch](https:/aqasch.github.io/docs/img/me.jpg)
 
 I am a second year Doctoral Student at [**Instytut Informatyki Teoretycznej i Stosowanej, Polskiej Akademii Nauk**](https://www.iitis.pl/pl) (IITiS, PAN), Polsih Academy of Sciences, and the Joint Doctoral School, [**Politechnika Śląska**](https://www.polsl.pl/en/).
 
