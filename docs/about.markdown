@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-I am Akash Kundu, a Doctoral Student at Institute of Theoretical an Applied Informatics, Polsih Academy of Sciences.
+I am a Doctoral Student at Institute of Theoretical an Applied Informatics, Polsih Academy of Sciences.
