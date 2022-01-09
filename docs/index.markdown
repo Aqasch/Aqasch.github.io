@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title : "Aqasch: My page"
+title : "Truly Yours"
 parmalink : https://aqasch.github.io/title
 ---
+
