@@ -15,14 +15,12 @@ I am a second year Doctoral Student at [**Instytut Informatyki Teoretycznej i St
 
 I am currently working under the research project [**Impact of input data alteration and modification of the algorithm parameters on the efficiency of quantum programs**](https://miszczak.eu/grants/qprogmods/), where the works are fundamentally realted to a class of variational quantum algorithms and quantum annealing.
 
-""
-""
 
-#### Here are my list of publications: 
+**Here are my list of publications:**
 Link to [Google scholar](https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en).
 
-#### Simple explanation to some of my works: 
+**Simple explanation to some of my works:** 
 Please stay tuned. It Will be filled shortly.
 
-##### A brief Introduction:
+**A brief Introduction:**
 A [Brief intro](https://aqasch.github.io/brief-about/) of Aqasch.
