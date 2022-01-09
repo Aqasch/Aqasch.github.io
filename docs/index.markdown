@@ -6,8 +6,6 @@ layout: page
 title : ""
 parmalink : https://aqasch.github.io
 ---
-![](/img/me.jpg)
-
 # Intro
 I am a second year Doctoral Student at [**Instytut Informatyki Teoretycznej i Stosowanej, Polskiej Akademii Nauk**](https://www.iitis.pl/pl) (IITiS, PAN), Polsih Academy of Sciences, and the Joint Doctoral School, [**Politechnika Śląska**](https://www.polsl.pl/en/).
 
