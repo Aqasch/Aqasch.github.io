@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: About
+title:  I am Akash Kundu, a Doctoral Student at Institute of Theoretical an Applied Informatics, Polsih Academy of Sciences.
 date:   2022-01-09 18:51:37 +0100
 categories: jekyll update
 ---
