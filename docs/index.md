@@ -3,11 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title : ""
-parmalink : https://aqasch.github.io
+title : "Intro"
+#parmalink : https://aqasch.github.io
 ---
-
-## Intro
 
 ![Aqasch](https:/aqasch.github.io/docs/img/me.jpg)
 
@@ -25,3 +23,7 @@ Please stay tuned. It Will be filled shortly.
 
 **A brief Introduction:**\
 A [**Brief intro**](https://aqasch.github.io/brief-about/) of Aqasch.
+
+---
+
+# (NOTE : SITE UNDER HEAVY CONSTRUCTION!)
