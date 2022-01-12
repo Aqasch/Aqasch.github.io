@@ -25,4 +25,4 @@ Please stay tuned. It Will be filled shortly.
 A [**Brief intro**](https://aqasch.github.io/brief-about/) of Aqasch.
 
 
-# <span style="color:blue">some *red* (NOTE : SITE UNDER HEAVY CONSTRUCTION!)</span>.
+# <span style="color:red"> **(NOTE : SITE UNDER HEAVY CONSTRUCTION!)** </span>.
