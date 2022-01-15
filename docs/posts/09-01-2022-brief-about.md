@@ -6,12 +6,11 @@ categories : Introduction
 permalink : /books/
 
 ---
-## **<u> Books </u>**
 
 <span style="color:green"> **Most recent read:** </span>\
 *Kafka on the Shore* by Haruki Murakami.
 
-<span style="color:green"> **Most surprising read so far:** </span>\
+<span style="color:green"> **Most surprising read so far:** </span>
 - *The Lord God Made Them All: All Creatures Great and Small Book 4* by James Herriot.
 - *অগ্নিরথ* by Samaresh Majumdar.
 
