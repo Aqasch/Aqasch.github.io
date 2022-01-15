@@ -22,6 +22,6 @@ Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAA
 Please stay tuned. It Will be filled shortly.
 
 **My Interests:**\
-[![Death in the Afternoon by Hemingway](./img/book.jpg =100x20)]( https://aqasch.github.io/brief-about/ )
+[![Death in the Afternoon by Hemingway](./img/book.jpg)]( https://aqasch.github.io/brief-about/ )
 
 # <span style="color:red"> **(NOTE : SITE UNDER HEAVY CONSTRUCTION!)** </span>.
