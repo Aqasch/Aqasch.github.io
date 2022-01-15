@@ -15,7 +15,7 @@ I am currently working under the research project [**Impact of input data altera
 
 ----
 
-**Here are my list of publications:**\
+**Here is the the list of publications:**\
 Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en).
 
 **Simple explanation to some of my works:**\
