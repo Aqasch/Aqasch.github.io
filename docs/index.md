@@ -21,8 +21,8 @@ Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAA
 **Simple explanation to some of my works:**\
 Please stay tuned. It Will be filled shortly.
 
-**A brief Introduction:**\
-A [**Brief intro**](https://aqasch.github.io/brief-about/) of Aqasch.
 
+**My Interests:**\
+[<img src="book.jpg">](https://aqasch.github.io/brief-about/)
 
 # <span style="color:red"> **(NOTE : SITE UNDER HEAVY CONSTRUCTION!)** </span>.
