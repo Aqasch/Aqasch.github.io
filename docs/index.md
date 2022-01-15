@@ -23,6 +23,6 @@ Please stay tuned. It Will be filled shortly.
 
 
 **My Interests:**\
-[<img src="book.jpg">](https://aqasch.github.io/brief-about/)
+[<img src="./img/book.jpg">](https://aqasch.github.io/brief-about/)
 
 # <span style="color:red"> **(NOTE : SITE UNDER HEAVY CONSTRUCTION!)** </span>.
