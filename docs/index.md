@@ -19,7 +19,7 @@ I am currently working under the research project [**Impact of input data altera
 Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en).
 
 **Simple explanation to some of my works:**\
-Just initiated [**The explanation**](https://aqasch.github.io/books/). A lot to add! I wanna make it beginner friendly so please stay tuned!! Thanks!!!
+Just initiated [**The explanation**](https://aqasch.github.io/myworks/). A lot to add! I wanna make it beginner friendly so please stay tuned!! Thanks!!!
 
 **My Interests:**\
 *<u> Books </u>*\
