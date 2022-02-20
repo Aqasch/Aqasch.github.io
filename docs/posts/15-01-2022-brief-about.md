@@ -26,6 +26,5 @@ permalink : /books/
 - *Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics* by Giancarlo Ghirardi.
 
 ----
-Apart from my state-of-the-art interest in reading science relalted books [a link to the list of books will be here], I love to study novels which "connects human soul and soil" [link to a mentionable list of books here]. Once upon a time when I was having a long break in between the transition of school and college life, I tend to finish approximately twelve Bengali novels in month, without compromising with my hunger and sleep.  
-Just recently I discovered my love to read and write poems [a link to poems will be posted]. During this discovery, the great Satyajit Ray's creations [a link to a list] and hobbies [a link to a list] worked as an inspiration to me.
-(**On my way to make it look more serious :)**)
+Apart from my state-of-the-art interest in reading science relalted books, I love to study novels which "connects human soul and soil", mostly books written in my mother tongue Bengali. Once upon a time when I was having a long break in between the transition of school and college life, I tend to finish approximately twelve Bengali novels in month, without compromising with my hunger and sleep.  
+Just recently I discovered my love to read and write poems. During this discovery, the great Satyajit Ray's creations and hobbies worked as an inspiration to me.
