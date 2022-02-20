@@ -22,8 +22,6 @@ Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAA
 Just initiated [**The explanation**](https://aqasch.github.io/myworks/). A lot to add! I wanna make it beginner friendly so please stay tuned!! Thanks!!!
 
 **My Interests:**\
-Books             |  Films
-:-------------------------:|:-------------------------:
 [![Death in the Afternoon by Hemingway](./img/book.jpg){:height="20%" width="20%"}]( https://aqasch.github.io/books/ )  |  [![Death in the Afternoon by Hemingway](./img/book.jpg){:height="20%" width="20%"}]( https://aqasch.github.io/books/ )
 
 # <span style="color:red"> **(NOTE : SITE UNDER HEAVY CONSTRUCTION!)** </span>.
