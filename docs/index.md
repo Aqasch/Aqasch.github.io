@@ -23,5 +23,3 @@ Just initiated [**The explanation**](https://aqasch.github.io/myworks/). A lot t
 
 **My Interests:**\
 [![Death in the Afternoon by Hemingway](./img/book.jpg){:height="20%" width="20%"}]( https://aqasch.github.io/books/ )  |  [![ ](./img/film.jpg){:height="20%" width="20%"}]( https://aqasch.github.io/books/ )
-
-# <span style="color:red"> **(NOTE : SITE UNDER HEAVY CONSTRUCTION!)** </span>.
