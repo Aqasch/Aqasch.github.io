@@ -50,7 +50,7 @@ Till today I had a pleasure to host 8 amazing speakers/group of speakers from al
     The task of estimating density matrices based on measurement results, or simply Quantum State Tomography (QST), is essential for characterizing optical signals as well as in quantum computing and quantum information theory to reliably determine the actual states of the qubits. Alternatively, in the case of continuous variable quantum states, one could be interested in reconstructing the states Wigner function instead density matrix. However it is well known that the number of measurements to fully characterize a state grows polynomially with dimension of the state.
     So, in this talk we give an introduction to QST, which is follows up with a discuss about a simple method to reconstruct the Wigner function of many-mode continuous variable systems.
 
-
+-----------------
 - [**"Introduction to Universal Blind Quantum Computation, by Rijul Sachdeva, Doctoral Scholar at Forschungszentrun Jülich, Germany"**](https://www.youtube.com/watch?v=k-Zk9ubfKmI)
     - **short description:** Universal Blind Quantum Computation (UBQC) is an example of a protocol in which quantum physics gives rise to unique security properties in the computation setting. It is a computation scheme, in which a client wishes to make use of a quantum computer provided by a server, but in a way that the server is "blind" to the computation that the client is running, i.e., the server is unable to come into possession of any intelligible data for this computation. In the talk, an introduction to UBQC will be given.
 
