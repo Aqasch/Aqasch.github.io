@@ -16,7 +16,7 @@ A class of independent and collaborated activities takes place in QIndia:
 
 - Under collaboration with QPoland, Quantum AI Foundation, QWorld, Christ University and CEBT we conducted an one day mini-conference on [**Quantum Machine Learning Workshop**](https://www.qaif.org/events/conferences/quantum-machine-learning-conference). I was one of the representers of QIndia.
 
-#### **"Qoffee o'clock"** 
+### **Qoffee o'clock** 
 
 As a core member of QIndia I host bi-weekly meetings called **Qoffee o'clock**. The term "Qoffee" coined by combining the following facts (1) the host's addiction towards coffee (2) the quantum x (x = physics/computing/information/etc..). Combination of "Qoffee"+"o'clock" basically shouts **"it is time to grab a big mug of coffee and immerse into the world of quantum!"**. 
 Till today I had a pleasure to host 8 amazing speakers/group of speakers from all around the world. All the talks are available online on ["QIndia's YouTube channel"](https://www.youtube.com/channel/UC_diDPY4HK1sZWbS7So6Ejg). A summary of talks is given as follows:
