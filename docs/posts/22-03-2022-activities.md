@@ -25,16 +25,10 @@ Till today I had a pleasure to host 8 amazing speakers/group of speakers from al
 [![Variational Quantum Eigensolver:An Overview by yours truly](..\tumbnails_qoffee\qoffee-akash.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=IdVf6O85kEM&t=1751s ) | [![Macroscopic quantum experiments with superconducting magnetic levitation by Achintya Paradkar, Doctoral student at Chalmers Institute of Technology](..\tumbnails_qoffee\qoffee-achintya.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=JrA_wqrSlCY&t=2020s )
 
 
-[![An interdisciplinary introduction to Quantum Computation by Aritra Sarkar, Doctoral scholar, QuTech, Delft University of Technology.](..\tumbnails_qoffee\qoffee-aritra.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=KSEJjrU_pvU )
+[![An interdisciplinary introduction to Quantum Computation by Aritra Sarkar, Doctoral scholar, QuTech, Delft University of Technology.](..\tumbnails_qoffee\qoffee-aritra.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=KSEJjrU_pvU ) | [![Prospects and Challenges of the Quantum Approximate Optimisation Algorithm by Ritajit Majumdar; Doctoral student, Indian Statistical Institute, Kolkata.](..\tumbnails_qoffee\qoffee-ritajit.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=pW9zE_pZT2A )
 
-[![Prospects and Challenges of the Quantum Approximate Optimisation Algorithm by Ritajit Majumdar; Doctoral student, Indian Statistical Institute, Kolkata.](..\tumbnails_qoffee\qoffee-ritajit.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=pW9zE_pZT2A )
+[![Detection of glassy dynamics using Quantum computer.](..\tumbnails_qoffee\qoffee-turbgang.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=WxBQqkj8L3g ) | [![Quantum Internet; Why and How? by Salini Karuvade, PhD Candidate, Institute for Quantum Science and Technology, University of Calgary.](..\tumbnails_qoffee\qoffee-salini.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=-jpP1u9pNdY )
 
-[![Detection of glassy dynamics using Quantum computer.](..\tumbnails_qoffee\qoffee-turbgang.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=WxBQqkj8L3g )
-
-[![Quantum Internet; Why and How? by Salini Karuvade, PhD Candidate, Institute for Quantum Science and Technology, University of Calgary.](..\tumbnails_qoffee\qoffee-salini.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=-jpP1u9pNdY )
-
-[![Quantum State Tomography and Continuous Variable Quantum States by Ludmila S. Botelho, PhD student at the Institute of Theoretical and Applied Informatics, Polish Academy of Sciences.](..\tumbnails_qoffee\qoffee-ludmila.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=JeDSd6SJsGw )
-
-[![Introduction to Universal Blind Quantum Computation, by Rijul Sachdeva, Doctoral Scholar at Forschungszentrun Jülich, Germany](..\tumbnails_qoffee\qoffee-rijul.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=k-Zk9ubfKmI )
+[![Quantum State Tomography and Continuous Variable Quantum States by Ludmila S. Botelho, PhD student at the Institute of Theoretical and Applied Informatics, Polish Academy of Sciences.](..\tumbnails_qoffee\qoffee-ludmila.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=JeDSd6SJsGw ) | [![Introduction to Universal Blind Quantum Computation, by Rijul Sachdeva, Doctoral Scholar at Forschungszentrun Jülich, Germany](..\tumbnails_qoffee\qoffee-rijul.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=k-Zk9ubfKmI )
 
 [![Quantum Error Correction and the Clifford Group by Devika Sharma, Quantum & Post-Quantum researcher, Weizmann Institute, Israel.](..\tumbnails_qoffee\qoffee-devika.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=ERThbzprfoI )
