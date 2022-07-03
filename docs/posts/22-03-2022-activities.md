@@ -21,8 +21,9 @@ A class of independent and collaborated activities takes place in QIndia:
 As a core member of QIndia I host bi-weekly meetings called **Qoffee o'clock**. The term "Qoffee" coined by combining the following facts (1) the host's addiction towards coffee (2) the quantum x (x = physics/computing/information/etc..). Combination of "Qoffee"+"o'clock" basically shouts **"it is time to grab a big mug of coffee and immerse into the world of quantum!"**. 
 Till today I had a pleasure to host 8 amazing speakers/group of speakers from all around the world. All the talks are available online on ["QIndia's YouTube channel"](https://www.youtube.com/channel/UC_diDPY4HK1sZWbS7So6Ejg). A summary of talks is given as follows:
 
-[![Variational Quantum Eigensolver:An Overview by yours truly](..\tumbnails_qoffee\qoffee-akash.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=IdVf6O85kEM&t=1751s ) 
-
+<p align="center">
+    [![Variational Quantum Eigensolver:An Overview by yours truly](..\tumbnails_qoffee\qoffee-akash.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=IdVf6O85kEM&t=1751s ) 
+</p>
 [![Macroscopic quantum experiments with superconducting magnetic levitation by Achintya Paradkar, Doctoral student at Chalmers Institute of Technology](..\tumbnails_qoffee\qoffee-achintya.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=JrA_wqrSlCY&t=2020s )
 
 
@@ -30,7 +31,7 @@ Till today I had a pleasure to host 8 amazing speakers/group of speakers from al
 
 [![Prospects and Challenges of the Quantum Approximate Optimisation Algorithm by Ritajit Majumdar; Doctoral student, Indian Statistical Institute, Kolkata.](..\tumbnails_qoffee\qoffee-ritajit.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=pW9zE_pZT2A )
 
-[![Detection of glassy dynamics using Quantum computer by Turbasu Chatterjee: Maulana Abul Kalam Azad University of Technology (India), Ishmam Shah: University of Dhaka (Bangladesh), and Arnav Das: Kazi Nazrul University (India).](..\tumbnails_qoffee\qoffee-turbgang.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=WxBQqkj8L3g )
+[![Detection of glassy dynamics using Quantum computer.](..\tumbnails_qoffee\qoffee-turbgang.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=WxBQqkj8L3g )
 
 [![Quantum Internet; Why and How? by Salini Karuvade, PhD Candidate, Institute for Quantum Science and Technology, University of Calgary.](..\tumbnails_qoffee\qoffee-salini.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=-jpP1u9pNdY )
 
