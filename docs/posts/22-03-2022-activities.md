@@ -22,7 +22,7 @@ As a core member of QIndia I host bi-weekly meetings called **Qoffee o'clock**. 
 Till today I had a pleasure to host 8 amazing speakers/group of speakers from all around the world. All the talks are available online on ["QIndia's YouTube channel"](https://www.youtube.com/channel/UC_diDPY4HK1sZWbS7So6Ejg). A summary of talks is given as follows:
 
 
-[![Variational Quantum Eigensolver:An Overview by yours truly](..\tumbnails_qoffee\qoffee-akash.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=IdVf6O85kEM&t=1751s ) | [![Macroscopic quantum experiments with superconducting magnetic levitation by Achintya Paradkar, Doctoral student at Chalmers Institute of Technology](..\tumbnails_qoffee\qoffee-achintya.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=JrA_wqrSlCY&t=2020s )
+[![Variational Quantum Eigensolver:An Overview by yours truly](..\tumbnails_qoffee\qoffee-akash.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=IdVf6O85kEM&t=1751s ) | [![Macroscopic quantum experiments with superconducting magnetic levitation by Achintya Paradkar, Doctoral student at Chalmers Institute of Technology](..\tumbnails_qoffee\qoffee-achintya.jpg){:height="100%" width="100%"}]( https://www.youtube.com/watch?v=JrA_wqrSlCY&t=2020s )
 
 
 [![An interdisciplinary introduction to Quantum Computation by Aritra Sarkar, Doctoral scholar, QuTech, Delft University of Technology.](..\tumbnails_qoffee\qoffee-aritra.jpg){:height="50%" width="50%"}]( https://www.youtube.com/watch?v=KSEJjrU_pvU )
