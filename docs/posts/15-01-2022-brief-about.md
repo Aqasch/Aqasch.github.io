@@ -10,7 +10,7 @@ permalink : /literature/
 <span style="color:green"> **Following:** </span>\
 *Musashi* by Eiji Yoshikawa.
 
-<span style="color:green"> **Most recent read:** </span>\
+<span style="color:green"> **Most recent read:** </span>
 - *Norweigean Wood* by Haruki Murakami.
 - <s>*Kafka on the Shore* by Haruki Murakami.</s>
 
