@@ -94,6 +94,65 @@ permalink : /books/
 <p>অনুসন্ধানের অবশেষে দেখলাম চোখ মেলে,<br>
 ভিন্নশ্রেণীর মাত্রার সাথে নতিমাত্রার ভিন্নতার সূচকীয় হ্রাসের লীলা।
 </p>
+
 ----
+**The Semi Destroyed Castle**
+
+<p>
+</p>
+<p>
+</p>
+
+<p>Concrete of the castle turns more alive as time heads towards midnight.<br>
+Dungeons of the leftovers, thriving for half lifeless beings.
+</p>
+
+<p>Throughout history, you saw countless destruction followed by creation,<br>
+probably this is the reason behind your and these beings' emotional connection,
+</p>
+
+<p>In a future where most of them are unaware of the history,<br>
+they stumped your suffering and glory,<br>
+to find temporal fun out of knowledge,<br>
+which they gained from experiencing your existence,
+</p>
+
+<p>
+If you could express your feelings what would be your emotions in this instance?
+</p>
+
+<p>
+I wonder without a clue,<br>
+The fruitless search for something in the endless blue,
+</p>
+
+<p>
+Just the moment before I am about to give in,<br>
+I saw a way to interact with you, that is an empty brick plane,<br>
+Not sure of the fact that how old it could be,<br>
+I rest my back on you,<br>
+the dungeon like door in front is the only view,
+</p>
+
+<p>
+Resting my body on you gently,<br>
+I felt permission to theorize your inexpressible feeling doubtlessly,<br>
+the first thought I had in my mind,<br>
+how could you be this kind,<br>
+that you are allowing them to obliterate your unfathomable potential,<br>
+taking all the negligence without a protest,
+</p>
+
+<p>
+I wish they knew, the concrete of the castle turning more alive as time heading towards midnight.
+</p>
+
+<p>
+</p>
+<p>
+</p>
+
+----
+
 Apart from my state-of-the-art interest in reading science relalted books, I love to study novels which "connects human soul and soil", mostly books written in my mother tongue Bengali. Once upon a time when I was having a long break in between the transition of school and college life, I tend to finish approximately twelve Bengali novels in month, without compromising with my hunger and sleep.  
 Just recently I discovered my love to read and write poems. During this discovery, the great Satyajit Ray's creations and hobbies worked as an inspiration to me.
