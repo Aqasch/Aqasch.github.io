@@ -12,7 +12,7 @@ permalink : /literature/
 
 <span style="color:green"> **Most recent read:** </span>
 - *Norweigean Wood* by Haruki Murakami.
-- <s>*Kafka on the Shore* by Haruki Murakami.</s>
+- <s>Kafka on the Shore by Haruki Murakami.</s>
 
 <span style="color:green"> **Top 3 most surprising reads:** </span>
 - *The Lord God Made Them All: All Creatures Great and Small Book 4* by James Herriot.
