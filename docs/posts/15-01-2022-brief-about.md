@@ -7,6 +7,9 @@ permalink : /literature/
 
 ---
 
+<span style="color:green"> **Following:** </span>\
+*Musashi* by Eiji Yoshikawa.
+
 <span style="color:green"> **Most recent read:** </span>\
 *Kafka on the Shore* by Haruki Murakami.
 
