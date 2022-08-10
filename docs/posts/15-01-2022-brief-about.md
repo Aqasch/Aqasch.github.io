@@ -108,13 +108,13 @@ Dungeons of the leftovers, thriving for half lifeless beings.
 </p>
 
 <p>Throughout history, you saw countless destruction followed by creation,<br>
-probably this is the reason behind your and these beings' emotional connection,
+probably this is the reason behind your and these beings' emotional connection.
 </p>
 
 <p>In a future where most of them are unaware of the history,<br>
 they stumped your suffering and glory,<br>
 to find temporal fun out of knowledge,<br>
-which they gained from experiencing your existence,
+which they gained from experiencing your existence.
 </p>
 
 <p>
@@ -123,7 +123,7 @@ If you could express your feelings what would be your emotions in this instance?
 
 <p>
 I wonder without a clue,<br>
-The fruitless search for something in the endless blue,
+a fruitless search for something in the endless blue.
 </p>
 
 <p>
@@ -131,7 +131,7 @@ Just the moment before I am about to give in,<br>
 I saw a way to interact with you, that is an empty brick plane,<br>
 not sure of the fact that how old it could be,<br>
 I rest my back on you,<br>
-the dungeon like door in front is the only view,
+the dungeon like door in front is the only view.
 </p>
 
 <p>
@@ -140,7 +140,7 @@ I felt permission to theorize your inexpressible feeling doubtlessly,<br>
 the first thought I had in my mind,<br>
 how could you be this kind,<br>
 that you are allowing them to obliterate your unfathomable potential,<br>
-taking all the negligence without a protest,
+taking all the negligence without a protest.
 </p>
 
 <p>
@@ -149,6 +149,7 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 
 <p>
 </p>
+
 <p>
 </p>
 
