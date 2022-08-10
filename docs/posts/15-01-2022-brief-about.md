@@ -103,7 +103,7 @@ permalink : /books/
 <p>
 </p>
 
-<p>Concrete of the castle turns more alive as time heads towards midnight.<br>
+<p>The concrete of the castle turns more alive as time heads towards midnight.<br>
 Dungeons of the leftovers, thriving for half lifeless beings.
 </p>
 
@@ -129,7 +129,7 @@ The fruitless search for something in the endless blue,
 <p>
 Just the moment before I am about to give in,<br>
 I saw a way to interact with you, that is an empty brick plane,<br>
-Not sure of the fact that how old it could be,<br>
+not sure of the fact that how old it could be,<br>
 I rest my back on you,<br>
 the dungeon like door in front is the only view,
 </p>
