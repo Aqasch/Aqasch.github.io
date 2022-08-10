@@ -1,9 +1,9 @@
 ---
 layout : post
-title: "Books"
+title: "Literature"
 date : 2022-01-15
 categories : Introduction
-permalink : /books/
+permalink : /literature/
 
 ---
 
@@ -25,7 +25,14 @@ permalink : /books/
 - *Thermodynamics* by Enrico Fermi.
 - *Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics* by Giancarlo Ghirardi.
 
-----
+---
+layout : post
+title: "Books"
+date : 2022-01-15
+categories : Introduction
+permalink : /books/
+
+---
 **গবেষণা মত্ত চিত্তে আকাশবাণী**
 
 <p>
