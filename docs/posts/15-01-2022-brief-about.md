@@ -108,6 +108,11 @@ permalink : /literature/
 </p>
 <p>
 </p>
+<span style="color:red"> **Preface:** </span> The fallen castle is based on a conversation between me and [**The City Walls of Warsaw old town**](https://en.wikipedia.org/wiki/City_walls_of_Warsaw). It was born in the summer of 2022 at around 2 AM. I just dealt with my (probably) 5th beer. The gentle breeze coming from the beautiful Vistula was without any permission touching my vibrating skin. It was this eternal temporary comfort that moved my legs and made me sit on one of the not-so-high city walls. My eyes were directed towards a shallow valley, whose two sides were surrounded by the concrete of the walls. There was a door at the end of the valley. Completely dark, and melancholy. I felt like the wall, the dungeon like entrance were trying to communicate with me. So without any further ado I grab my mobile, open Keep Notes (someday someone will probably realize it is a museum) and noted the following extraction of the irreversible, nonrepeatable conversation:
+<p>
+</p>
+<p>
+</p>
 
 <p>The concrete of the castle turns more alive as time heads towards midnight.<br>
 Dungeons of the leftovers, thriving for half lifeless beings.
