@@ -201,6 +201,30 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 </p>
 <p>
 </p>
+<p>
+(রাজা বেজায় এক হাসি দিয়ে!)<br>
+সীতাপতি? সীতাপতি মনেরেখ!
+</p>
+<p>
+দরদাম করে দুইশতকে,<br>
+নকলও পাওয়া যায়;
+</p>
+<p>
+বুদ্ধিমত্তাই আসল রাজা,<br>
+কৃপণতা নয়;
+</p>
+<p>
+তুমি কেন এত অবুঝ,<br>
+সেই কথাটাই ভাবি;
+</p>
+<p>
+লাখ খানেকের দেনা না হলে,<br>
+ক্যামেরাই কি ওই উঠত ছবি? 
+</p>
+<p>
+</p>
+<p>
+</p>
 **(Easily ignorable details)**
 
 Apart from my state-of-the-art interest in reading science relalted books, I love to study novels which "connects human soul and soil", mostly books written in my mother tongue Bengali. Once upon a time when I was having a long break in between the transition of school and college life, I tend to finish approximately twelve Bengali novels in month, without compromising with my hunger and sleep.  
