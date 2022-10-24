@@ -101,6 +101,7 @@ permalink : /literature/
 </p>
 
 ----
+----
 **THE FALLEN CASTLE**
 
 <p>
@@ -159,14 +160,8 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 </p>
 
 ----
-****
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
-**শিরোনামহীন **
+----
+**শিরোনামহীন**
 <p>
 </p>
 <p>
