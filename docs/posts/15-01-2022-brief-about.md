@@ -159,6 +159,16 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 </p>
 
 ----
+****
+<span style="color:red"> **<u> Preface: </u>** </span> A week ago (today 24.10.22) I was watching the Bengali movie [**Stree (1972)**](https://en.wikipedia.org/wiki/Stree_(1972_film)) where Sitapati (সীতাপতি), a homeless youth, comes to landlord Madhav Dutta's house and gets a job as his cameraman. Sitapati with respect mentions Madhav Dutta as king (রাজা). Now our রাজা is very moody. He loves to drink and spend his money. He often arranges late night parties with friends, where he hires expensive dancers, who dances under his huge expensive chandelier (ঝাড়বাতি). In the movie the song "Hazar Takar Jharbatita" captures a converation between fully drunk রাজা and rational সীতাপতি who is concerned about রাজা's expances and the way he wastes his money, which eventually taking him towards a condition where he will face an astounding million of ruppees of debt. The pearl like words of the song were written by great lyricist গৌরিপ্রসন্ন মজুমদার and the cheerful yet sarcastic voice of রাজা was perfectly potrayed by the legend মান্না দে! And equally the rational yet emotional voice of সীতাপতি was captured by another legend হেমন্ত মুখোপাধ্যায়! While listening to the song multiple times I had this thought, "What would সীতাপতি respond to রাজা, who is carelessly flaunting his chandelier's price and his carelessness towards his debt, just to have fun for the night; if I were the writer?" And I figured out I would make সীতাপতি more direct, agreesive who is rebeling রাজা's irresponsible behavior. I also theorized a response to সীতাপতি if I were রাজা which also more agreesive and direct that would surely hurt me if I were সীতাপতি. So in a nutshell on the way of inventing the non-trivial sequence of words I was in a superposition of রাজা and সীতাপতি's mind state. Here goes the response:
+
+<p>
+</p>
+<p>
+</p>
+
+ded
+
 **(Easily ignorable details)**
 
 Apart from my state-of-the-art interest in reading science relalted books, I love to study novels which "connects human soul and soil", mostly books written in my mother tongue Bengali. Once upon a time when I was having a long break in between the transition of school and college life, I tend to finish approximately twelve Bengali novels in month, without compromising with my hunger and sleep.  
