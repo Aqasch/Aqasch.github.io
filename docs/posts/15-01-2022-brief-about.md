@@ -35,7 +35,19 @@ permalink : /literature/
 
 <p>
 </p>
-
+<p>
+</p>
+<span style="color:red"> **Preface:** </span> The creation of this one would be quite technical so just hold on! Almost 4-5 months ago I was really indulged in the concept of Barren Plateaus (অনুরবর মালভূমি). Simulteneously I was engrossed in studying and implementing the [**variational quantum state diagonalization algorithm**](https://www.nature.com/articles/s41534-019-0167-6). To understand the অনুরবর মালভূমি I walked back to 2018 and started studying a very interesting paper titled [**Barren plateaus in quantum neural network training
+landscapes**](https://www.nature.com/articles/s41467-018-07090-4?ref=https://githubhelp.com). The primary to conclusions I got from the paper are (1) For large class of random quantum circuits (RQC), the average of the gradient of objective accumelates accross zero value, so the probability that the RQC will deviate from average by a small scalar is exponentially small with increasing dimension of system. This is also evident from [**Levy's lemma (not the Levi from AOT)**](https://bookstore.ams.org/surv-89-s). So random walks will have an exponentially small probability of exiting this barren plateau. (2) When we construct an [**ansatz**](https://medium.com/arnaldo-gunzi-quantum/what-is-ansatz-31e682b0518b) of L [**quantum logic gates**](https://en.wikipedia.org/wiki/Quantum_logic_gate) we generally have part of it parametrized and other part independent of parameter. The quantum gradient of an [**objective function**](https://en.wikipedia.org/wiki/Mathematical_optimization) (simple example energy for VQE) can then be expressed as a commutation of an Hermitian operator (simple example Hamiltonian for VQE) and the back (ansatz for 0 to k-1 operations) and forward (ansatz from k-1 to L operations) propagators of the ansatz. Now if either the back or forward proparator forms a 2-design (which gives us correct variance, hence we calculate variance of gradient to check barren plateaus) then we see an exponential decay, indicating অনুরবর মালভূমি! 
+<p>
+</p>
+Through the poem I express my awe and excitement of finding the appearance of অনুরবর মালভূমি for a toughter problem i.e. quantum state (কুয়ান্তুম দশা) diagonalization algorithm (তির্যককরন গানিতিক পরিভাষ)! <span style="color:green"> Here goes my journey and the finding </span>: 
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
 <p>অগনিত সময় ধরে ঘেঁটে গবেষণাপত্র,<br>
 আসে মস্তিকে নতুন চিন্তার বানী,<br>
 বলতে চলেছি এরুপ একটি অভিজ্ঞতার কথা,<br>
