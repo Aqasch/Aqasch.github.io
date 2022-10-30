@@ -265,7 +265,7 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 </p>
 <p>
 লাখ খানেকের দেনা না হলে,<br>
-ক্যামেরাই কি ওই উঠত ছবি? 
+ক্যামেরায় কি ওই উঠত ছবি? 
 </p>
 <p>
 </p>
