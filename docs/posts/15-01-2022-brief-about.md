@@ -272,8 +272,8 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 <p>
 </p>
 
----
 **(Easily ignorable details)**
+
 <p>
 </p>
 <p>
