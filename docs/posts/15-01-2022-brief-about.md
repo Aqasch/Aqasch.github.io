@@ -7,7 +7,15 @@ permalink : /literature/
 
 ---
 
-<span style="color:green"> **Following:** </span>\
+The list of contents are as follows:
+<ol>
+
+    <li><a href = "#books"> Books Reco and Current Read</a></li> 
+
+</ol>
+
+<h2 id="#books"> Books Reco and Current Read </h2>
+ <span style="color:green"> **Following:** </span>\
 *Musashi* by Eiji Yoshikawa.
 
 <span style="color:green"> **Most recent read:** </span>
