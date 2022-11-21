@@ -10,7 +10,10 @@ permalink : /literature/
 The list of contents are as follows:
 <ol>
 
-    <li><a href = "#books"> Books Reco and Current Read</a></li> 
+    <li><a href = "#books"> Books Reco and Current Read</a></li>
+    <li><a href = "#poem1"> Poem: গবেষণা মত্ত চিত্তে আকাশবাণী</a></li>
+    <li><a href = "#poem2"> Poem: The Fallen Castle</a></li>
+    <li><a href = "#poem3"> Poem: শিরোনামহীন </a></li>
 
 </ol>
 
@@ -38,8 +41,7 @@ The list of contents are as follows:
 - *Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics* by Giancarlo Ghirardi.
 
 ---
-
-**গবেষণা মত্ত চিত্তে আকাশবাণী**
+<h2 id="#poem1"> গবেষণা মত্ত চিত্তে আকাশবাণী </h2>
 
 <p>
 </p>
@@ -122,7 +124,7 @@ Through the poem I express my awe and excitement of finding the appearance of �
 
 ----
 ----
-**THE FALLEN CASTLE**
+<h2 id="#poem2"> THE FALLEN CASTLE </h2>
 
 <p>
 </p>
@@ -185,7 +187,8 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 </p>
 
 ----
-**শিরোনামহীন**
+<h2 id="#poem3"> শিরোনামহীন </h2>
+
 <p>
 </p>
 <p>
