@@ -8,7 +8,7 @@ title : "Intro"
 ---
 
 <!-- ![Aqasch](./img/me.jpg) -->
-[![Death in the Afternoon by Hemingway](./img/me.jpg){:height="30%" width="100%"}](https://aqasch.github.io/literature/)
+[![Death in the Afternoon by Hemingway](./img/me.jpg){:height="0.1%" width="100%"}](https://aqasch.github.io/literature/)
 
 I am a second year Doctoral Student at [**Instytut Informatyki Teoretycznej i Stosowanej, Polskiej Akademii Nauk**](https://www.iitis.pl/pl) (IITiS, PAN), Polish Academy of Sciences, and the Joint Doctoral School, [**Politechnika Śląska**](https://www.polsl.pl/en/).
 
