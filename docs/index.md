@@ -8,7 +8,7 @@ title : "Intro"
 ---
 
 <!-- ![Aqasch](./img/me.jpg) -->
-[![Death in the Afternoon by Hemingway](./img/atman_brahman.png){:height="100%" width="100%"}](https://en.wikipedia.org/wiki/Advaita_Vedanta)
+[![Above the Life and Death Cycle](./img/atman_brahman1.png){:height="100%" width="100%"}](https://en.wikipedia.org/wiki/Advaita_Vedanta)
 
 I am a Doctoral Student at [**Instytut Informatyki Teoretycznej i Stosowanej, Polskiej Akademii Nauk**](https://www.iitis.pl/pl) (IITiS, PAN), Polish Academy of Sciences, and the Joint Doctoral School, [**Politechnika Śląska**](https://www.polsl.pl/en/).
 
