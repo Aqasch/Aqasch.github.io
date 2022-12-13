@@ -293,13 +293,13 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 <p>
 </p>
 
-<span style="color:red"> **Preface:** </span> I was always a big fan of 
-<a href="https://en.wikipedia.org/wiki/Chandril_Bhattacharya"><b>চন্দ্রিল ভট্টাচার্য</b></a>. His lyrics while he was in <a href="https://en.wikipedia.org/wiki/Chandrabindoo_(band)"> <b>Chandrabindoo</b> </a> are extremely creative and intellectual. One sunday Morning I was going through his [**TEDx Talk on বাঙালীর সংস্কৃতিমনস্কতা কি কমে যাচ্ছে?**](https://www.youtube.com/watch?v=zHsfmphP_nE) not once, not twice but multiple times. His throughtful, simultaneously amusing way of presenting a very sensitive topic is unparallel and worked as an huge source of inspiration to me. <span style="color:green"> **The following is a rough extration of last few minutes from his TEDx talk** </span>:
+<span style="color:red"><b>Preface:</b></span> I was always a big fan of 
+<a href="https://en.wikipedia.org/wiki/Chandril_Bhattacharya"><b>চন্দ্রিল ভট্টাচার্য</b></a>. His lyrics while he was in <a href="https://en.wikipedia.org/wiki/Chandrabindoo_(band)"><b>Chandrabindoo</b></a> are extremely creative and intellectual. One sunday Morning I was going through his <a href="https://www.youtube.com/watch?v=zHsfmphP_nE"><b>TEDx Talk on বাঙালীর সংস্কৃতিমনস্কতা কি কমে যাচ্ছে?</b></a> not once, not twice but multiple times. His throughtful, simultaneously amusing way of presenting a very sensitive topic is unparallel and worked as an huge source of inspiration to me. <span style="color:green"><b>The following is a rough extration of last few minutes from his TEDx talk</b></span>:
 <p>
 </p>
 <p>
 </p>
-<p>আমি একজন বাঙালি আর বাঙালি হল এমন একটি জাতি যে আত্মসমালোচনার ভারতা কোনদিনও হারায়নি। 
+<p>আমি একজন বাঙালি আর বাঙালি হল এমন একটি জাতি যে আত্মসমালোচনার ভারটা কোনদিনও হারায়নি। 
 এরকম জাতি পৃথিবীতে খুব কমই দেখা যায়। মানে একটি জাতি সবসময় ভাবছে, মনে করছে যে কেউ যদি ঠিকঠাক করে আমার ভুলত্রুটি গুলিকে নির্দেশ করতে পারে, তাহলে আমার ভাল লাগবে।<br>
 
 <p>আমি এতদূরও যাচ্ছিনা যে সে বা সেই জাতি এই উল্লিখিত ভুলত্রুটি গুলোকে সংশোধিত করবে কি না। কিন্তু এই যে সেই জাতিটা, জাতির লোকটা ভাবছে এবং সেই অতীত থেকে ভেবে চলেছে যে যদি কেউ আমার দোষত্রুতিগুলিকে রসিয়ে বলতে পারে আমি হাততালি দেবো।<br>
