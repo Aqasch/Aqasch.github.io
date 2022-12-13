@@ -14,6 +14,7 @@ The list of contents are as follows:
     <li><a href = "#poem1">Poem: গবেষণা মত্ত চিত্তে আকাশবাণী</a></li>
     <li><a href = "#poem2">Poem: The Fallen Castle</a></li>
     <li><a href = "#poem3">Song: শিরোনামহীন</a></li>
+    <li><a href = "#description1">Knowing Me: আমি বাঙালি</a></li>
 
 </ol>
 
@@ -284,12 +285,13 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 <p>
 </p>
 ----
-<h2 id="bangali4">আমি বাঙালি </h2>
+<h2 id="description1">আমি বাঙালি</h2>
+
 <p>
 </p>
 <p>
 </p>
-<span style="color:red"> **Preface:** </span> I am always a big fan of [**চন্দ্রিল ভট্টাচার্য**](https://en.wikipedia.org/wiki/Chandril_Bhattacharya). His lyrics while he was in [**Chandrabindoo**](https://en.wikipedia.org/wiki/Chandrabindoo_(band)) are extremely creative and intellectual. One sunday Morning I was going through his [**TEDx Talk on বাঙালীর সংস্কৃতিমনস্কতা কি কমে যাচ্ছে?**](https://www.youtube.com/watch?v=zHsfmphP_nE) not once, not twice but multiple times. His throughtful, simultaneously amusing way of presenting a very sensitive topic is unparallel and worked as an huge source of inspiration to me. <span style="color:green"> **The following is a rough extration of last few minutes from his TEDx talk** </span>: 
+<span style="color:red"> **Preface:** </span> I am always a big fan of [**চন্দ্রিল ভট্টাচার্য**](https://en.wikipedia.org/wiki/Chandril_Bhattacharya). His lyrics while he was in [**Chandrabindoo**](https://en.wikipedia.org/wiki/Chandrabindoo_(band)) are extremely creative and intellectual. One sunday Morning I was going through his [**TEDx Talk on বাঙালীর সংস্কৃতিমনস্কতা কি কমে যাচ্ছে?**](https://www.youtube.com/watch?v=zHsfmphP_nE) not once, not twice but multiple times. His throughtful, simultaneously amusing way of presenting a very sensitive topic is unparallel and worked as an huge source of inspiration to me. <span style="color:green"> **The following is a rough extration of last few minutes from his TEDx talk** </span>:
 <p>
 </p>
 <p>
