@@ -276,7 +276,31 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 </p>
 <p>
 লাখ খানেকের দেনা না হলে,<br>
-ক্যামেরায় কি ওই উঠত ছবি? 
+ক্যামেরায় কি ওই উঠত ছবি?
+
+<p>
+</p>
+
+<p>
+</p>
+----
+<h2 id="bangali4">আমি বাঙালি </h2>
+<p>
+</p>
+<p>
+</p>
+<span style="color:red"> **Preface:** </span> I am always a big fan of [**চন্দ্রিল ভট্টাচার্য**](https://en.wikipedia.org/wiki/Chandril_Bhattacharya). His lyrics while he was in [**Chandrabindoo**](https://en.wikipedia.org/wiki/Chandrabindoo_(band)) are extremely creative and intellectual. One sunday Morning I was going through his [**TEDx Talk on বাঙালীর সংস্কৃতিমনস্কতা কি কমে যাচ্ছে?**](https://www.youtube.com/watch?v=zHsfmphP_nE) not once, not twice but multiple times. His throughtful, simultaneously amusing way of presenting a very sensitive topic is unparallel and worked as an huge source of inspiration to me. <span style="color:green"> **The following is a rough extration of last few minutes from his TEDx talk** </span>: 
+<p>
+</p>
+<p>
+</p>
+<p>আমি একজন বাঙালি আর বাঙালি হল এমন একটি জাতি যে আত্মসমালোচনার ভাড়টা কোনদিনও হারায়নি। 
+এরকম জাতি পৃথিবীতে খুব কমই দেখা যায়। মানে একটি জাতি সবসময় ভাবছে, মনে করছে যে কেউ যদি ঠিকঠাক করে আমার ভুলত্রুটি গুলিকে নির্দেশ করতে পারে, তাহলে আমার ভাল লাগবে।<br>
+
+<p>আমি এতদূরও যাচ্ছিনা যে সে বা সেই জাতি এই উল্লিখিত ভুলত্রুটি গুলোকে সংশোধিত করবে কি না। কিন্তু এই যে সেই জাতিটা, জাতির লোকটা ভাবছে এবং সেই অতীত থেকে ভেবে চলেছে যে যদি কেউ আমার দোষত্রুতিগুলিকে রসিয়ে বলতে পারে আমি হাততালি দেবো।<br>
+
+<p>এই বিশিষ্ট কোনো বড় জাত ছাড়া দেখা যায়না। কারণ নিজেকে পরীক্ষা, ওজন, নিজেকে ব্যাবচ্ছেদ করা ও এটা সহ্য করতে পারা ছাড়াও বাঙালি এটিকে তাড়িয়ে উপভোগ করে!<br>
+
 </p>
 <p>
 </p>
@@ -290,4 +314,4 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 <p>
 </p>
 Apart from my state-of-the-art interest in reading science relalted books, I love to study novels which "connects human soul and soil", mostly books written in my mother tongue Bengali. Once upon a time when I was having a long break in between the transition of school and college life, I tend to finish approximately twelve Bengali novels in month, without compromising with my hunger and sleep.  
-Just recently I discovered my love to read and write poems. During this discovery, the great Satyajit Ray's creations and hobbies worked as an inspiration to me.
+Just recently I discovered my love to read and write poems. During this discovery, the great Satyajit Ray's creations and hobbies worked as an inspiration to me. I draw and they are so abstract that I dont wanna make 'em public. 
