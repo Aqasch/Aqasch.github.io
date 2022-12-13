@@ -285,8 +285,9 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 <p>
 </p>
 
-----
-----
+
+<hr>
+
 <h2 id="description1">আমি বাঙালি</h2>
 
 <p>
@@ -312,7 +313,9 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 </p>
 <p>
 </p>
-----
+
+<hr>
+
 **(Easily ignorable details)**
 
 <p>
