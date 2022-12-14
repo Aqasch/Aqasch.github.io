@@ -23,7 +23,7 @@ Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAA
 Just initiated [**The explanation**](https://aqasch.github.io/myworks/). I wanna make it beginner friendly so please stay tuned! Lost interest temporarily.
 
 **Rough compilation of archived expressions:**\
-This an abstract collection of small, medium ad large quotes and expressions from Novels, Movies,= and a collection of conversation with Aliens and probably etc. Which can be found in <a href="https://aqasch.github.io/arch-exp/"><b>Archived Expressions</b></a>.
+This an abstract collection of small, medium ad large quotes and expressions from Novels, Movies, and a collection of conversation with Aliens and probably etc. Which can be found in <a href="https://aqasch.github.io/arch-exp/"><b>Archived Expressions</b></a>.
 
 **My Interests:**\
 [![Death in the Afternoon by Hemingway](./img/book.jpg){:height="40%" width="40%"}]( https://aqasch.github.io/literature/ )
