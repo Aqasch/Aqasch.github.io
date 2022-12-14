@@ -14,20 +14,24 @@ DC Mini, that allows the user to experience someone's dream is the core object, 
 </p>
 <p>
 </p>
-<p>"We need to find the mini (the lost one), not Paprika's bikini (which is non sensical as paprika basically a lady that appears in dreams), it requires descipline!"<br>
+<p><b>"We need to find the mini</b> (the lost one)<b>, not Paprika's bikini</b> (which is non sensical as paprika basically a lady that appears in dreams)<b>, it requires descipline!</b>"<br>
 
-<p> One of the characters shockingly says "Discipline?"<br>
+<p> One of the characters shockingly says <b>"Discipline?"</b><br>
 
-<p>"Yes sir! True satisfaction!", that what discipline brings! Even the fine court ladies dancing to frog food in drums has it, so did the world with recycled papers!"<br>
+<p><b>"Yes sir! True satisfaction! That what discipline brings! Even the fine court ladies dancing to frog food in drums has it, so did the world with recycled papers!"</b><br>
 
-<p>"Couputer graphics playing in my head, and I love it!!"<br>
+<p><b>"Computer graphics playing in my head, and I love it!!"</b><br>
 ...
+<p>
+</p>
 ...
 
-<p>"Now the time has come, to return to home, the great blue sky, where confetti falls like stardust and eberythinhg shaken around the shrine-gates and the mailbox and refrigator, leading hiphop festival!"<br>
+<p><b>"Now the time has come, to return to home, the great blue sky, where confetti falls like stardust and eberythinhg shaken around the shrine-gates and the mailbox and refrigator, leading hiphop festival!"</b><br>
 
-<p>"and the whole festival was put together by twenty third graders, lots of chutzpah and one panda!"<br>
+<p><b>"and the whole festival was put together by twenty third graders, lots of chutzpah and one panda!"</b><br>
 
 <p>Then the sublime <a href="https://www.youtube.com/watch?v=nF2oOrsea3U"><b>Parade</b></a> by <a href="https://en.wikipedia.org/wiki/Susumu_Hirasawa"><b>Susumu Hirasawa</b></a>,  begins with slow pace and gradually increases by each and every second. Simultaneously Doctor Shima runs with full force on the corridor and screams<br>
 
-<p>"You see now!? I am truly grand! The ultimate! Shine! Shine! Take me! Take me now!". Ultimately he jumps from the window, by breaking the window glass. Fortunately, his pace was quite uniform throughout the running and jumping process so his pace towards the ground from (probably) the 3rd floor of the building hindered by the tree branches and he just broke a few bones.<br>
+<p><b>"You see now!? I am truly grand! The ultimate! Shine! Shine! Take me! Take me now!"</b><br>
+
+<p>Ultimately he jumps from the window, by breaking the window glass. Fortunately, his pace was quite uniform throughout the running and jumping process so his pace towards the ground from (probably) the 3rd floor of the building hindered by the tree branches and he just broke a few bones.<br>
