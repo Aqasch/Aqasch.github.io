@@ -7,16 +7,23 @@ permalink : /literature/
 
 ---
 
-The list of contents are as follows:
+## <b>The list of contents:</b>
 <ol>
 
     <li><a href = "#books">Books Reco and Current Read</a></li>
     <li><a href = "#poem1">Poem: গবেষণা মত্ত চিত্তে আকাশবাণী</a></li>
     <li><a href = "#poem2">Poem: The Fallen Castle</a></li>
     <li><a href = "#poem3">Song: শিরোনামহীন</a></li>
-    <li><a href = "#description1">Knowing Me: আমি বাঙালি</a></li>
+    <li><a href = "#bengali">Knowing Me: আমি বাঙালি</a></li>
 
 </ol>
+
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
 
 <h2 id="books">Books Reco and Current Reading</h2>
  <span style="color:green"> **Following:** </span>\
@@ -288,7 +295,7 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 
 <hr>
 
-<h2 id="description1">আমি বাঙালি</h2>
+<h2 id="bengali">আমি বাঙালি</h2>
 
 <p>
 </p>
