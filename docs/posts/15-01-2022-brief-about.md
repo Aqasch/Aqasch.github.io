@@ -328,7 +328,7 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 <hr>
 <hr>
 
-**(Easily ignorable details)**
+## <b>Easily ignorable details</b>
 
 <p>
 </p>
