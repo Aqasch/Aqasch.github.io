@@ -21,7 +21,7 @@ DC Mini, that allows the user to experience someone's dream is the core object, 
 <p><b>"Yes sir! True satisfaction! That what discipline brings! Even the fine court ladies dancing to frog food in drums has it, so did the world with recycled papers!"</b><br>
 
 <p><b>"Computer graphics playing in my head, and I love it!!"</b><br>
-...\
+<p>...<br>
 ...
 
 <p><b>"Now the time has come, to return to home, the great blue sky, where confetti falls like stardust and everything shaken around the shrine-gates and the mailbox and refrigator, leading hiphop festival!"</b><br>
