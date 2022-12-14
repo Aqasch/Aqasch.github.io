@@ -71,3 +71,20 @@ To investigate the above incident Detective Toshimi Konakawa indulge in a conver
 <p>Then the doctor continues <b>"The nonlinear waves, that are created by the constant surges in the biochemical current can be applied to create new synapse connections, when the old ones are damaged, and the by product of this excess energy can be harvested by adjusting the <a href="https://en.wikipedia.org/wiki/British_thermal_unit">BTU output</a>."</b><br>
 
 <p>The detective then says <b>"... interesting! So DC Mini can analyse dreams,</b> (that has potential application in the process of) <b>cure illness and use the person's body</b> (indicating the adjustment of BTU output) <b>for energy!</b>"
+
+</p>
+<p>
+</p>
+<p>
+</p>
+
+<hr>
+<hr>
+
+<h2 id="agantuk_on_shovotta"><b>সভ্য কারা জানেন?</b></h2>
+
+আগন্তুক is undoubtedly a masterpiece in the world of art and films and produced by none other than the great সত্যজিৎ রায়.
+
+<b>“সভ্য কারা জানেন? সভ্য হচ্ছে সেই মানুষ, যে আঙ্গুলের একটি চাপে, একটি বোতামটিপে, একটি ব্রহ্মাস্ত্র নিক্ষেপ করে, সমস্থ অধিবাসীসমেত একটি গোঁটা শহরকে নিশ্চিহ্ন করে দিতে পারে!"<br>
+
+<b>"এবং সভ্য কারা জানেন? যারা এই অস্ত্র প্রয়োগের সিদ্ধিন্ত নিতে পারে without turning a hair”</b> 

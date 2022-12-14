@@ -48,7 +48,9 @@ permalink : /literature/
 - *Thermodynamics* by Enrico Fermi.
 - *Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics* by Giancarlo Ghirardi.
 
----
+<hr>
+<hr>
+
 <h2 id="poem1">গবেষণা মত্ত চিত্তে আকাশবাণী</h2>
 
 <p>
@@ -130,8 +132,9 @@ Through the poem I express my awe and excitement of finding the appearance of �
 ভিন্নশ্রেণীর মাত্রার সাথে নতিমাত্রার ভিন্নতার সূচকীয় হ্রাসের লীলা।
 </p>
 
-----
-----
+<hr>
+<hr>
+
 <h2 id="poem2">The Fallen Castle</h2>
 
 <p>
@@ -190,11 +193,12 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 
 <p>
 </p>
-
 <p>
 </p>
 
-----
+<hr>
+<hr>
+
 <h2 id="poem3">শিরোনামহীন</h2>
 
 <p>
@@ -292,7 +296,7 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 <p>
 </p>
 
-
+<hr>
 <hr>
 
 <h2 id="bengali">আমি বাঙালি</h2>
@@ -321,6 +325,7 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 <p>
 </p>
 
+<hr>
 <hr>
 
 **(Easily ignorable details)**
