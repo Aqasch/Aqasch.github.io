@@ -296,7 +296,7 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 </p>
 
 <span style="color:red"><b>Preface:</b></span> I was always a big fan of 
-<a href="https://en.wikipedia.org/wiki/Chandril_Bhattacharya"><b>চন্দ্রিল ভট্টাচার্য</b></a>. His lyrics while he was in band <a href="https://en.wikipedia.org/wiki/Chandrabindoo_(band)"><b>চন্দ্রবিন্দু </b></a> are extremely creative and intellectual. One sunday Morning I was going through his <a href="https://www.youtube.com/watch?v=zHsfmphP_nE"><b>TEDx Talk on বাঙালীর সংস্কৃতিমনস্কতা কি কমে যাচ্ছে?</b></a> not once, not twice but multiple times. His throughtful, simultaneously amusing way of presenting a very sensitive topic is unparallel and worked as a huge source of inspiration to me. <span style="color:green"><b>The following is a rough extration of last few minutes from his TEDx talk</b></span>:
+<a href="https://en.wikipedia.org/wiki/Chandril_Bhattacharya"><b>চন্দ্রিল ভট্টাচার্য</b></a>. His lyrics while he was in band <a href="https://en.wikipedia.org/wiki/Chandrabindoo_(band)"><b>চন্দ্রবিন্দু </b></a> are extremely creative and intellectual. One sunday Morning I was going through his <a href="https://www.youtube.com/watch?v=zHsfmphP_nE"><b>TEDx Talk on বাঙালীর সংস্কৃতিমনস্কতা কি কমে যাচ্ছে?</b></a> not once, not twice but multiple times. His throughtful, simultaneously amusing way of presenting a very sensitive topic is unparallel and worked as a huge source of inspiration to me. <span style="color:green"><b>The following is a rough extraction of last few minutes from his TEDx talk</b></span>:
 <p>
 </p>
 <p>

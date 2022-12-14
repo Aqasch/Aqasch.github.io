@@ -12,15 +12,18 @@ title : "Intro"
 
 I am a Doctoral Student at [**Instytut Informatyki Teoretycznej i Stosowanej, Polskiej Akademii Nauk**](https://www.iitis.pl/pl) (IITiS, PAN), Polish Academy of Sciences, and the Joint Doctoral School, [**Politechnika Śląska**](https://www.polsl.pl/en/).
 
-I am currently working under the research project [**Impact of input data alteration and modification of the algorithm parameters on the efficiency of quantum programs**](https://miszczak.eu/grants/qprogmods/), where the works are fundamentally realted to a class of variational quantum algorithms and quantum annealing.
+I am currently working under the research project [**Impact of input data alteration and modification of the algorithm parameters on the efficiency of quantum programs**](https://miszczak.eu/grants/qprogmods/), where the works are fundamentally realted to a class of variational quantum algorithms utilizing Reinforcement Learning methods.
 
-----
+<hr>
 
 **Here is the the list of publications:**\
 Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en).
 
 **Simple explanation to some of my works:**\
-Just initiated [**The explanation**](https://aqasch.github.io/myworks/). I wanna make it beginner friendly so please stay tuned! Thanks!!
+Just initiated [**The explanation**](https://aqasch.github.io/myworks/). I wanna make it beginner friendly so please stay tuned! Lost interest temporarily.
+
+**Rough compilation of archived expressions:**\
+This an abstract collection of small, medium ad large quotes and expressions from Novels, Movies,= and a collection of conversation with Aliens and probably etc. Which can be found in <a href="https://aqasch.github.io/arch-exp/"><b>Archived Expressions</b></a>.
 
 **My Interests:**\
-[![Death in the Afternoon by Hemingway](./img/book.jpg){:height="60%" width="60%"}]( https://aqasch.github.io/literature/ )
+[![Death in the Afternoon by Hemingway](./img/book.jpg){:height="40%" width="40%"}]( https://aqasch.github.io/literature/ )
