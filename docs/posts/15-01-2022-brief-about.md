@@ -335,4 +335,4 @@ I wish they knew, the concrete of the castle turning more alive as time heading 
 <p>
 </p>
 Apart from my state-of-the-art interest in reading science relalted books, I love to study novels which "connects human soul and soil", mostly books written in my mother tongue Bengali. Once upon a time when I was having a long break in between the transition of school and college life, I tend to finish approximately twelve Bengali novels in month, without compromising with my hunger and sleep.  
-Just recently I discovered my love to read and write poems. During this discovery, the great Satyajit Ray's creations and hobbies worked as an inspiration to me. I draw and they are so abstract that I dont wanna make 'em public. 
+Just recently I discovered my love to read and write poems. During this discovery, the great Satyajit Ray's creations and hobbies worked as an inspiration to me. I draw and they are so abstract that I dont wanna make 'em public.
