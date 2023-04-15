@@ -20,7 +20,7 @@ I am currently working under the research project [**Impact of input data altera
 Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en).
 
 **Simple explanation to some of my works:**\
-Just initiated [**The explanation**](https://aqasch.github.io/myworks/). I wanna make it beginner friendly so please stay tuned! Lost interest temporarily.
+Just initiated [**The explanation**](https://aqasch.github.io/atmadarshan/). I wanna make it beginner friendly so please stay tuned! Lost interest temporarily.
 
 **Rough compilation of archived expressions:**\
 This an abstract collection of small, medium ad large quotes and expressions from Novels, Movies, and a collection of conversation with Aliens and probably etc. Which can be found in <a href="https://aqasch.github.io/arch-exp/"><b>Archived Expressions</b></a>.
