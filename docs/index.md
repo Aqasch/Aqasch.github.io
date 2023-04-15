@@ -20,7 +20,7 @@ I am currently working under the research project [**Impact of input data altera
 Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en).
 
 **Simple explanation to Foundtional texts in Indian Philosophy:**\
-Just initiated [**The explanation**](https://aqasch.github.io/atmadarshan/://aqasch.github.io/atmadarshan/).
+Just initiated [**The explanation**](https://aqasch.github.io/atmadarshan/).
 
 **Rough compilation of archived expressions:**\
 This an abstract collection of small, medium ad large quotes and expressions from Novels, Movies, and a collection of conversation with Aliens and probably etc. Which can be found in <a href="https://aqasch.github.io/arch-exp/"><b>Archived Expressions</b></a>.
