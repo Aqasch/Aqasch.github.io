@@ -17,7 +17,7 @@ In the following I present my understanding based elaboration and illustration o
 
 ### <span style="color:red"> **Why it is important to study?** </span>
 <p>In Indian tradition there is word called “Parampara” that literally means a continuous flow, just like a river. So if you get into the river you temporarily become the part of the flow. </p>
-<p>Indian spiritual and philosophical traditions are just like a continuous a continuous flow. Hence it represents a succession of the teacher and the student where the student becomes an integral part of the teacher’s lineage [2].</p>
+<p>Indian spiritual and philosophical traditions are just like a continuous a continuous flow. Hence it represents a succession of the teacher and the student where the student becomes an integral part of the teacher’s lineage.</p>
 <p>
 </p>
 <p>
