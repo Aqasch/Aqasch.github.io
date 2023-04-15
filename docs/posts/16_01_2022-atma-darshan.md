@@ -11,7 +11,7 @@ img {
 }
 </style>
 
-In the following I present my understanding based elaboration and illustration of The Foundational text in Indian Philosophy. All the images are unique and proper references are mentioned in the text.
+In the following I am presenting my understanding based elaboration and illustration of The Foundational text in Indian Philosophy. All the images are unique and proper references are mentioned in the text. <b>My special thanks to Aritra Sarkar, Tamal Acharya and Chandika Pegu for going though the article and valuable comments</b>.
 <p>
 </p>
 
@@ -29,7 +29,7 @@ In the following I present my understanding based elaboration and illustration o
 <p>While discussing philosophy an ideal teacher should give justice to the subject the teacher is dealing with, which means whenever a statement is made in the process of learning the teacher must give scriptural/textural link from where it is coming.</p>
 <p>This is quite important in the modern era of Internet. The main reason behind this is if someone teaches a system of philosophy or spirituality without giving any connections with the teachers or ancient masters then it could be anything from a crazy non-authentic idea to a wild spiritual fantasy of his/her mind that can spread around the world to bind a group of people into a belief or understanding that does not have a scriptural testimony. 
 As an example, Mindfulness, whose essence is being in a state of absolute and complete awareness and detachment is a very important and popular in modern times, which is based on a Buddhist canonical literature called <b> Mahā Satipaṭṭhāna Sutta (in Pali)</b> which translates into <b>“the establishing (upaṭṭhāna) of mindfulness (sati)” or Mahā Smṛtyupasthāna (in Sanskrit)</b>. There are two verses <b>Mahā Satipaṭṭhāna Sutta</b> represents the bigger full version of the verse whereas <b>Satipaṭṭhāna Sutta</b> is the smaller one. </p>
-<p>Now suppose while teaching this you forget Buddha or you refuse to accept any connection with the real great Buddha then the whole topic of <b>“Mindfulness”</b> will be like <b>“A Piece of Dry Leaf Floating in the Air”</b> one day it could be for forgotten. </p>
+<p>Now suppose while teaching this you forget Buddha or you refuse to accept any connection with the real great Buddha then the whole topic of <b>“Mindfulness”</b> will be like <b>“A Piece of Dry Leaf Floating in the Air”</b> one day it could be forgotten. </p>
 <p>And if you always refer the topic of Mindfulness with the background of a great spiritual teacher, the World once produced, who himself was an embodiment of Mindfulness then the question of getting deviated from the main essence of the practice never arises due to its unshakable root.</p>
 
 <p>
