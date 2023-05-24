@@ -38,7 +38,7 @@ As "Human" intelligence evolved they turned more evil and during 18th and 19th c
 </p>
 The Earthlings should have responsibility and duties for each other or they are all independent. Which means either "Human" have duties to "Animal" or they do not. And if "Human" do have duties then they should include one of the most important traits of a civilization in their duty toward "Animal" and that is respect and resprcting the interests that are most important to "Animal" as long as they do not conflict with "Human". One such default interest of "Animal" is not detaching them from the open wild life and keeping them in confinement. Earthlings are all equal so this interest should be respected. The later case that "Human" do not have duties to "Animal" is out of the discussion as it is implausable in the sense that all Earthlings have emotions and "Animal" majority of the time sustain "Human" emotions. So with the sense of being grateful "Human" inevitably should have duty towards "Animal". <b>(Stay tuned ...)</b>
 
-</p>
+
 <p>
 </p>
 <p>
