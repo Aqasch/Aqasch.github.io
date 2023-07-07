@@ -12,7 +12,7 @@ permalink : /arch-exp/
     <li><a href = "#against_zoos">Are you serious Zoos!?</a></li>
     <li><a href = "#shima_on_mini">Doctor Toratarō Shima on finding the DC Mini</a></li>
     <li><a href = "#brief_on_mini">A Brief on DC Mini</a></li>
-    <li><a href = "#impact_musashi">Impace of Musashi</a></li>
+    <li><a href = "#impact_musashi">Impact of Musashi</a></li>
     <li><a href = "#defeating_pain_with_pain">Defeating Pain with Pain</a></li>
     
 
@@ -113,7 +113,8 @@ To investigate the above incident Detective Toshimi Konakawa indulge in a conver
 
 আগন্তুক is undoubtedly a masterpiece in the world of art and films and produced by none other than the great সত্যজিৎ রায়.
 
-<b>“সভ্য কারা জানেন? সভ্য হচ্ছে সেই মানুষ, যে আঙ্গুলের একটি চাপে, একটি বোতামটিপে, একটি ব্রহ্মাস্ত্র নিক্ষেপ করে, সমস্থ অধিবাসীসমেত একটি গোঁটা শহরকে নিশ্চিহ্ন করে দিতে পারে!"<br>
+<b>“সভ্য কারা জানেন? সভ্য হচ্ছে সেই মানুষ, যে আঙ্গুলের একটি চাপে, একটি বোতামটিপে, একটি ব্রহ্মাস্ত্র নিক্ষেপ করে, সমস্থ অধিবাসীসমেত একটি গোঁটা শহরকে নিশ্চিহ্ন করে দিতে পারে!"</b>
+<br>
 
 <b>"এবং সভ্য কারা জানেন? যারা এই অস্ত্র প্রয়োগের সিদ্ধিন্ত নিতে পারে without turning a hair”</b> 
 
