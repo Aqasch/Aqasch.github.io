@@ -10,9 +10,9 @@ title : "Intro"
 <!-- ![Aqasch](./img/me.jpg) -->
 [![Above the Life and Death Cycle](./img/atman_brahman1.png){:height="100%" width="100%"}](https://en.wikipedia.org/wiki/Advaita_Vedanta)
 
-I am a Doctoral Student at [**Instytut Informatyki Teoretycznej i Stosowanej, Polskiej Akademii Nauk**](https://www.iitis.pl/pl) (IITiS, PAN), Polish Academy of Sciences, and the Joint Doctoral School, [**Politechnika Śląska**](https://www.polsl.pl/en/).
+I am a Doctoral Student at [**Instytut Informatyki Teoretycznej i Stosowanej, Polskiej Akademii Nauk (IITiS, PAN)**](https://www.iitis.pl/pl) and the Joint Doctoral School, [**Politechnika Śląska**](https://www.polsl.pl/en/).
 
-I am currently working under the research project [**Impact of input data alteration and modification of the algorithm parameters on the efficiency of quantum programs**](https://miszczak.eu/grants/qprogmods/), where the works are fundamentally realted to a class of variational quantum algorithms utilizing Reinforcement Learning methods.
+I am currently working under the research project [**Impact of input data alteration and modification of the algorithm parameters on the efficiency of quantum programs**](https://miszczak.eu/grants/qprogmods/), where the works are fundamentally realted to the improvement of a class of [**Variational Quantum Algorithms**](https://www.nature.com/articles/s42254-021-00348-9) utilizing [**Reinforcement Learning**](https://medium.com/@mlblogging.k/7-must-read-books-for-reinforcement-learning-2847198c2163) methods.
 
 <hr>
 
