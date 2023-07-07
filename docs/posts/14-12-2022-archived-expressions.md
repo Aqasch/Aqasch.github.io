@@ -9,9 +9,11 @@ permalink : /arch-exp/
 ## <b>The list of contents:</b>
 <ol>
 
-    <li><a href = "#against zoos">Are you serious Zoos!?</a></li>
+    <li><a href = "#against_zoos">Are you serious Zoos!?</a></li>
     <li><a href = "#shima_on_mini">Doctor Toratarō Shima on finding the DC Mini</a></li>
     <li><a href = "#brief_on_mini">A Brief on DC Mini</a></li>
+    <li><a href = "#impact_musashi">Impace of Musashi</a></li>
+    <li><a href = "#defeating_pain_with_pain">Defeating Pain with Pain</a></li>
     
 
 </ol>
@@ -23,7 +25,7 @@ permalink : /arch-exp/
 <p>
 </p>
 
-<h2 id="against zoos"><b>Are you serious Zoos!?</b></h2>
+<h2 id="against_zoos"><b>Are you serious Zoos!?</b></h2>
 A group of higher life form in a distant plant (or probably a star) is currently waiting to introduce themselves to the Earthlings. Their half-life makes the half-life of Plutonium shy. They are observing the Earthlings for the last 961115 years. They saw how the species on Earth discovered the application of fire, and how they made transition smoother by utilizing circular objects called "wheels". They noticed the mesmerizing evolution of the long neck of a group of Earthlings and in another group, the arms got evolved into the wings. The higher life form shows an enormous appreciation towards the development of intelligence of the Earthlings. They just can not wait to meet the Earthlings and congratulate on their achievement. But the only hindrance in this sublime connection is a group of Earthlings called "Human".
 <p>
 </p>
@@ -114,3 +116,37 @@ To investigate the above incident Detective Toshimi Konakawa indulge in a conver
 <b>“সভ্য কারা জানেন? সভ্য হচ্ছে সেই মানুষ, যে আঙ্গুলের একটি চাপে, একটি বোতামটিপে, একটি ব্রহ্মাস্ত্র নিক্ষেপ করে, সমস্থ অধিবাসীসমেত একটি গোঁটা শহরকে নিশ্চিহ্ন করে দিতে পারে!"<br>
 
 <b>"এবং সভ্য কারা জানেন? যারা এই অস্ত্র প্রয়োগের সিদ্ধিন্ত নিতে পারে without turning a hair”</b> 
+
+<p>
+</p>
+<p>
+</p>
+
+<hr>
+<hr>
+
+<h2 id="impact_musashi"><b>Impact of Musashi</b></h2>
+
+I am reading Musashi by Eiji Yoshikawa for almost more than a year. I naver took this long time to finish a book that is slightly under thousands pages long. But there is an inherent reason I took my sweet time to go though it and this is I was studying each and every chapter of it in a detailed manner. Which not only helped me understand the socio-political condition in regions like Osaka or Kyoto during Musashi's time but I got got a chance to connect with the characters like Akemi, Matahachi, Otsu, Otsugi and even Uncle Gon who died while trying to save Akemi (who was about to finish herself by drowning in water) in the very early chapters of the book. I can now proudly say that I partially got a hold on to "The Way of the Sword" of Myamoto Musashi. And how he by self exploring and utilizing his external awareness learned profound things from simple appearances. This not only made the root of his philosophical realizations strong but later using these learnings he could explore and introduced his own invented art of the sword.
+I have finished my very first read of Musashi on July 4th at Gubałówka.
+
+<p>
+</p>
+<p>
+</p>
+
+<hr>
+<hr>
+
+<h2 id="defeating_pain_with_pain"><b>Defeating Pain with Pain</b></h2>
+
+<p>I love running. But when I attempted to run in my newly brought running shoes, I noticed a growing pain on the back of my toe. The pain in the next 2 weeks turned into a swollen painful bulge and I could hardly walk. I had enough of applying medicine to the swollen area, it was barely improving the situation.
+</p>
+
+<p>
+Last week (on 28th June 2023) in the afternoon I suddenly remember Musashi and how he faced the same situation as me while he was visiting the famous blacksmith Shishido Baiken of Kuwana. There he spent the whole night and day applying various natural remedies to his swollen foot. All his attempts were futile. In the next few days, Musashi was supposed to face the great Yoshioka school(which later went down in history as one of the most remarkable fights, where one man defeats a whole clan). He then forced himself to sit on his haunches in a formal style which caused so much pain that it almost made fainted him. Which seating he opened his eyes and a soaring peak between Mount Mae and Mount Asama. He saw the peak, it was Eagle Mountain, he did not know that but he thought "its an eagle". Making the peak as his destination, he had a go, with the unbearable pain on his foot and a red demonic face which shouted "I will win, I will!". The trees, the weeds and the ice-- all were his enemies at this point trying desperately to keep him from reaching the top. Every step, breath was a pure challenge. His chilled body in fever boiled in determination. The more he was reaching the top, the harder it was for him to hold on as a single misstep might lead to a fall in the cascade of rocks and boulders. But he went on and on, holding tightly whatever was in his reach. Pulling himself upper and upper, suddenly he found himself laying on his stomach, realizing he reached the top. Forgetting about his tiresome situation and swollen foot, he stood up and started jumping with a feeling of achievement. "There is nothing above me! I'm standing on the top of eagle's head!". Calming himself down he look down on his foot and saw a bucketful of yellowish push stream from his injured foot.
+</p>
+
+<p>
+That evening after reflecting on this incident and hearing about Mount Rysy (the highest peak in Poland), I decided to climb it with my swollen foot. On 2nd July 2023 from Moroskie Oko I had a go to Rysy around 9:30 am. At first 20 minutes, it was well and good. Then as the slope turned steeper, I started feeling discomfort on the back of my feet, which in the next couple of minutes started to convert into pain. In the next 15-17 minutes it was unbearable for me to take proper steps. Even once I removed my shoes to reveal the red bulge to the wind. I kept on climbing keeping Musashi's struggle in my mind. After reaching 2250 meters each stone, each lump of ice and each turn of rocky climb was imposing an enormous challenge to me. I was drinking water more than usual, finishing 2 and a half (one litre each) bottles of water to climb the next 150 meters. I was in so much pain that I could not feel the physical exhaustion. I was so dedicatedly climbing upwards that when I reached the top I did not even realize it. After a man who was standing in the front told me that congratulations you are here, I sat in relief and removed my shoes. What I saw made me filled with satisfaction. I saw that the bulge no more exists, instead, it is covered by blood and it's flat! I did not shout like Miyamoto Musashi but in my heart, I said "There is nothing above me, I am standing on the top, just like you Master!".
+</p>
