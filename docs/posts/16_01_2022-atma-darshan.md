@@ -211,7 +211,14 @@ The title of this section was <b>quoted by the great physicist J. Robert Oppenhe
 
 <p>
 </p>
+
+There are a total of 18 chapters and a whopping 200,000 verses in the epic <a href="https://en.wikipedia.org/wiki/Mahabharata"><b>The Mahabharata</b></a>. <a href="https://en.wikipedia.org/wiki/Bhagavad_Gita"><b>Bhagavad Gita</b></a> is a Hindu sculpture that contains 700 verses from The Mahabharata. The Bhagvad Gita captures the conversation between the <a href="https://en.wikipedia.org/wiki/Krishna"><b>Lord Krishna</b></a> and Pandavas prince <a href="https://en.wikipedia.org/wiki/Arjuna"><b>Arjuna</b></a> in the battle field of <a href="https://en.wikipedia.org/wiki/Kurukshetra"><b>Kurukshetra</b></a>, facing an opposing army that contains his close relatives. Faving them Arjuna is completely torn. In the midst of this Lord Krishna teaches him about a higher philosophy that will enable him to carry out his duties as a warrior irrespective of his personal concerns.
+
 <p>
 </p>
 
-There are a total of 18 chapters and a whopping 200,000 verses in the epic <a href="https://en.wikipedia.org/wiki/Mahabharata"><b>The Mahabharata</b></a>. <a href="https://en.wikipedia.org/wiki/Bhagavad_Gita"><b>Bhagavad Gita</b></a> is a Hindu sculpture that contains 700 verses from The Mahabharata. The Bhagvad Gita captures the conversation between the <a href="https://en.wikipedia.org/wiki/Krishna"><b>Lord Krishna</b></a> and Pandavas prince <a href="https://en.wikipedia.org/wiki/Arjuna"><b>Arjuna</b></a> in the battle field of <a href="https://en.wikipedia.org/wiki/Kurukshetra"><b>Kurukshetra</b></a>, facing an opposing army that contains his close relatives. Faving them Arjuna is completely torn. In the midst of this Lord Krishna teaches him about a higher philosophy that will enable him to carry out his duties as a warrior irrespective of his personal concerns.
+During the 10th verse Arjuna askes Lord Krishna to show his true form. In the 11th verse Lord Krishna reveals his true form which is famously known as <b>Viśhwarūp Darśhan</b> but before that he gave Arjuna a glimpse of his true form in the 10th chapter and is captured by <a href="https://en.wikipedia.org/wiki/Sanjaya"><b>Snajaya</b></a> through the 34th verse:
+
+<p>
+</p>
+<center><span style="color:red"> <b>मृत्यु: सर्वहरश्चाहमुद्भवश्च भविष्यताम् | कीर्ति: श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृति: क्षमा || 34||</b> </span></center>
