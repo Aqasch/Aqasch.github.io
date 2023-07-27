@@ -82,7 +82,6 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 ### <span style="color:red"> **The Origin of the Four Schools of Buddhism** </span>
 
 
-### "Now I Am Become Death, the Destroyer of Worlds"
 <p>Before talking elaborately about the four schools of Buddhism that emerged in India long after Buddha’s passing, we must understand that The Buddha was not concerned about the metaphysics or philosophy, his system of teaching was purely based on a desire. A desire to see people living a good life in this world. His teachings were not concerned on life after death.</p>
 
 <p>We can divide Buddhism into two stages as (1) Early (2) Later developements in Buddhism. Which is illustrated in following:</p>
@@ -167,19 +166,6 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <p>
 </p>
 
-<span style="color:red"> <u><b>REFERENCES</b></u> </span>
-
-<p> 
-[1] <a href="https://www.youtube.com/watch?v=mnQ0G00w3iQ&list=PLDqahtm2vA73W7DqEsvSs56eYXJ3jJlHc"><b>The Foundational Texts of Indian Philosophy (Overview) by Swami Tattwamayananda</b></a></p>
-
-<p> 
-[2] <a href="https://www.youtube.com/watch?v=B_7nfOMCsj0&list=PL2imXor63HtRJbtP4mMt-Q2ke8XOkL7pX&index=44"><b>Mandukya Upanishad (Chapter 3 Karika 29-30) by Swami Sarvapriyananda</b></a></p>
-
-<p> 
-[3] <a href="http://www.hathajoga.com.pl/joga/czytelnia/parampara"><b>Definition of Parampara</b></a></p>
-
-<p> 
-[4] <a href="https://www.dhammatalks.org/suttas/DN/DN22.html"><b>Mindfulness</b></a></p>
 
 
 ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
