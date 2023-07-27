@@ -81,6 +81,8 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 
 ### <span style="color:red"> **The Origin of the Four Schools of Buddhism** </span>
 
+
+### "Now I Am Become Death, the Destroyer of Worlds"
 <p>Before talking elaborately about the four schools of Buddhism that emerged in India long after Buddha’s passing, we must understand that The Buddha was not concerned about the metaphysics or philosophy, his system of teaching was purely based on a desire. A desire to see people living a good life in this world. His teachings were not concerned on life after death.</p>
 
 <p>We can divide Buddhism into two stages as (1) Early (2) Later developements in Buddhism. Which is illustrated in following:</p>
@@ -136,8 +138,7 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <p>
 </p>
 
-<center><span style="color:red"> <b>" Is reality something that exists?”</b> </span>
-</center>
+<center><span style="color:red"> <b>" Is reality something that exists?”</b> </span></center>
 
 <p>
 </p>
