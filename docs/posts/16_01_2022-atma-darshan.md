@@ -181,7 +181,7 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 [4] <a href="https://www.dhammatalks.org/suttas/DN/DN22.html"><b>Mindfulness</b></a></p>
 
 
-## <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
 
 The title of this section was <b>quoted by the great physicist J. Robert Oppenheimer</b> when he was expreincing the detonation of the first atomic weapon in the year 1945. Some of us might be able to recreate the scenario using our imaginations, where a growing mountain sized mushroom cloud of fire suddenly appears in front of your eyes followed by a burst of wind as an aftermath of the explosion. It is probably like seeing a thousands sun sets together in front of you and you as an observer just stare in astonishment. But here we will not explore the psycological aspect of Oppenheimer but we stress on understanding the source of this beautifully horryfing quote and its original meaning.
 
@@ -190,4 +190,4 @@ The title of this section was <b>quoted by the great physicist J. Robert Oppenhe
 <p>
 </p>
 
-There are a total of 18 chapters and a whopping 200,000 verses in the epic <a href="https://en.wikipedia.org/wiki/Mahabharata"><b>The Mahabharata</b></a>. <a href="https://en.wikipedia.org/wiki/Bhagavad_Gita"><b>Bhagavad Gita</b></a> is a Hindu sculpture that contains 700 verses from The Mahabharata. The Bhagvad Gita captures the conversation between the <a href="https://en.wikipedia.org/wiki/Krishna"><b>Lord Krishna</b></a> and Pandavas prince <a href="https://en.wikipedia.org/wiki/Arjuna"><b>Arjuna</b></a> in the battle field of <a href="https://en.wikipedia.org/wiki/Kurukshetra"><b>Kurukshetra</b></a> 
+There are a total of 18 chapters and a whopping 200,000 verses in the epic <a href="https://en.wikipedia.org/wiki/Mahabharata"><b>The Mahabharata</b></a>. <a href="https://en.wikipedia.org/wiki/Bhagavad_Gita"><b>Bhagavad Gita</b></a> is a Hindu sculpture that contains 700 verses from The Mahabharata. The Bhagvad Gita captures the conversation between the <a href="https://en.wikipedia.org/wiki/Krishna"><b>Lord Krishna</b></a> and Pandavas prince <a href="https://en.wikipedia.org/wiki/Arjuna"><b>Arjuna</b></a> in the battle field of <a href="https://en.wikipedia.org/wiki/Kurukshetra"><b>Kurukshetra</b></a>, facing an opposing army that contains his close relatives. Faving them Arjuna is completely torn. In the midst of this Lord Krishna teaches him about a higher philosophy that will enable him to carry out his duties as a warrior irrespective of his personal concerns.
