@@ -148,24 +148,6 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <p>(3) <b>Conjunction:</b> It exists and it does not exists.</p> 
 <p>(4) <b>Denial of Conjunction:</b> It neither exists and it nor does not exists.</p>
 
-<p>
-</p>
-<center><span style="color:green"> <b>In simple words Nāgārjuna in Mūlamadhyamakakārikā denies the "Catuṣkoṭi" and that the reality is beyond the four alternatives. Which can not be expressed or preceived. In the response to the critiques who consider "Buddhists as Nihilists" Nāgārjuna in a separate verse of Mūlamadhyamakakārikā says "Thos who charge us of being Nihilists they do us an injustice".</b> </span></center>
-
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
-
-<b>(Stay tuned...)</b>
-
-<p>
-</p>
-<p>
-</p>
-
 
 
 ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
