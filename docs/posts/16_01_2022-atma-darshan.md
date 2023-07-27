@@ -137,19 +137,6 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <p>
 </p>
 
-<center><span style="color:red"> <b>" Is reality something that exists?”</b> </span></center>
-
-<p>
-</p>
-
-<p> One can formulate four possible responses which is called <b>"Catuṣkoṭi"</b>. And they are as follows: </p>
-<p>(1) <b>Positive:</b> It exists.</p> 
-<p>(2) <b>Negative:</b> It does not exists.</p>
-<p>(3) <b>Conjunction:</b> It exists and it does not exists.</p> 
-<p>(4) <b>Denial of Conjunction:</b> It neither exists and it nor does not exists.</p>
-
-
-
 ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
 
 The title of this section was <b>quoted by the great physicist J. Robert Oppenheimer</b> when he was expreincing the detonation of the first atomic weapon in the year 1945. Some of us might be able to recreate the scenario using our imaginations, where a growing mountain sized mushroom cloud of fire suddenly appears in front of your eyes followed by a burst of wind as an aftermath of the explosion. It is probably like seeing a thousands sun sets together in front of you and you as an observer just stare in astonishment. But here we will not explore the psycological aspect of Oppenheimer but we stress on understanding the source of this beautifully horryfing quote and its original meaning.
