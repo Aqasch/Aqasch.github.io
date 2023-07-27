@@ -82,15 +82,15 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 ### <span style="color:red"> **The Origin of the Four Schools of Buddhism** </span>
 
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 
 <p>Before talking elaborately about the four schools of Buddhism that emerged in India long after Buddha’s passing, we must understand that The Buddha was not concerned about the metaphysics or philosophy, his system of teaching was purely based on a desire. A desire to see people living a good life in this world. His teachings were not concerned on life after death.</p>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 
 <p>We can divide Buddhism into two stages as (1) Early (2) Later developements in Buddhism. Which is illustrated in following:</p>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 
 <p>
 </p>
@@ -98,13 +98,14 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <img src="../img/four_buddhist_schools.png" alt="Four Buddhist Schools" style="width:600px;height:500px;">
 </center>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 <p>
 </p>
 
 <p> Among the Four Buddhist Schools <b>Sautrāntika and Vaibhāṣika are part of Theravāda</b> whereas <b>Sunyavada and Vigyanvada (or Yogachara ) are part of Mahayana</b> as depicted in the following:
+</p>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 
 <p>
 </p>
@@ -112,14 +113,14 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <img src="../img/four_buddhist_schools_extended.png" alt="Four Buddhist Schools Extended" style="width:600px;height:500px;">
 </center>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 
 <p>
 </p>
 
 <p>The four schools are classified according to epistemology i.e. the theory of knowledge. The knowledge related to a question:</p>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 
 <p>
 </p>
@@ -127,7 +128,7 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <center><span style="color:red"> <b>“What is the universe you are seeing?”</b> </span>
 </center>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 
 <p>
 </p>
@@ -135,7 +136,7 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <p> <b>Sautrāntika:</b> According to this school, we are directly perceiving the universe. There are things in the universe and we are perceiving it with our senses. So there are the "experiencer" and what we are experiencing is outside the "experiencer". 
 </p>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 
 <p>
 </p>
@@ -143,7 +144,7 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <p> <b>Vaibhāṣika:</b> According to this school, what you are seeing now, is a representation of what existis outside, in your mind. So there is "something" outside, the information about the "something" is collected by your saenses, and then the information is recreated in your mind hence what you are preceiving is a recreation of the reality. This is what modern 21st science would agree upon and termed as Representative reality, which was established in India 20 century ago in a more sophisticated manner.   
 </p>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+<!-- ### <b>"Now I Am Become Death, the Destroyer of Worlds":</b> -->
 
 <p>
 </p>
@@ -151,8 +152,6 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 
 <p> <b>Vigyanvada:</b> According to this school, they consideer the reality is only mind. The main question they explore is "How do you know there is something exists to preceive at all?" If there is something outside then yopu have noi access to it so in mind the world is formed. In simple words there is no outside world only your mind. Through this practice you cut off the external world, that is why it is also called Yogācāra.
 </p>
-
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
 
 <p> <b>Sunyavada:</b> According to this school, there is no mind, no external world but only Sunyata. <b>It should be noted that "Sunyata" should not be taken as nothingness.</b> The studies of this school is completely based on the <b> Mūlamadhyamakakārikā by Nāgārjuna</b>. He was concerned about a question:
 </p>
@@ -205,6 +204,8 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 
 <p>
 </p>
+
+### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
 
 The title of this section was <b>quoted by the great physicist J. Robert Oppenheimer</b> when he was expreincing the detonation of the first atomic weapon in the year 1945. Some of us might be able to recreate the scenario using our imaginations, where a growing mountain sized mushroom cloud of fire suddenly appears in front of your eyes followed by a burst of wind as an aftermath of the explosion. It is probably like seeing a thousands sun sets together in front of you and you as an observer just stare in astonishment. But here we will not explore the psycological aspect of Oppenheimer but we stress on understanding the source of this beautifully horryfing quote and its original meaning.
 
