@@ -5,11 +5,21 @@ date : 2022-01-16
 categories : Research
 permalink : /atmadarshan/
 ---
-<style>
-img {
-  border: 2px solid #555;
-}
-</style>
+## <b>The list of contents:</b>
+<ol>
+
+    <li><a href = "#intro_indian_phi">A small introduction to Indian Philosophy</a></li>
+    <li><a href = "#oppie_quote">"Now I Am Become Death, the Destroyer of Worlds"</a></li>
+</ol>
+
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+
+<h2 id="intro_indian_phi"><b>A small introduction to Indian Philosophy</b></h2>
 
 In the following I am presenting my understanding based elaboration and illustration of The Foundational text in Indian Philosophy. All the images are unique and proper references are mentioned in the text. <b>My special thanks to Aritra Sarkar, Tamal Acharya and Chandika Pegu for going though the article and valuable comments</b>.
 <p>
@@ -205,7 +215,8 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 <p>
 </p>
 
-### <b>"Now I Am Become Death, the Destroyer of Worlds":</b>
+
+<h2 id="oppie_quote"><b>"Now I Am Become Death, the Destroyer of Worlds"</b></h2>
 
 The title of this section was <b>quoted by the great physicist J. Robert Oppenheimer</b> when he was experiencing the detonation of the first atomic weapon in the year 1945. Some of us might be able to recreate the scenario using our imaginations, where a growing mountain-sized mushroom cloud of fire suddenly appears in front of your eyes followed by a burst of wind as an aftermath of the explosion. It is probably like seeing thousands of sunsets together in front of you and you as an observer just stare in astonishment. But here we will not explore the psychological aspect of Oppenheimer but we stress understanding the source of this beautifully horrifying quote and its original meaning.
 
