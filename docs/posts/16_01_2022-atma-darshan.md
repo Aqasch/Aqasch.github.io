@@ -1,7 +1,7 @@
 ---
 layout : post
 title: "Indian Philosophy"
-date : 2022-01-16
+date : 2023-07-28
 categories : Research
 permalink : /atmadarshan/
 ---
