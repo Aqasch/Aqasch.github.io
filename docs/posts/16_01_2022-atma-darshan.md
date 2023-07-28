@@ -243,7 +243,7 @@ In English pronunciation:
 </p>
 
 <center><span style="color:red"> <b>mrityuh sarva-harash chaham udbhavash cha bhavishyatam
-kirtih shrir vak cha narinam smritir medha dhritih kshama</b> </span>.
+kirtih shrir vak cha narinam smritir medha dhritih kshama</b> </span>.</center>
 
 <p>
 </p>
