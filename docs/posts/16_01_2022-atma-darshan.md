@@ -212,13 +212,69 @@ The title of this section was <b>quoted by the great physicist J. Robert Oppenhe
 <p>
 </p>
 
-There are a total of 18 chapters and a whopping 200,000 verses in the epic <a href="https://en.wikipedia.org/wiki/Mahabharata"><b>The Mahabharata</b></a>. <a href="https://en.wikipedia.org/wiki/Bhagavad_Gita"><b>Bhagavad Gita</b></a> is a Hindu sculpture that contains 700 verses from The Mahabharata. The Bhagvad Gita captures the conversation between the <a href="https://en.wikipedia.org/wiki/Krishna"><b>Lord Krishna</b></a> and Pandavas prince <a href="https://en.wikipedia.org/wiki/Arjuna"><b>Arjuna</b></a> in the battle field of <a href="https://en.wikipedia.org/wiki/Kurukshetra"><b>Kurukshetra</b></a>, facing an opposing army that contains his close relatives. Faving them Arjuna is completely torn. In the midst of this Lord Krishna teaches him about a higher philosophy that will enable him to carry out his duties as a warrior irrespective of his personal concerns.
+There are a total of 18 chapters and a whopping 200,000 verses in the epic <a href="https://en.wikipedia.org/wiki/Mahabharata"><b>The Mahabharata</b></a>. <a href="https://en.wikipedia.org/wiki/Bhagavad_Gita"><b>Bhagavad Gita</b></a> is a Hindu sculpture that contains 700 verses from The Mahabharata. The Bhagvad Gita captures the conversation between the <a href="https://en.wikipedia.org/wiki/Krishna"><b>Lord Krishna</b></a> and Pandavas prince <a href="https://en.wikipedia.org/wiki/Arjuna"><b>Arjuna</b></a> in the battle field of <a href="https://en.wikipedia.org/wiki/Kurukshetra"><b>Kurukshetra</b></a>, facing an opposing army that contains his close relatives. Arjuna is completely torn. In the midst of this Lord Krishna teaches him about a higher philosophy that will enable him to carry out his duties as a warrior irrespective of his personal concerns.
 
 <p>
 </p>
 
-During the 10th verse Arjuna askes Lord Krishna to show his true form. In the 11th verse Lord Krishna reveals his true form which is famously known as <b>Viśhwarūp Darśhan</b> but before that he gave Arjuna a glimpse of his true form in the 10th chapter and is captured by <a href="https://en.wikipedia.org/wiki/Sanjaya"><b>Snajaya</b></a> through the 34th verse:
+During the 10th verse Arjuna askes Lord Krishna to show his true form. In the 11th chapter Lord Krishna reveals his true form which is famously known as <b>Viśhwarūp Darśhan</b> but before that he gave Arjuna a glimpse of his true form in the 10th chapter and is captured by <a href="https://en.wikipedia.org/wiki/Sanjaya"><b>Snajaya</b></a> through the 34th verse:
 
 <p>
 </p>
 <center><span style="color:red"> <b>मृत्यु: सर्वहरश्चाहमुद्भवश्च भविष्यताम् | कीर्ति: श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृति: क्षमा || 34||</b> </span></center>
+
+<p>
+</p>
+
+In English pronouncation:
+
+<p>
+</p>
+
+<center><span style="color:red"> <b>mrityuh sarva-harash chaham udbhavash cha bhavishyatam
+kirtih shrir vak cha narinam smritir medha dhritih kshama</b> </span>.
+
+<p>
+</p>
+
+Let us understand the meaning of the "mrityuh sarva-harash chaham udbhavash cha bhavishyatam", word by word. In Sanskrit
+
+<p> (1) mrityuh means <b>Death</b> </p>
+<p> (2) sarva-haraḥ means <b>All-destroying</b> </p>
+<p> (3) chaham means <b>And I</b> </p>
+<p> (4) udbhavash means <b>The origin</b> </p>
+<p> (5) cha means <b>And</b> </p>
+<p> (6) bhavishyatam means <b>Those things that are yet to be</b> </p>
+
+Which together says
+<p>
+</p>
+<b>"I am the all-destroying death, and I am the origin of those things that are yet to be..."</b>
+
+<p>
+</p>
+
+In Sanskrit <b>mrityuh</b> literally means <b>death</b> but before considering the death as the destruction of the physical body let us analyse it a bit more deeply. As we can see in the last half of the phrase Lord Krishna says <b> "I am the origin of those things that are yet to be"</b>, which indicates the emphasis on the <b>time</b> because the physical death of the body of a creature or an entity appears in time. This makes time as a great measuring scale of existance, it <b>devours</b> everything and everyone eventually. Interestingly the Sanskrit word <b>haraḥ</b> in <b>sarva-haraḥ</b> can also be interpreted as devouring. This lead us to do a simple exercise which you can do right now. Close your eyes and construct a mental picture of time (maybe as a physical entity) opening up its huge mouth and eventually devouring the whole existance, and behind time, Lord Krishna, with his sublime smile spreading his infinitely extended palm which devours the existance consuming time itself. This lead us to grasp the actual meaning of the phrase
+
+<p>
+<b>"I am the all-destroying time, and I am the origin of those things that are yet to be..."</b>
+</p>
+
+<p>This has some interesting implications on the concept of the almighty <b>God</b>, whom we interprete as the creator of the world, the universe, the existance itself. Because when we say the words like "world", "universe" or even "existance" we subconciously (and alarmingly) <b>confine God within the limitations of space and time</b> which philosophically is a great degredation to any sublime concept. But through the 34th verse of the 10th chapter Lord Krishna shows us that <b>God</b> is all pervading which is described in the amazing 16th verse of 11th chapter.
+</p>
+
+<p>
+</p>
+<p>
+</p>
+
+<span style="color:red"> <u><b>REFERENCES</b></u> </span>
+
+<p> 
+[1] <a href="https://www.youtube.com/watch?v=QmoEQdvbySs"><b> The Cycle of Existence is Within the Divine by Swami Tattwamayananda</b></a></p>
+
+<p> 
+[2] <a href="https://www.youtube.com/watch?v=oenB8H6jELg"><b>Manifesting the Divinity Within by Swami Tattwamayananda</b></a></p>
+
+<p> 
+[3] <a href="https://www.holy-bhagavad-gita.org/chapter/11/verse/16"><b>The amazing 16th verse of 11th chapter</b></a></p>
