@@ -228,7 +228,7 @@ There are a total of 18 chapters and a whopping 200,000 verses in the epic <a hr
 <p>
 </p>
 
-During the 10th verse, Arjuna asks Lord Krishna to show his true form. In the 11th chapter Lord Krishna reveals his true form which is famously known as <b>Viśhwarūp Darśhan</b> but before that, he gave Arjuna a glimpse of his true form in the 10th chapter and is captured by <a href="https://en.wikipedia.org/wiki/Sanjaya"><b>Snajaya</b></a> through the 34th verse:
+During the 10th chapter, Arjuna asks Lord Krishna to show his true form. In the 11th chapter Lord Krishna reveals his true form which is famously known as <b>Viśhwarūp Darśhan</b> but before that, he gave Arjuna a glimpse of his true form in the 10th chapter and is captured by <a href="https://en.wikipedia.org/wiki/Sanjaya"><b>Sanjaya</b></a> through the 34th verse:
 
 <p>
 </p>
