@@ -218,7 +218,7 @@ Any book on Indian Philosophy refers to twelve distinct systems of philosophy in
 
 <h2 id="oppie_quote"><b>"Now I Am Become Death, the Destroyer of Worlds"</b></h2>
 
-The title of this section was <b>quoted by the great physicist J. Robert Oppenheimer</b> when he was experiencing the detonation of the first atomic weapon in the year 1945. Some of us might be able to recreate the scenario using our imaginations, where a growing mountain-sized mushroom cloud of fire suddenly appears in front of your eyes followed by a burst of wind as an aftermath of the explosion. It is probably like seeing thousands of sunsets together in front of you and you as an observer just stare in astonishment. But here we will not explore the psychological aspect of Oppenheimer but we stress understanding the source of this beautifully horrifying quote and its original meaning.
+The title of this section was <b>quoted by the great physicist J. Robert Oppenheimer</b> when he was experiencing the detonation of the first atomic weapon in the year 1945. Some of us might be able to recreate the scenario using our imaginations, where a growing mountain-sized mushroom cloud of fire suddenly appears in front of your eyes followed by a burst of wind as an aftermath of the explosion. It is probably like seeing thousands of sunrises together in front of you and you as an observer just stare in astonishment. But here we will not explore the psychological aspect of Oppenheimer but we stress understanding the source of this beautifully horrifying quote and its original meaning.
 
 <p>
 </p>
@@ -228,7 +228,7 @@ There are a total of 18 chapters and a whopping 200,000 verses in the epic <a hr
 <p>
 </p>
 
-During the 10th verse, Arjuna asks Lord Krishna to show his true form. In the 11th chapter Lord Krishna reveals his true form which is famously known as <b>Viśhwarūp Darśhan</b> but before that, he gave Arjuna a glimpse of his true form in the 10th chapter and is captured by <a href="https://en.wikipedia.org/wiki/Sanjaya"><b>Snajaya</b></a> through the 34th verse:
+During the 10th chapter, Arjuna asks Lord Krishna to show his true form. In the 11th chapter Lord Krishna reveals his true form which is famously known as <b>Viśhwarūp Darśhan</b> but before that, he gave Arjuna a glimpse of his true form in the 10th chapter and is captured by <a href="https://en.wikipedia.org/wiki/Sanjaya"><b>Sanjaya</b></a> through the 34th verse:
 
 <p>
 </p>
