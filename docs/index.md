@@ -19,7 +19,7 @@ I am currently working under the research project [**Impact of input data altera
 **Here is the the list of publications:**\
 Link to [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en).
 
-**Simple explanation to Foundtional texts in Indian Philosophy:**\
+**Simple explanation to Foundational texts in Indian Philosophy:**\
 Just initiated [**The explanation**](https://aqasch.github.io/atmadarshan/).
 
 **Rough compilation of archived expressions:**\
