@@ -297,7 +297,7 @@ In Sanskrit <b>mrityuh</b> means <b>death</b> but before considering death as th
 
 <h2 id="curious_shaunaka"><b>Understandably Quite a Curious Day for शौनक (Shaunaka)</b></h2>
 
-Often while reading a research paper I have noticed that the authors of the paper refer to methods/techniques of research work from the past. In order to understand the current research I jump from one reference to another to get a proper grasp of the paper. Which in few instances broke the limit of my patients. In order to find out a way around I stress on finding a review article or a research paper that might contains a overview of the methods required for understanding. Sometimes also I consult with my supervisor to get a recommendation of such article. In both scenario ideally my main motive is to: 
+Often, while reading a research paper, I have noticed that the paper's authors refer to methods/techniques of research work from the past. To understand the current research, I jump from one reference to another to get a proper grasp of the paper. Which in a few instances broke the limit of my patients. To find out a way around I stress finding a review article or a research paper that might contain an overview of the methods required for understanding. Sometimes, I also consult with my supervisor to get a recommendation for such an article. In both scenarios, ideally, my main motive is to: 
 
 <p>
 </p>
@@ -307,17 +307,17 @@ Often while reading a research paper I have noticed that the authors of the pape
 <p>
 </p>
 
-After carefully examining my own mindset just before the thought of finding a sigular source arises, I came to the bold conclusion that human being usually either driven by fatigue, laziness or in order to save their time feels motivated to look for an unified source of knowledge. There is another quite rare scenario that can motivate a human being is that the person might be too disturbed by the nonduality of this reality. <b>For a simple example:</b>
+After carefully examining my mindset just before the thought of finding a singular source arises, I came to the bold conclusion that humans are usually either driven by fatigue, laziness or, to save their time, feel motivated to look for a unified source of knowledge. Another quite rare scenario that can motivate a human being is that the person might be too disturbed by the nonduality of this reality. <b>For a simple example:</b>
 
 <p>
 </p>
 
-If we look outside on a sunny day and observe "the leaves of a tree are shining light yellow as the sunlight falling on the surface of the leaves" in that small observation if someone wants to gather all the information about the scene, the person explicitly need to know (1) the properties of the sunlight, including the characteristics of the photons and its angle of inclination on the surface, (2) the characteristics of the surface of the leaf, including its botanical anatomy and finally (3) how the quanta of light interacts with the physical and geometrical properties of the leaf. A careful consideration will help us underdstand that in the above scenario we did not even consider the aerodynamic influences on the leaves. 
+If we look outside on a sunny day and observe "the leaves of a tree are shining light yellow as the sunlight falling on the surface of the leaves," in that tiny observation if someone wants to gather all the information about the scene, the person explicitly needs to know (1) the properties of the sunlight, including the characteristics of the photons and its angle of inclination on the surface, (2) the characteristics of the surface of the leaf, including its botanical anatomy and finally (3) how the quanta of light interacts with the physical and geometrical properties of the leaf. A careful consideration will help us understand that in the above scenario, we did not even consider the aerodynamic influences on the leaves. 
 
 <p>
 </p>
 
-This is indeed demotivating and not at all efficient! So what is the solution? Will our mind always be deprived by the knowledge of the reality? 
+This is indeed demotivating and not at all efficient! So what is the solution? Will our mind always be deprived of the knowledge of the reality? 
 
 <p>
 </p>
@@ -327,7 +327,7 @@ Not really.
 <p>
 </p>
 
-One way to optimize the knowledge gathering process is to realize a source which contains all the knowledge about the reality. Indirectly it is the ultimate cause, the cause of everything. By not getting lost in the apperance, the diverse nature of the reality it is encouraged to do backtacking to the source/cause itself. As a cause instigates an effect or a variey of effects, so by knowing the cause you will know everything.
+One way to optimize the knowledge-gathering process is to realize a source which contains all the knowledge about reality. Indirectly, it is the ultimate cause, the cause of everything. By staying aware of the appearance and the diverse nature of reality, it is encouraged to backtrack to the source/cause itself. As a cause instigates an effect or a variety of effects, by knowing the cause, you will learn everything.
 
 <p>
 </p>
@@ -337,7 +337,7 @@ But wait! This sounds like the big bang! Isn't it?
 <p>
 </p>
 
-Ufortunately you are partially correct as the big bang is responsible for the emergence of baryonic matter, radiation and possibly the dark sector of the universe. The term "reality" I mentioned also contains the scenario before the big bang where the universe is not matter filled. Hence the "reality" I am refering to is:
+Unfortunately, you are partially correct, as the Big Bang is responsible for the emergence of baryonic matter, radiation and possibly the dark sector of the universe. The term "reality" I mentioned also contains the scenario before the Big Bang where the universe is not matter-filled. Hence, the "reality" I am referring to is:
 
 <p>
 </p>
@@ -347,7 +347,7 @@ Ufortunately you are partially correct as the big bang is responsible for the em
 <p>
 </p>
 
-The discomfort of this diversity of the reality or maybe due to curiosity or by sheer laziness or possibly to save his own precious time शौनक (Shaunaka) in <a href="https://en.wikipedia.org/wiki/Mundaka_Upanishad"><b>Mundaka Upanishad</b></a>  have a recourse to his master <a href="https://en.wikipedia.org/wiki/Angiras"><b> अङ्गिरा (Sage Angiras)</b></a> to ask the following question:
+The discomfort of this diversity of the reality or maybe due to curiosity or by sheer laziness or possibly to save his precious time शौनक (Shaunaka) in <a href="https://en.wikipedia.org/wiki/Mundaka_Upanishad"><b>Mundaka Upanishad</b></a>  have recourse to his master <a href="https://en.wikipedia.org/wiki/Angiras"><b> अङ्गिरा (Sage Angiras)</b></a> to ask the following question:
 
 <p>
 </p>
@@ -365,7 +365,7 @@ In English pronunciation:
 
 <p>
 </p>
-A step-wise translation lead us to:
+A step-wise translation leads us to:
 <p>
 </p>
 
@@ -378,7 +378,7 @@ A step-wise translation lead us to:
 <p>
 </p>
 
-Gret Philosopher <a href="https://en.wikipedia.org/wiki/Max_M%C3%BCller"><b>Max Müller</b></a> while studying Sanskrit translated Upanishads into English, he interpretated the question by Shaunaka as:
+Great Philosopher <a href="https://en.wikipedia.org/wiki/Max_M%C3%BCller"><b>Max Müller</b></a> while studying Sanskrit translated Upanishads into English, he interpreted the question by Shaunaka as:
 
 <p>
 </p>
@@ -388,7 +388,7 @@ Gret Philosopher <a href="https://en.wikipedia.org/wiki/Max_M%C3%BCller"><b>Max 
 <p>
 </p>
 
-In this article I am not actually interested in the philosophical apect of the question but to understand Shaunaka's mindset just before the important question appeared in his mind. Shaunaka was heavily indulged in Vedic rituals and to perform these rituals one requires a lot of wealth so he was rich. A rich man must have a very condensed career and he is supposed to be usually busy. So maybe before approaching Angiras he had this suppressed desire to know everything around him but realizing that the world is filled with discrete knowledges and there are uncountable things to gather knowledge, he felt motivated to look for an unified singular source of knowledge. Which will not only help him to focus on a particular source/cause of everything and not getting distracted by the appearance of the effect but it will also not waste his precious time as a businessman. The main difference betten me and Shaunaka, which makes him a great student is that <b>He had this intense desire to know the cause of everything, the source of this singular knowledge source</b>.
+In this article, I am not interested in the philosophical aspect of the question but in understanding Shaunaka's mindset just before the vital question appeared in his mind. Shaunaka was heavily indulged in Vedic rituals, and to perform these rituals, one required a lot of wealth, so he was rich. A rich man must have a very condensed career, and he is supposed to be usually busy. Before approaching Angiras, he had this suppressed desire to know everything around him. However, realizing that the world is filled with discrete knowledge and has uncountable things to gather, he felt motivated to look for a unified singular source of knowledge. This will not only help him to focus on a particular source/cause of everything and not get distracted by the appearance of the effect, but it will also save him precious time as a businessman. The main difference between me and Shaunaka, which makes him a great student, is that <b>He had this intense desire to know the cause of everything, the source of this singular knowledge source</b>.
 
 <p>
 </p>
