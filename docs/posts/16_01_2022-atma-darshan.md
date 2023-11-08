@@ -364,12 +364,15 @@ In English pronunciation:
 
 <p>
 </p>
+A step-wise translation lead us to:
+<p>
+</p>
 
-<p> (1) bhagavo (भगवो) means <b>Lord</b> </p>
-<p> (2) vijñāte (विज्ञाते) means <b>To know something</b> </p>
-<p> (3) kasmin nu (कस्मिन्नु) vijñāte (विज्ञाते) together means <b>by knowing what</b> </p>
-<p> (4) sarvamidaṁ or sarvam idam (सर्वमिदं) means <b>all that is i.e. everything</b> </p>
-<p> (5) vijñātaṁ (विज्ञातं) bhavatīti (भवतीति) means <b>become known</b> </p>
+<p> <b>(1)</b> bhagavo (भगवो) means <b>Lord</b> </p>
+<p> <b>(2)</b> vijñāte (विज्ञाते) means <b>To know something</b> </p>
+<p> <b>(3)</b> kasmin nu (कस्मिन्नु) vijñāte (विज्ञाते) together means <b>by knowing what</b> </p>
+<p> <b>(4)</b> sarvamidaṁ or sarvam idam (सर्वमिदं) means <b>all that is i.e. everything</b> </p>
+<p> <b>(5)</b> vijñātaṁ (विज्ञातं) bhavatīti (भवतीति) means <b>become known</b> </p>
 
 <p>
 </p>
