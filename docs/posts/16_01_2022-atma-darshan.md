@@ -10,7 +10,7 @@ permalink : /atmadarshan/
 
     <li><a href = "#intro_indian_phi">A small introduction to Indian Philosophy</a></li>
     <li><a href = "#oppie_quote">"Now I Am Become Death, the Destroyer of Worlds"</a></li>
-    <li><a href = "#curious_shaunaka">"Understandably Quite a Curious Day for शौनक (Shaunaka)"</a></li>
+    <li><a href = "#curious_shaunaka">Understandably Quite a Curious Day for शौनक (Shaunaka)</a></li>
 </ol>
 
 <p>
@@ -371,7 +371,7 @@ A step-wise translation leads us to:
 
 <p> <b>(1)</b> bhagavo (भगवो) means <b>Lord</b>, </p>
 <p> <b>(2)</b> vijñāte (विज्ञाते) means <b>To know something</b>, </p>
-<p> <b>(3)</b> kasmin nu (कस्मिन्नु) vijñāte (विज्ञाते) together means <b>by knowing what</b,> </p>
+<p> <b>(3)</b> kasmin nu (कस्मिन्नु) vijñāte (विज्ञाते) together means <b>by knowing what</b>, </p>
 <p> <b>(4)</b> sarvamidaṁ or sarvam idam (सर्वमिदं) means <b>all that is i.e. everything</b>, </p>
 <p> <b>(5)</b> vijñātaṁ (विज्ञातं) bhavatīti (भवतीति) means <b>become known</b>. </p>
 
