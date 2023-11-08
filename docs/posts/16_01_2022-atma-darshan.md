@@ -306,7 +306,7 @@ Often while reading a research paper I have noticed that the authors of the pape
 <p>
 </p>
 
-After carefully examining my own mindset just before the thought of finding a sigular source arises, I came to the bold conclusion that human being usually either driven by fatigue, laziness or in order to save their time feels motivated to look for an unified source of knowledge. There is another quite rare scenario that can motivate a human being is that the person might be too disturbed by the nonduality of this reality. For a simple example:
+After carefully examining my own mindset just before the thought of finding a sigular source arises, I came to the bold conclusion that human being usually either driven by fatigue, laziness or in order to save their time feels motivated to look for an unified source of knowledge. There is another quite rare scenario that can motivate a human being is that the person might be too disturbed by the nonduality of this reality. <b>For a simple example:</b>
 
 <p>
 </p>
@@ -341,7 +341,7 @@ Ufortunately you are partially correct as the big bang is responsible for the em
 <p>
 </p>
 
-Particle (anti-particle) + All the non-particle.
+<b>Particle (anti-particle) + All the non-particle.</b>
 
 <p>
 </p>
