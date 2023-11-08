@@ -10,7 +10,7 @@ permalink : /atmadarshan/
 
     <li><a href = "#intro_indian_phi">A small introduction to Indian Philosophy</a></li>
     <li><a href = "#oppie_quote">"Now I Am Become Death, the Destroyer of Worlds"</a></li>
-    <li><a href = "#curious_shaunaka">""</a>Understandably Quite a Curious Day for शौनक (Shaunaka)</li>
+    <li><a href = "#curious_shaunaka">"Understandably Quite a Curious Day for शौनक (Shaunaka)"</a></li>
 </ol>
 
 <p>
