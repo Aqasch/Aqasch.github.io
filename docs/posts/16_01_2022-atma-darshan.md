@@ -10,6 +10,7 @@ permalink : /atmadarshan/
 
     <li><a href = "#intro_indian_phi">A small introduction to Indian Philosophy</a></li>
     <li><a href = "#oppie_quote">"Now I Am Become Death, the Destroyer of Worlds"</a></li>
+    <li><a href = "#curious_shaunaka">""</a>Understandably Quite a Curious Day for शौनक (Shaunaka)</li>
 </ol>
 
 <p>
@@ -294,7 +295,7 @@ In Sanskrit <b>mrityuh</b> means <b>death</b> but before considering death as th
 </p>
 
 
-<h2 id="lazy_shaunaka"><b>Understandably Quite a Curious Day for शौनक (Shaunaka)</b></h2>
+<h2 id="curious_shaunaka"><b>Understandably Quite a Curious Day for शौनक (Shaunaka)</b></h2>
 
 Often while reading a research paper I have noticed that the authors of the paper refer to methods/techniques of research work from the past. In order to understand the current research I jump from one reference to another to get a proper grasp of the paper. Which in few instances broke the limit of my patients. In order to find out a way around I stress on finding a review article or a research paper that might contains a overview of the methods required for understanding. Sometimes also I consult with my supervisor to get a recommendation of such article. In both scenario ideally my main motive is to: 
 
