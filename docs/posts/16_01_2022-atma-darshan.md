@@ -294,7 +294,7 @@ In Sanskrit <b>mrityuh</b> means <b>death</b> but before considering death as th
 </p>
 
 
-<h2 id="lazy_shaunaka"><b>Understandably Quite a Lazy Day for शौनक (Shaunaka)</b></h2>
+<h2 id="lazy_shaunaka"><b>Understandably Quite a Curious Day for शौनक (Shaunaka)</b></h2>
 
 Often while reading a research paper I have noticed that the authors of the paper refer to methods/techniques of research work from the past. In order to understand the current research I jump from one reference to another to get a proper grasp of the paper. Which in few instances broke the limit of my patients. In order to find out a way around I stress on finding a review article or a research paper that might contains a overview of the methods required for understanding. Sometimes also I consult with my supervisor to get a recommendation of such article. In both scenario ideally my main motive is to: 
 
@@ -360,7 +360,7 @@ In English pronunciation:
 <p>
 </p>
 
-<center><span style="color:red"> <b>kasmin nu bhagavo vijñāte sarvamidaṁ vijñātaṁ bhavatīti
+<center><span style="color:red"> <b>kasmin nu bhagavo vijñāte sarvamidaṁ vijñātaṁ bhavatīti</b></span></center>
 
 <p>
 </p>
@@ -384,4 +384,8 @@ Gret Philosopher<a href="https://en.wikipedia.org/wiki/Max_M%C3%BCller"><b>Max M
 <p>
 </p>
 
-In this article I am not actually interested in the philosophical apect of the question but to understand Shaunaka's mindset just before the important question appeared in his mind. Shaunaka was heavily indulged in Vedic rituals and to perform these rituals one requires a lot of wealth so he was rich. A rich man must have a very condensed career and he is supposed to be usually busy. So maybe before approaching Angiras he had this suppressed desire to know everything around him but realizing that the world is filled with discrete knowledges and there are uncountable things to gather knowledge, he felt motivated to look for an unified singular source of knowledge. Which will not only help him to focus on a particular source/cause of everything and not getting distracted by the appearance of the effect but it will also not waste his precious time as a businessman. 
+In this article I am not actually interested in the philosophical apect of the question but to understand Shaunaka's mindset just before the important question appeared in his mind. Shaunaka was heavily indulged in Vedic rituals and to perform these rituals one requires a lot of wealth so he was rich. A rich man must have a very condensed career and he is supposed to be usually busy. So maybe before approaching Angiras he had this suppressed desire to know everything around him but realizing that the world is filled with discrete knowledges and there are uncountable things to gather knowledge, he felt motivated to look for an unified singular source of knowledge. Which will not only help him to focus on a particular source/cause of everything and not getting distracted by the appearance of the effect but it will also not waste his precious time as a businessman. The main difference betten me and Shaunaka, which makes him a great student is that <b>He had this intense desire to know the cause of everything, the source of this singular knowledge source</b>.
+
+<p>
+</p>
+
