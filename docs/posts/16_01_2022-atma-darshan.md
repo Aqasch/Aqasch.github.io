@@ -368,16 +368,16 @@ A step-wise translation lead us to:
 <p>
 </p>
 
-<p> <b>(1)</b> bhagavo (भगवो) means <b>Lord</b> </p>
-<p> <b>(2)</b> vijñāte (विज्ञाते) means <b>To know something</b> </p>
-<p> <b>(3)</b> kasmin nu (कस्मिन्नु) vijñāte (विज्ञाते) together means <b>by knowing what</b> </p>
-<p> <b>(4)</b> sarvamidaṁ or sarvam idam (सर्वमिदं) means <b>all that is i.e. everything</b> </p>
-<p> <b>(5)</b> vijñātaṁ (विज्ञातं) bhavatīti (भवतीति) means <b>become known</b> </p>
+<p> <b>(1)</b> bhagavo (भगवो) means <b>Lord</b>, </p>
+<p> <b>(2)</b> vijñāte (विज्ञाते) means <b>To know something</b>, </p>
+<p> <b>(3)</b> kasmin nu (कस्मिन्नु) vijñāte (विज्ञाते) together means <b>by knowing what</b,> </p>
+<p> <b>(4)</b> sarvamidaṁ or sarvam idam (सर्वमिदं) means <b>all that is i.e. everything</b>, </p>
+<p> <b>(5)</b> vijñātaṁ (विज्ञातं) bhavatīti (भवतीति) means <b>become known</b>. </p>
 
 <p>
 </p>
 
-Gret Philosopher<a href="https://en.wikipedia.org/wiki/Max_M%C3%BCller"><b>Max Müller</b></a> while studying Sanskrit translated Upanishads into English, he interpretated the question by Shaunaka as:
+Gret Philosopher <a href="https://en.wikipedia.org/wiki/Max_M%C3%BCller"><b>Max Müller</b></a> while studying Sanskrit translated Upanishads into English, he interpretated the question by Shaunaka as:
 
 <p>
 </p>
@@ -388,6 +388,19 @@ Gret Philosopher<a href="https://en.wikipedia.org/wiki/Max_M%C3%BCller"><b>Max M
 </p>
 
 In this article I am not actually interested in the philosophical apect of the question but to understand Shaunaka's mindset just before the important question appeared in his mind. Shaunaka was heavily indulged in Vedic rituals and to perform these rituals one requires a lot of wealth so he was rich. A rich man must have a very condensed career and he is supposed to be usually busy. So maybe before approaching Angiras he had this suppressed desire to know everything around him but realizing that the world is filled with discrete knowledges and there are uncountable things to gather knowledge, he felt motivated to look for an unified singular source of knowledge. Which will not only help him to focus on a particular source/cause of everything and not getting distracted by the appearance of the effect but it will also not waste his precious time as a businessman. The main difference betten me and Shaunaka, which makes him a great student is that <b>He had this intense desire to know the cause of everything, the source of this singular knowledge source</b>.
+
+<p>
+</p>
+<p>
+</p>
+
+<span style="color:red"> <u><b>REFERENCES</b></u> </span>
+
+<p> 
+[1] <a href="https://youtu.be/-CxRbLy_cMo?si=dFvUcCg7a1yTXiEd"><b> Mundaka Upanishad, Mantras 1.1.8 - 9 by Swami Sarvapriyananda</b></a></p>
+
+<p> 
+[2] <a href="https://www.ramakrishnavivekananda.info/vivekananda/volume_9/lectures_and_discourses/the_mundaka_upanishad.htm"><b>THE MUNDAKA UPANISHAD</b></a></p>
 
 <p>
 </p>
