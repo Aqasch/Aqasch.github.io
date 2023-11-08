@@ -289,3 +289,99 @@ In Sanskrit <b>mrityuh</b> means <b>death</b> but before considering death as th
 
 <p> 
 [3] <a href="https://www.holy-bhagavad-gita.org/chapter/11/verse/16"><b>The amazing 16th verse of 11th chapter</b></a></p>
+
+<p>
+</p>
+
+
+<h2 id="lazy_shaunaka"><b>Understandably Quite a Lazy Day for शौनक (Shaunaka)</b></h2>
+
+Often while reading a research paper I have noticed that the authors of the paper refer to methods/techniques of research work from the past. In order to understand the current research I jump from one reference to another to get a proper grasp of the paper. Which in few instances broke the limit of my patients. In order to find out a way around I stress on finding a review article or a research paper that might contains a overview of the methods required for understanding. Sometimes also I consult with my supervisor to get a recommendation of such article. In both scenario ideally my main motive is to: 
+
+<p>
+</p>
+
+<center><span style="color:red"> <b>Find a singular source which contains all the knowledge I need to know</b> </span>.</center>
+
+<p>
+</p>
+
+After carefully examining my own mindset just before the thought of finding a sigular source arises, I came to the bold conclusion that human being usually either driven by fatigue, laziness or in order to save their time feels motivated to look for an unified source of knowledge. There is another quite rare scenario that can motivate a human being is that the person might be too disturbed by the nonduality of this reality. For a simple example:
+
+<p>
+</p>
+
+If we look outside on a sunny day and observe "the leaves of a tree are shining light yellow as the sunlight falling on the surface of the leaves" in that small observation if someone wants to gather all the information about the scene, the person explicitly need to know (1) the properties of the sunlight, including the characteristics of the photons and its angle of inclination on the surface, (2) the characteristics of the surface of the leaf, including its botanical anatomy and finally (3) how the quanta of light interacts with the physical and geometrical properties of the leaf. A careful consideration will help us underdstand that in the above scenario we did not even consider the aerodynamic influences on the leaves. 
+
+<p>
+</p>
+
+This is indeed demotivating and not at all efficient! So what is the solution? Will our mind always be deprived by the knowledge of the reality? 
+
+<p>
+</p>
+
+Not really. 
+
+<p>
+</p>
+
+One way to optimize the knowledge gathering process is to realize a source which contains all the knowledge about the reality. Indirectly it is the ultimate cause, the cause of everything. By not getting lost in the apperance, the diverse nature of the reality it is encouraged to do backtacking to the source/cause itself. As a cause instigates an effect or a variey of effects, so by knowing the cause you will know everything.
+
+<p>
+</p>
+
+But wait! This sounds like the big bang! Isn't it? 
+
+<p>
+</p>
+
+Ufortunately you are partially correct as the big bang is responsible for the emergence of baryonic matter, radiation and possibly the dark sector of the universe. The term "reality" I mentioned also contains the scenario before the big bang where the universe is not matter filled. Hence the "reality" I am refering to is:
+
+<p>
+</p>
+
+Particle (anti-particle) + All the non-particle.
+
+<p>
+</p>
+
+The discomfort of this diversity of the reality or maybe due to curiosity or by sheer laziness or possibly to save his own precious time शौनक (Shaunaka) in <a href="https://en.wikipedia.org/wiki/Mundaka_Upanishad"><b>Mundaka Upanishad</b></a>  have a recourse to his master <a href="https://en.wikipedia.org/wiki/Angiras"><b> अङ्गिरा (Sage Angiras)</b></a> to ask the following question:
+
+<p>
+</p>
+<center><span style="color:red"> <b>कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति ॥ ३ ॥</b> </span></center>
+
+<p>
+</p>
+
+In English pronunciation:
+
+<p>
+</p>
+
+<center><span style="color:red"> <b>kasmin nu bhagavo vijñāte sarvamidaṁ vijñātaṁ bhavatīti
+
+<p>
+</p>
+
+<p> (1) bhagavo (भगवो) means <b>Lord</b> </p>
+<p> (2) vijñāte (विज्ञाते) means <b>To know something</b> </p>
+<p> (3) kasmin nu (कस्मिन्नु) vijñāte (विज्ञाते) together means <b>by knowing what</b> </p>
+<p> (4) sarvamidaṁ or sarvam idam (सर्वमिदं) means <b>all that is i.e. everything</b> </p>
+<p> (5) vijñātaṁ (विज्ञातं) bhavatīti (भवतीति) means <b>become known</b> </p>
+
+<p>
+</p>
+
+Gret Philosopher<a href="https://en.wikipedia.org/wiki/Max_M%C3%BCller"><b>Max Müller</b></a> while studying Sanskrit translated Upanishads into English, he interpretated the question by Shaunaka as:
+
+<p>
+</p>
+
+<b>"Sir, what is that through which, if it is known, everything else becomes known?"</b>
+
+<p>
+</p>
+
+In this article I am not actually interested in the philosophical apect of the question but to understand Shaunaka's mindset just before the important question appeared in his mind. Shaunaka was heavily indulged in Vedic rituals and to perform these rituals one requires a lot of wealth so he was rich. A rich man must have a very condensed career and he is supposed to be usually busy. So maybe before approaching Angiras he had this suppressed desire to know everything around him but realizing that the world is filled with discrete knowledges and there are uncountable things to gather knowledge, he felt motivated to look for an unified singular source of knowledge. Which will not only help him to focus on a particular source/cause of everything and not getting distracted by the appearance of the effect but it will also not waste his precious time as a businessman. 
