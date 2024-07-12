@@ -8,7 +8,7 @@ title : "Intro"
 ---
 
 <!-- ![Aqasch](./img/me.jpg) -->
-[![Above the Life and Death Cycle](./img/atman_brahman1.png){:height="100%" width="100%"}](https://en.wikipedia.org/wiki/Advaita_Vedanta)
+[![Above the Life and Death Cycle](./img/atman_brahman1.png){:height="60%" width="100%"}](https://en.wikipedia.org/wiki/Advaita_Vedanta)
 
 I am a Postdoc at [**HelTeq**](https://www.helsinki.fi/en/researchgroups/helteq/people), University of Helsinki in the group of [**Sabrina Maniscalco**](https://researchportal.helsinki.fi/en/persons/sabrina-maniscalco). My research interests lies in the intersection of classical machine learning and quantum computing, where my primary focus is on harnessing near-term quantum hardware with the help of machine learning methods.
 
@@ -22,7 +22,7 @@ KANQAS utilizes Kolmogorov-Arnold Networks (KANs) for quantum architecture searc
 
 <div style="text-align: center;">
   <a href="https://arxiv.org/abs/2406.17630">
-    <img src="./img/kanqas.png" alt="KANQAS" style="height: 50%; width: 50%;">
+    <img src="./img/kanqas.png" alt="KANQAS" style="height: 50%; width: 30%;">
   </a>
 </div>
 
@@ -38,7 +38,7 @@ YAQQ is a software tool for automated quantum gate set design, allowing users to
 
 <div style="text-align: center;">
   <a href="https://arxiv.org/abs/2406.17610v1">
-    <img src="./img/yaqq.png" alt="YAQQ" style="height: 50%; width: 50%;">
+    <img src="./img/yaqq.png" alt="YAQQ" style="height: 50%; width: 30%;">
   </a>
 </div>
 
