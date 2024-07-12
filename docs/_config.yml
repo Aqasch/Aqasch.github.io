@@ -18,12 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-sass:
-  style: compressed
-
-include:
-  - font.css
-
 title: Akash Kundu
 email:  akash.kundu@helsinki.fi
 description: >- # this means to ignore newlines until "baseurl:"
@@ -37,6 +31,9 @@ github_username:  Aqasch
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+
+include:
+  - font.css
 
 # Exclude from processing.
 # The following items will not be processed, by default.
