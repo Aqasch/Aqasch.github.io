@@ -22,7 +22,7 @@ sass:
   style: compressed
 
 include:
-  - assets/css/custom.css
+  - font.css
 
 title: Akash Kundu
 email:  akash.kundu@helsinki.fi
