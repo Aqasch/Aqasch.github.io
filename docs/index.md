@@ -16,14 +16,13 @@ I am a Postdoc at [**HelTeq**](https://www.helsinki.fi/en/researchgroups/helteq/
 ## <span style="color:black"> **Couple of my most recent research:** </span>
 <p>
 </p>
-
-### <span style="color:black"> **KANQAS: Kolmogorov-Arnold Network for Qauntum Architecture Search** </span>
+### <span style="color:black"> KANQAS: Kolmogorov-Arnold Network for Qauntum Architecture Search</span>
 
 KANQAS utilizes Kolmogorov-Arnold Networks (KANs) for quantum architecture search (QAS) problems. QAS is a promising approach for optimizing and automating the design of quantum circuits to achieve quantum advantage.
 
 <div style="text-align: center;">
   <a href="https://arxiv.org/abs/2406.17630">
-    <img src="./img/kanqas.png" alt="KANQAS" style="height: 40%; width: 40%;">
+    <img src="./img/kanqas.png" alt="KANQAS" style="height: 50%; width: 50%;">
   </a>
 </div>
 
@@ -33,14 +32,13 @@ Our findings points out that the probability of success and the number of optima
 
 <p>
 </p>
-
-### <span style="color:black"> **YAQQ: Yet Another Quantum Quantizer ** </span>
+### <span style="color:black"> YAQQ: Yet Another Quantum Quantizer </span>
 
 YAQQ is a software tool for automated quantum gate set design, allowing users to explore and discover optimized sets of quantum gates. It supports three main usage modes: (1) gate set compiler, (2) gate set comparator, and  (3) gate set discovery. The gate set discovery mode is the core novelty of YAQQ, iteratively refining a new gate set based on a defined cost function and comparing it against a predefined gate set
 
 <div style="text-align: center;">
   <a href="https://arxiv.org/abs/2406.17610v1">
-    <img src="./img/yaqq.png" alt="YAQQ" style="height: 40%; width: 40%;">
+    <img src="./img/yaqq.png" alt="YAQQ" style="height: 50%; width: 50%;">
   </a>
 </div>
 
