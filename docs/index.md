@@ -16,7 +16,7 @@ I am a Postdoc at [**HelTeq**](https://www.helsinki.fi/en/researchgroups/helteq/
 ## <span style="color:black"> **Couple of my most recent research:** </span>
 <p>
 </p>
-### <span style="color:black"> KANQAS: Kolmogorov-Arnold Network for Qauntum Architecture Search</span>
+### <span style="color:black"> KANQAS: Kolmogorov-Arnold Network for Quantum Architecture Search</span>
 
 KANQAS utilizes Kolmogorov-Arnold Networks (KANs) for quantum architecture search (QAS) problems. QAS is a promising approach for optimizing and automating the design of quantum circuits to achieve quantum advantage.
 
