@@ -10,7 +10,7 @@ title : "Intro"
 <!-- ![Aqasch](./img/me.jpg) -->
 [![Above the Life and Death Cycle](./img/atman_brahman1.png){:height="20%" width="100%"}](https://en.wikipedia.org/wiki/Advaita_Vedanta)
 
-I am a Postdoc at [**HelTeq**](https://www.helsinki.fi/en/researchgroups/helteq/people), University of Helsinki in the group of [**Sabrina Maniscalco**](https://researchportal.helsinki.fi/en/persons/sabrina-maniscalco). My research interests lies in the intersection of classical machine learning and quantum computing, where my primary focus is on harnessing near-term quantum hardware with the help of machine learning methods.
+I am a Postdoc at [**HelTeq**](https://www.helsinki.fi/en/researchgroups/helteq/people), University of Helsinki in the group of [**Sabrina Maniscalco**](https://researchportal.helsinki.fi/en/persons/sabrina-maniscalco). My research interests lies in the intersection of classical machine learning and quantum computing, where my primary focus is on harnessing near-term quantum hardware with the help of machine learning methods. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
 
 <hr>
 ## <span style="color:black"> **Couple of my most recent research:** </span>
