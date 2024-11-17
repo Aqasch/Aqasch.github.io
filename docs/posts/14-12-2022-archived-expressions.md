@@ -8,7 +8,7 @@ permalink : /arch-exp/
 
 ## <b>The list of contents:</b>
 <ol>
-
+    <li><a href = "#burden_numbers">The Burden of The Numbers</a></li>
     <li><a href = "#against_zoos">Are you serious Zoos!?</a></li>
     <li><a href = "#shima_on_mini">Doctor Toratarō Shima on finding the DC Mini</a></li>
     <li><a href = "#brief_on_mini">A Brief on DC Mini</a></li>
@@ -24,6 +24,40 @@ permalink : /arch-exp/
 </p>
 <p>
 </p>
+
+<h2 id="burden_numbers"><b>The Burden of The Numbers</b></h2>
+I was supposed to become a slave to the numbers globally. This means in the long term I am supposed to associate myself with the gradual increase or decrease of certain optional variables in life. But I was unaware of the fact that in this journey I would start developing an unnecessary correlation with the internal fluctuations of them, making me occasionally reevaluate myself.
+<p>
+</p>
+To pull the reader out of confusion, first I need to justify that as a person working dealing day and night with various optimization problems, the gradual decrease in loss (as an outcome of the model's crafted by me) makes me "extremely flattered." This is amusing news for my passion for optimizing everything. But the problem arises when I associate these temporary "extremely flattered" moments with my life. It might be obvious to feel joyous if something you have passion for works out well but I want to internally remain unmoved by the "happiness" provided by these moments associated with these "contextual numbers". The primary reason behind this self-rebelling attitude is the fact that when these "contextual numbers" do not behave as they intended to do (which is solely defined by an internal ego) I feel melancholy and occasionally doubt my own competence as a person. Albeit the fact that I am a being whose whole "identity" is not solely defined by the performance of these puny models or numbers.
+<p>
+</p>
+The above paragraph is just one of those (uncountably) many instances I feel compelled by the manifestations of meaningless algorithms. To extend this scenario, I must mention the impact of the count of "citations" on my inner self. It can be counter-argued by the sheer statement that "... but I promised myself to keep up with the citation count until I reach a certain number of citations in a certain time, and afterwards it will not matter anymore by nature..". This statement in my opinion, is pseudo-logical and lacks foresight because when I see the number of citations increases each week, month, or year I internally convince myself "Ah! I have reached N citations earlier than I initially thought, so probably I will reach a higher number M till the predefined time approaches, and then I will definitely stop!" When finally the "predefined time" arrives, the resolution of my stopping condition gets so blurry that I recursively iterate between the first and the second statement, just changing the variables "N" and "M".
+<p>
+</p>
+The two instances I mentioned above gradually evaporated my self-credibility and eventually turned me into an automation to print papers in order to gain visibility to enhance the count of citations. Please keep in mind that I am neither against publishing papers nor the aim to gain popularity, but I am just justifying the support for the statement that "publishing research papers and gathering an enormous amount of citations does not make you a scientist that you dreamt of being when you were in primary or in high school." 
+<p>
+</p>
+Let us re-iterate the purpose of this write-up by asking one simple question:
+
+<p><b>"Who am I speaking or pointing out to at this moment?"</b><br>
+
+<p><b>"To all the so-called "scientists" in this world?"</b><br>
+
+<p>or<br>
+
+<p><b>"To my "current- self", who went against the "innocent self", that once unknowingly made the remark that "I want to become a scientist when I grow up and my research will impact the world." "</b><br>
+<p>
+</p>
+I believe, at this stage of my life, neither I am capable nor am I as unbiased as I used to be in answering this question. But for the sake of this momentary realization and for the sake of my own credibility, I can keep this instance of self-evaluation as a milestone of my descent into a greedy search for a minimal loss function and maximal social visibility. Where I internally acknowledge that these "loss functions" and the "social visibility" can not contribute to the importance of existence.
+
+<p>
+</p>
+<p>
+</p>
+
+<hr>
+<hr>
 
 <h2 id="against_zoos"><b>Are you serious Zoos!?</b></h2>
 A group of higher life forms in a distant plant (or probably a star) is currently waiting to introduce themselves to the Earthlings. Their half-life makes the half-life of Plutonium shy. They have been observing the Earthlings for the last 961115 years. They saw how the species on Earth discovered the application of fire, and how they made transition smoother by utilizing circular objects called "wheels". They noticed the mesmerizing evolution of the long neck of a group of Earthlings and in another group, the arms evolved into the wings. The higher life form shows an enormous appreciation towards the development of intelligence of the Earthlings. They just can not wait to meet the Earthlings and congratulate them on their achievement. But the only hindrance in this sublime connection is a group of Earthlings called "Humans".
