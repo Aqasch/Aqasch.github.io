@@ -49,7 +49,7 @@ Let us re-iterate the purpose of this write-up by asking one simple question:
 <p><b>"To my "current- self", who went against the "innocent self", that once unknowingly made the remark that "I want to become a scientist when I grow up and my research will impact the world." "</b><br>
 <p>
 </p>
-I believe, at this stage of my life, neither I am capable nor am I as unbiased as I used to be in answering this question. But for the sake of this momentary realization and for the sake of my own credibility, I can keep this instance of self-evaluation as a milestone of my descent into a greedy search for a minimal loss function and maximal social visibility. Where I internally acknowledge that these "loss functions" and the "social visibility" can not contribute to the importance of existence.
+I believe, at this stage of my life, neither I am capable nor am I as unbiased as I used to be in answering this question. But for the sake of this momentary realization and for the sake of my own credibility, I can keep this instance of self-evaluation as a milestone of my descent into a greedy search for a minimal loss function and maximal social visibility. Where I internally acknowledge that these "loss functions" and the "social visibility" can not contribute to the my importance in this existence.
 
 <p>
 </p>
