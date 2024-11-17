@@ -1,7 +1,7 @@
 ---
 layout : post
 title: "Archived Expressions"
-date : 2023-07-04
+date : 2023-11-17
 categories : Archived Expressions
 permalink : /arch-exp/
 ---
