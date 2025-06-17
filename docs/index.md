@@ -11,12 +11,12 @@ title : "Intro"
 I am a Postdoc at HelTeq, University of Helsinki, working in the group of Sabrina Maniscalco.
 My research focuses on the intersection of classical machine learning and quantum computing, leveraging near-term quantum hardware and beyond with advanced ML methods. I work in **Quantum Architecture Search**. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
 
-<div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
   <div style="
     width: 180px; /* Match this to your logo's width */
-    margin: 1.5rem auto;
+    margin: 1rem auto;
     position: relative;
-    padding: 1.5rem 1rem;
+    padding: 1rem 1rem;
     border-radius: 18px;
     background: rgba(255,255,255,0.85);
     box-shadow:
