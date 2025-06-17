@@ -30,7 +30,7 @@ My research focuses on the intersection of classical machine learning and quantu
     text-align: center;
   ">
     <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
-      <img src="./img/scholar.png" alt="scholar" style="width: 180px; max-width: 80%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
+      <img src="./img/scholar.png" alt="scholar" style="width: 180px; max-width: 50%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
     </a>
     <div style="margin-top: 1rem;">
       <b>
@@ -57,7 +57,7 @@ My research focuses on the intersection of classical machine learning and quantu
     text-align: center;
   ">
     <a href="https://aqasch.github.io/atmadarshan/">
-      <img src="./img/atmanbrahman.png" alt="atmanbrahman" style="width: 180px; max-width: 80%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
+      <img src="./img/atmanbrahman.png" alt="atmanbrahman" style="width: 180px; max-width: 50%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
     </a>
     <div style="margin-top: 1.rem;">
       <b>
@@ -84,7 +84,7 @@ My research focuses on the intersection of classical machine learning and quantu
     text-align: center;
   ">
     <a href="https://aqasch.github.io/arch-exp/">
-      <img src="./img/expressions.png" alt="expressions" style="width: 180px; max-width: 80%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
+      <img src="./img/expressions.png" alt="expressions" style="width: 180px; max-width: 50%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
     </a>
     <div style="margin-top: 1.rem;">
       <b>
