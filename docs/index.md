@@ -14,9 +14,9 @@ My research focuses on the intersection of classical machine learning and quantu
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
   <div style="
     width: 180px; /* Match this to your logo's width */
-    margin: 1rem auto;
+    margin: 2rem auto;
     position: relative;
-    padding: 1rem 1rem;
+    padding: 2rem 1rem;
     border-radius: 18px;
     background: rgba(255,255,255,0.85);
     box-shadow:
