@@ -26,7 +26,7 @@ My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resi
   <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem;">
     <h3 style="margin-top:0; color:#1a237e;">KANQAS: Kolmogorov-Arnold Network for Quantum Architecture Search</h3>
     <p>
-      KANQAS uses Kolmogorov-Arnold Networks (KANs) for quantum architecture search, optimizing and automating quantum circuit design for quantum advantage.<br>
+      KANQAS uses Kolmogorov-Arnold Networks (KANs) for quantum architecture search, optimizing and automating quantum circuit design for quantum hardware.<br>
       <b>Key findings:</b>
       <ul>
         <li>KANs outperform multi-layer perceptrons (MLPs) in generating maximally entangled states and maintain higher fidelity under hardware noise.</li>
