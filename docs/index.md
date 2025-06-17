@@ -27,8 +27,8 @@ My research focuses on the intersection of classical machine learning and quantu
       <b>Contains:</b>
       <ul>
         <li>Up-to-date research papers on QAS.</li>
-        <li>Open source libraries.
-        <li>Videos and tutorials. 
+        <li>Open source libraries.</li>
+        <li>Videos and tutorials.</li>
       </ul>
       <b><a href="https://github.com/Aqasch/awesome-QAS">Contributions are highly appreciated!</a></b>
     </p>
