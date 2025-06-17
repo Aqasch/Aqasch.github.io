@@ -129,8 +129,10 @@ My research focuses on the intersection of classical machine learning and quantu
 <p>
 </p>
 <div style="
+  width: 180px; /* Match this to your logo's width */
+  margin: 2rem auto;
   position: relative;
-  padding: 2rem;
+  padding: 2rem 1rem;
   border-radius: 18px;
   background: rgba(255,255,255,0.85);
   box-shadow:
@@ -140,23 +142,21 @@ My research focuses on the intersection of classical machine learning and quantu
   border: 2px solid rgba(13, 32, 238, 0.2);
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
-  margin-bottom: 2.5rem;
+  text-align: center;
 ">
-  <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
-    <div style="flex: 0 0 180px; max-width: 220px;">
+  <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
+    <img src="./img/scholar.png" alt="scholar" style="width: 180px; max-width: 100%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
+  </a>
+  <div style="margin-top: 1.5rem;">
+    <b>
       <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
-        <img src="./img/scholar.png" alt="scholar" style="width: 100%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+        Complete list of publications!
       </a>
-    </div>
-    <div style="flex: 1 1 340px; min-width: 200px;">
-      <b>
-        <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
-          Complete list of publications!
-        </a>
-      </b>
-    </div>
+    </b>
   </div>
 </div>
+
+
 
 
 **Simple explanation to Foundational texts in Indian Philosophy:**\
