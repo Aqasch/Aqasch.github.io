@@ -7,7 +7,7 @@ title : "Intro"
 #parmalink : https://aqasch.github.io
 ---
 
-👋 Welcome
+# 👋 Welcome, I am Akash
 <div style="text-align: center;"> <a href="https://en.wikipedia.org/wiki/Advaita_Vedanta"> <img src="./img/atman_brahman1.png" alt="Above the Life and Death Cycle" style="width: 80%; max-width: 600px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 1.5rem;"> </a> </div>
 I am a Postdoc at HelTeq, University of Helsinki, working in the group of Sabrina Maniscalco.
 My research focuses on the intersection of classical machine learning and quantum computing, leveraging near-term quantum hardware with advanced ML methods. I work in **Quantum Architecture Search**. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
@@ -28,8 +28,7 @@ My research focuses on the intersection of classical machine learning and quantu
       <ul>
         <li>Up-to-date research papers on QAS.</li>
         <li>Open source libraries.
-        <li>Videos and tutorials.
-        </li> 
+        <li>Videos and tutorials. 
       </ul>
       <b><a href="https://github.com/Aqasch/awesome-QAS">Contributions are highly appreciated!</a></b>
     </p>
