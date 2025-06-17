@@ -14,23 +14,25 @@ My research focuses on the intersection of classical machine learning and quantu
 
 My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
 
+<hr>
+
 🧑‍🔬 **Recent Research Highlights**
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2.5rem; flex-wrap: wrap;">
   <div style="flex: 1 1 220px; max-width: 260px;">
     <a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">
-      <img src="./img/kanqas.png" alt="KANQAS" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      <img src="./img/kanqas.png" alt="KANQAS" style="width: 200%; border-radius: 20px; box-shadow: 0 2px 8px rgba(12, 1, 1, 0.08);">
     </a>
   </div>
   <div style="flex: 2 1 340px; min-width: 220px;">
     <h3 style="margin-top:0; color:#1a237e;">KANQAS: Kolmogorov-Arnold Network for Quantum Architecture Search</h3>
     <p>
-      KANQAS uses Kolmogorov-Arnold Networks (KANs) for quantum architecture search, optimizing and automating quantum circuit design for quantum advantage. <br>
+      KANQAS uses Kolmogorov-Arnold Networks (KANs) for quantum architecture search, optimizing and automating quantum circuit design for quantum advantage.
       <b>Key findings:</b>
       <ul>
         <li>KANs outperform multi-layer perceptrons (MLPs) in generating maximally entangled states and maintain higher fidelity under hardware noise.</li>
         <li>Enable more compact quantum circuits for molecular ground state discovery.</li>
       </ul>
-      <b><a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">KANQAS is [**published in EPJ Quantum Technology**](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z)!</a></b>
+      <b><a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z"> KANQAS is published in EPJ Quantum Technology!</a></b>
     </p>
   </div>
 </div>
