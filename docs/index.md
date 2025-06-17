@@ -175,7 +175,7 @@ My research focuses on the intersection of classical machine learning and quantu
     <a href="https://aqasch.github.io/atmadarshan/">
       <img src="./img/atmanbrahman.png" alt="atmanbrahman" style="width: 180px; max-width: 100%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
     </a>
-    <div style="margin-top: 1.5rem;">
+    <div style="margin-top: 1.rem;">
       <b>
         <a href="https://aqasch.github.io/atmadarshan/">
           Simple foundational texts in Indian Philosophy.
@@ -191,10 +191,10 @@ My research focuses on the intersection of classical machine learning and quantu
     border-radius: 18px;
     background: rgba(255,255,255,0.85);
     box-shadow:
-      0 4px 24px 0 rgba(0, 0, 0, 0),
-      0 1.5px 6px 0 rgba(0, 0, 0, 0),
-      0 0 0 8px rgba(0, 0, 0, 0);
-    border: 2px solid rgba(0, 0, 0, 0);
+      0 4px 24px 0 rgba(6, 6, 6, 0.3),
+      0 1.5px 6px 0 rgba(6, 6, 6, 0.3),
+      0 0 0 8px rgba(6, 6, 6, 0.3);
+    border: 2px solid rgba(6, 6, 6, 0.3);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
     text-align: center;
@@ -202,10 +202,10 @@ My research focuses on the intersection of classical machine learning and quantu
     <a href="https://aqasch.github.io/arch-exp/">
       <img src="./img/expressions.png" alt="expressions" style="width: 180px; max-width: 100%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
     </a>
-    <div style="margin-top: 1.5rem;">
+    <div style="margin-top: 1.rem;">
       <b>
         <a href="https://aqasch.github.io/arch-exp/">
-          This an abstract collection of small, medium ad large personal quotes, expressions and conversations.
+          Collection of personal quotes, expressions and conversations.
         </a>
       </b>
     </div>
