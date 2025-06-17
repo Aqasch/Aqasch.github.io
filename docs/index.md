@@ -20,7 +20,7 @@ My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resi
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2.5rem; flex-wrap: wrap;">
   <div style="flex: 1 1 220px; max-width: 260px;">
     <a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">
-      <img src="./img/kanqas.png" alt="KANQAS" style="width: 200%; border-radius: 20px; box-shadow: 0 2px 8px rgba(12, 1, 1, 0.08);">
+      <img src="./img/kanqas.png" alt="KANQAS" style="width: 150%; border-radius: 20px; box-shadow: 0 2px 8px rgba(12, 1, 1, 0.08);">
     </a>
   </div>
   <div style="flex: 2 1 340px; min-width: 220px;">
