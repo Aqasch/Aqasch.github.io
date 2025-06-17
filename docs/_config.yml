@@ -12,8 +12,8 @@ author: Akash Kundu
 theme: jekyll-theme-minimal
 # For more features, consider using remote_theme instead:
 # remote_theme: vaibhavvikas/jekyll-theme-minimalistic
-# plugins:
-#   - jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
 
 plugins:
   - jekyll-feed
