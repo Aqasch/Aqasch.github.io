@@ -12,6 +12,91 @@ title : "Intro"
 I am a Postdoc at HelTeq, University of Helsinki, working in the group of Sabrina Maniscalco.
 My research focuses on the intersection of classical machine learning and quantum computing, leveraging near-term quantum hardware and beyond with advanced ML methods. I work in **Quantum Architecture Search**. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
 
+<div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
+  <div style="
+    width: 180px; /* Match this to your logo's width */
+    margin: 2rem auto;
+    position: relative;
+    padding: 2rem 1rem;
+    border-radius: 18px;
+    background: rgba(255,255,255,0.85);
+    box-shadow:
+      0 4px 24px 0 rgba(13, 32, 238, 0.2),
+      0 1.5px 6px 0 rgba(13, 32, 238, 0.2),
+      0 0 0 8px rgba(13, 32, 238, 0.2);
+    border: 2px solid rgba(13, 32, 238, 0.2);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    text-align: center;
+  ">
+    <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
+      <img src="./img/scholar.png" alt="scholar" style="width: 180px; max-width: 80%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
+    </a>
+    <div style="margin-top: 1rem;">
+      <b>
+        <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
+          Complete list of publications!
+        </a>
+      </b>
+    </div>
+  </div>
+  <div style="
+    width: 180px; /* Match this to your logo's width */
+    margin: 2rem auto;
+    position: relative;
+    padding: 2rem 1rem;
+    border-radius: 18px;
+    background: rgba(255,255,255,0.85);
+    box-shadow:
+      0 4px 24px 0 rgba(219, 238, 13, 0.2),
+      0 1.5px 6px 0 rgba(219, 238, 13, 0.2),
+      0 0 0 8px rgba(219, 238, 13, 0.2);
+    border: 2px solid rgba(219, 238, 13, 0.2);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    text-align: center;
+  ">
+    <a href="https://aqasch.github.io/atmadarshan/">
+      <img src="./img/atmanbrahman.png" alt="atmanbrahman" style="width: 180px; max-width: 80%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
+    </a>
+    <div style="margin-top: 1.rem;">
+      <b>
+        <a href="https://aqasch.github.io/atmadarshan/">
+          Simple foundational texts in Indian Philosophy.
+        </a>
+      </b>
+    </div>
+  </div>
+  <div style="
+    width: 180px; /* Match this to your logo's width */
+    margin: 2rem auto;
+    position: relative;
+    padding: 2rem 1rem;
+    border-radius: 18px;
+    background: rgba(255,255,255,0.85);
+    box-shadow:
+      0 4px 24px 0 rgba(6, 6, 6, 0.3),
+      0 1.5px 6px 0 rgba(6, 6, 6, 0.3),
+      0 0 0 8px rgba(6, 6, 6, 0.3);
+    border: 2px solid rgba(6, 6, 6, 0.3);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    text-align: center;
+  ">
+    <a href="https://aqasch.github.io/arch-exp/">
+      <img src="./img/expressions.png" alt="expressions" style="width: 180px; max-width: 80%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
+    </a>
+    <div style="margin-top: 1.rem;">
+      <b>
+        <a href="https://aqasch.github.io/arch-exp/">
+          Collection of personal quotes, expressions and conversations.
+        </a>
+      </b>
+    </div>
+  </div>
+</div>
+
+<hr>
 
 ## **Research highlights**
 <div style="
@@ -126,91 +211,6 @@ My research focuses on the intersection of classical machine learning and quantu
 
 <hr>
 
-<p>
-</p>
-<div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
-  <div style="
-    width: 180px; /* Match this to your logo's width */
-    margin: 2rem auto;
-    position: relative;
-    padding: 2rem 1rem;
-    border-radius: 18px;
-    background: rgba(255,255,255,0.85);
-    box-shadow:
-      0 4px 24px 0 rgba(13, 32, 238, 0.2),
-      0 1.5px 6px 0 rgba(13, 32, 238, 0.2),
-      0 0 0 8px rgba(13, 32, 238, 0.2);
-    border: 2px solid rgba(13, 32, 238, 0.2);
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-    text-align: center;
-  ">
-    <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
-      <img src="./img/scholar.png" alt="scholar" style="width: 180px; max-width: 100%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
-    </a>
-    <div style="margin-top: 1.5rem;">
-      <b>
-        <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
-          Complete list of publications!
-        </a>
-      </b>
-    </div>
-  </div>
-  <div style="
-    width: 180px; /* Match this to your logo's width */
-    margin: 2rem auto;
-    position: relative;
-    padding: 2rem 1rem;
-    border-radius: 18px;
-    background: rgba(255,255,255,0.85);
-    box-shadow:
-      0 4px 24px 0 rgba(219, 238, 13, 0.2),
-      0 1.5px 6px 0 rgba(219, 238, 13, 0.2),
-      0 0 0 8px rgba(219, 238, 13, 0.2);
-    border: 2px solid rgba(219, 238, 13, 0.2);
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-    text-align: center;
-  ">
-    <a href="https://aqasch.github.io/atmadarshan/">
-      <img src="./img/atmanbrahman.png" alt="atmanbrahman" style="width: 180px; max-width: 100%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
-    </a>
-    <div style="margin-top: 1.rem;">
-      <b>
-        <a href="https://aqasch.github.io/atmadarshan/">
-          Simple foundational texts in Indian Philosophy.
-        </a>
-      </b>
-    </div>
-  </div>
-  <div style="
-    width: 180px; /* Match this to your logo's width */
-    margin: 2rem auto;
-    position: relative;
-    padding: 2rem 1rem;
-    border-radius: 18px;
-    background: rgba(255,255,255,0.85);
-    box-shadow:
-      0 4px 24px 0 rgba(6, 6, 6, 0.3),
-      0 1.5px 6px 0 rgba(6, 6, 6, 0.3),
-      0 0 0 8px rgba(6, 6, 6, 0.3);
-    border: 2px solid rgba(6, 6, 6, 0.3);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    text-align: center;
-  ">
-    <a href="https://aqasch.github.io/arch-exp/">
-      <img src="./img/expressions.png" alt="expressions" style="width: 180px; max-width: 100%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
-    </a>
-    <div style="margin-top: 1.rem;">
-      <b>
-        <a href="https://aqasch.github.io/arch-exp/">
-          Collection of personal quotes, expressions and conversations.
-        </a>
-      </b>
-    </div>
-  </div>
-</div>
 
 **My Interests:**\
 [![Death in the Afternoon by Hemingway](./img/book.jpg){:height="40%" width="40%"}]( https://aqasch.github.io/literature/ )
