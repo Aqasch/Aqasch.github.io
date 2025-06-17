@@ -51,22 +51,37 @@ My research focuses on the intersection of classical machine learning and quantu
 
 <p>
 </p>
-<div style="display: flex; align-items: flex-start; gap: 2.5rem; margin-bottom: 2.5rem; flex-wrap: wrap;">
-  <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
-    <a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">
-      <img src="./img/kanqas.png" alt="KANQAS" style="width: 150%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
-    </a>
-  </div>
-  <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
-    <h3 style="margin-top:0; color:#1a237e;">KANQAS: Kolmogorov-Arnold Network for Quantum Architecture Search</h3>
-    <p>
-      KANQAS uses Kolmogorov-Arnold Networks (KANs) for quantum architecture search, optimizing and automating quantum circuit design for quantum hardware. <b>Key findings:</b>
-      <ul>
-        <li>KANs outperform multi-layer perceptrons (MLPs) in generating maximally entangled states and maintain higher fidelity under hardware noise.</li>
-        <li>Enable more compact quantum circuits for molecular ground state discovery.</li>
-      </ul>
-      <b><a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">Published in EPJ Quantum Technology!</a></b>
-    </p>
+<div style="
+  position: relative;
+  padding: 2rem;
+  border-radius: 18px;
+  background: rgba(255,255,255,0.85);
+  box-shadow:
+    0 4px 24px 0 rgba(60,60,80,0.20),
+    0 1.5px 6px 0 rgba(60,60,80,0.10),
+    0 0 0 8px rgba(60,120,220,0.08);
+  border: 2px solid rgba(80,120,220,0.30);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  margin-bottom: 2.5rem;
+">
+  <div style="display: flex; align-items: flex-start; gap: 2.5rem; margin-bottom: 2.5rem; flex-wrap: wrap;">
+    <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
+      <a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">
+        <img src="./img/kanqas.png" alt="KANQAS" style="width: 150%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+      </a>
+    </div>
+    <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
+      <h3 style="margin-top:0; color:#1a237e;">KANQAS: Kolmogorov-Arnold Network for Quantum Architecture Search</h3>
+      <p>
+        KANQAS uses Kolmogorov-Arnold Networks (KANs) for quantum architecture search, optimizing and automating quantum circuit design for quantum hardware. <b>Key findings:</b>
+        <ul>
+          <li>KANs outperform multi-layer perceptrons (MLPs) in generating maximally entangled states and maintain higher fidelity under hardware noise.</li>
+          <li>Enable more compact quantum circuits for molecular ground state discovery.</li>
+        </ul>
+        <b><a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">Published in EPJ Quantum Technology!</a></b>
+      </p>
+    </div>
   </div>
 </div>
 
