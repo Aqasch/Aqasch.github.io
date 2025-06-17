@@ -68,7 +68,7 @@ My research focuses on the intersection of classical machine learning and quantu
   <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
     <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
       <a href="https://www.arxiv.org/abs/2505.09371">
-        <img src="./img/tensorrl-qas.png" alt="TensorRL-QAS" style="width: 150%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+        <img src="./img/tensorrl-qas.png" alt="TensorRL-QAS" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
@@ -81,7 +81,7 @@ My research focuses on the intersection of classical machine learning and quantu
           <li>Reduces classicaloptimizer function evaluation by 100-fold.</li>
           <li>Purely CPU based training is now possible up to 10-qubits!!</li>
         </ul>
-        <b><a href="https://www.arxiv.org/abs/2505.09371">See it on arXiv!</a></b>
+        <b><a href="https://www.arxiv.org/abs/2505.09371">Follow it on arXiv!</a></b>
       </p>
     </div>
   </div>
@@ -106,7 +106,7 @@ My research focuses on the intersection of classical machine learning and quantu
   <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
     <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
       <a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">
-        <img src="./img/kanqas.png" alt="KANQAS" style="width: 150%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+        <img src="./img/kanqas.png" alt="KANQAS" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
@@ -124,8 +124,7 @@ My research focuses on the intersection of classical machine learning and quantu
 </div>
 
 <hr>
-
-##  Complete list of publications:** 
+ 
 [**Google scholar**](https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en).
 
 **Simple explanation to Foundational texts in Indian Philosophy:**\
