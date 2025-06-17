@@ -5,6 +5,9 @@ date : 2023-07-28
 categories : Research
 permalink : /atmadarshan/
 ---
+
+<div style="text-align: center;"> <a href="https://en.wikipedia.org/wiki/Advaita_Vedanta"> <img src="../img/atman_brahman1.png" alt="Above the Life and Death Cycle" style="width: 80%; max-width: 600px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 1.5rem;"> </a> </div>
+
 ## <b>The list of contents:</b>
 <ol>
 
