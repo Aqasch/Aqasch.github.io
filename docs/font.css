@@ -3,3 +3,17 @@
 body {
   font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 }
+
+.blur-3d-border {
+  position: relative;
+  padding: 2rem;
+  border-radius: 18px;
+  background: rgba(255,255,255,0.8);
+  box-shadow:
+    0 4px 24px 0 rgba(60,60,80,0.20),
+    0 1.5px 6px 0 rgba(60,60,80,0.10),
+    0 0 0 8px rgba(60,120,220,0.08);
+  border: 2px solid rgba(80,120,220,0.30);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
