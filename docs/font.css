@@ -1,5 +1,3 @@
----
----
 body {
-  font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }}, Arial, sans-serif}
-  
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+}
