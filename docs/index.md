@@ -76,7 +76,7 @@ My research focuses on the intersection of classical machine learning and quantu
       <p>
        The SYK model, known for its strong quantum correlations and chaotic behavior, serves as a key platform for quantum gravity studies. However, variationally preparing thermal states on near-term quantum devices for large systems presents a significant challenge due to the rapid growth in the complexity of parameterized quantum circuits. We address this by combining reinforcement learning with convolutional neural networks, iteratively refining the quantum circuit and its parameters using a composite reward signal from entropy and SYK Hamiltonian expectation values. <b>Key findings:</b>
         <ul>
-          <li> reduces the number of CNOT gates by 100-fold for systems with N ≥ 12 compared to traditional methods!</li>
+          <li>Reduces the number of CNOT gates by 100-fold for systems with N ≥ 12 compared to traditional methods!</li>
           <li>For the very first time we show an advantage of QAS with a CNN structure compared to FNN and KANs.</li>
           <li>Reward engineering leading to efficient thermal state preparation in noisy quantum hardware environments!</li>
         </ul>
@@ -148,9 +148,7 @@ My research focuses on the intersection of classical machine learning and quantu
         <img src="./img/scholar.png" alt="scholar" style="width: 20%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
       </a>
     </div>
-    <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
         <b><a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">Complete list of publications!</a></b>
-    </div>
   </div>
 </div>
 
