@@ -234,9 +234,3 @@ My research focuses on the intersection of classical machine learning and quantu
     </div>
   </div>
 </div>
-
-<hr>
-
-
-**My interests:**\
-[![Death in the Afternoon by Hemingway](./img/book.jpg){:height="20%" width="20%"}]( https://aqasch.github.io/literature/ )
