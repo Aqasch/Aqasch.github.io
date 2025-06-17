@@ -142,15 +142,22 @@ My research focuses on the intersection of classical machine learning and quantu
   -webkit-backdrop-filter: blur(6px);
   margin-bottom: 2.5rem;
 ">
-  <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
-    <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
+  <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
+    <div style="flex: 0 0 180px; max-width: 220px;">
       <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
-        <img src="./img/scholar.png" alt="scholar" style="width: 20%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+        <img src="./img/scholar.png" alt="scholar" style="width: 100%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
       </a>
     </div>
-        <b><a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">Complete list of publications!</a></b>
+    <div style="flex: 1 1 340px; min-width: 200px;">
+      <b>
+        <a href="https://scholar.google.com/citations?user=0ICcM_YAAAAJ&hl=en">
+          Complete list of publications!
+        </a>
+      </b>
+    </div>
   </div>
 </div>
+
 
 **Simple explanation to Foundational texts in Indian Philosophy:**\
 Just initiated [**The explanation**](https://aqasch.github.io/atmadarshan/).
