@@ -93,6 +93,33 @@ My research focuses on the intersection of classical machine learning and quantu
       </b>
     </div>
   </div>
+  <div style="
+    width: 180px; /* Match this to your logo's width */
+    margin: 2rem auto;
+    position: relative;
+    padding: 2rem 1rem;
+    border-radius: 18px;
+    background: rgba(255,255,255,0.85);
+    box-shadow:
+      0 4px 24px 0 rgba(215, 21, 215, 0.3),
+      0 1.5px 6px 0 rgba(215, 21, 215, 0.3),
+      0 0 0 8px rgba(215, 21, 215, 0.3);
+    border: 2px solid rgba(215, 21, 215, 0.3);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    text-align: center;
+  ">
+    <a href="https://aqasch.github.io/literature/">
+      <img src="./img/book.png" alt="book" style="width: 180px; max-width: 50%; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block; margin: 0 auto;">
+    </a>
+    <div style="margin-top: 1.rem;">
+      <b>
+        <a href="https://aqasch.github.io/literature/">
+          One of my interests: Literature.
+        </a>
+      </b>
+    </div>
+  </div>
 </div>
 
 <hr>
@@ -211,5 +238,5 @@ My research focuses on the intersection of classical machine learning and quantu
 <hr>
 
 
-**My Interests:**\
-[![Death in the Afternoon by Hemingway](./img/book.jpg){:height="40%" width="40%"}]( https://aqasch.github.io/literature/ )
+**My interests:**\
+[![Death in the Afternoon by Hemingway](./img/book.jpg){:height="20%" width="20%"}]( https://aqasch.github.io/literature/ )
