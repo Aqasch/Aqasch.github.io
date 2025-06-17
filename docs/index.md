@@ -21,13 +21,13 @@ My research focuses on the intersection of classical machine learning and quantu
     </a>
   </div>
   <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem;">
-    <h3 style="margin-top:0; color:#1a237e;">Awesome QAS (Quantum Architecture Search) ![Awesome](https://awesome.re/badge.svg)</h3>
+    <h3 style="margin-top:0; color:#1a237e;">Awesome QAS (Quantum Architecture Search) </h3>
     <p>
       A curated list of standout libraries, tutorials, research papers, and essential resources focused on Quantum Architecture Search (QAS). This collection is designed to serve as a structured and thorough reference, empowering researchers and developers to accelerate their work and stay at the forefront of QAS advancements.<br>
       <b>Contains:</b>
       <ul>
         <li>Up-to-date research papers on QAS.</li>
-        <li>Open source libraries [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/).
+        <li>Open source libraries.
         <li>Videos and tutorials.
         </li> 
       </ul>
@@ -38,7 +38,6 @@ My research focuses on the intersection of classical machine learning and quantu
 
 <p>
 </p>
-
 <div style="display: flex; align-items: flex-start; gap: 2.5rem; margin-bottom: 2.5rem; flex-wrap: wrap;">
   <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
     <a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">
@@ -58,24 +57,6 @@ My research focuses on the intersection of classical machine learning and quantu
     </p>
   </div>
 </div>
-
-
-<p>
-</p>
-### <span style="color:black"> YAQQ: Yet Another Quantum Quantizer </span>
-
-YAQQ is a software tool for automated quantum gate set design, allowing users to explore and discover optimized sets of quantum gates. It supports three main usage modes: (1) gate set compiler, (2) gate set comparator, and  (3) gate set discovery. The gate set discovery mode is the core novelty of YAQQ, iteratively refining a new gate set based on a defined cost function and comparing it against a predefined gate set
-
-<div style="text-align: center;">
-  <a href="https://arxiv.org/abs/2406.17610v1">
-    <img src="./img/yaqq.png" alt="YAQQ" style="height: 50%; width: 30%;">
-  </a>
-</div>
-
-YAQQ is an elaborated and user-friendly software tool that enables researchers to explore and discover optimized quantum gate sets, with a focus on intuitive implementation, flexible workflows, and advanced analytical and reporting features.
-
-- Download the latest version of YAQQ here! [**yaqq 0.13.6**](https://pypi.org/project/yaqq/)!
-- **YAQQ** is also on [**arxiv**](https://arxiv.org/abs/2406.17610v1)!
 
 <hr>
 
