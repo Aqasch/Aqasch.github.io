@@ -31,7 +31,7 @@ My research focuses on the intersection of classical machine learning and quantu
   <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
     <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
       <a href="https://github.com/Aqasch/awesome-QAS">
-        <img src="./img/awesome_qas.png" alt="KANQAS" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+        <img src="./img/awesome_qas.png" alt="awesomeQAS" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px;">
@@ -44,6 +44,43 @@ My research focuses on the intersection of classical machine learning and quantu
           <li>Videos and tutorials.</li>
         </ul>
         <b><a href="https://github.com/Aqasch/awesome-QAS">Contributions are highly appreciated!</a></b>
+      </p>
+    </div>
+  </div>
+</div>
+
+<p>
+</p>
+<div style="
+  position: relative;
+  padding: 2rem;
+  border-radius: 18px;
+  background: rgba(255,255,255,0.85);
+  box-shadow:
+    0 4px 24px 0 rgba(152, 138, 26, 0.2),
+    0 1.5px 6px 0 rgba(152, 138, 26, 0.2),
+    0 0 0 8px rgba(152, 138, 26, 0.2);
+  border: 2px solid rgba(152, 138, 26, 0.2);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  margin-bottom: 2.5rem;
+">
+  <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
+    <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
+      <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ade361">
+        <img src="./img/sykrl.png" alt="SYKRL" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+      </a>
+    </div>
+    <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
+      <h3 style="margin-top:0; color:#1a237e;">Thermal state preparation of Sachdev-Ye-Kitaev model with reinforcement learning on QPU</h3>
+      <p>
+       The SYK model, known for its strong quantum correlations and chaotic behavior, serves as a key platform for quantum gravity studies. However, variationally preparing thermal states on near-term quantum devices for large systems presents a significant challenge due to the rapid growth in the complexity of parameterized quantum circuits. We address this by combining reinforcement learning with convolutional neural networks, iteratively refining the quantum circuit and its parameters using a composite reward signal from entropy and SYK Hamiltonian expectation values. <b>Key findings:</b>
+        <ul>
+          <li> reduces the number of CNOT gates by 100-fold for systems with N ≥ 12 compared to traditional methods!</li>
+          <li>For the very first time we show an advantage of QAS with a CNN structure compared to FNN and KANs.</li>
+          <li>Reward engineering leading to efficient thermal state preparation in noisy quantum hardware environments!</li>
+        </ul>
+        <b><a href="https://iopscience.iop.org/article/10.1088/2632-2153/ade361">Published in Machine Learning: Science and Technology!</a></b>
       </p>
     </div>
   </div>
@@ -82,42 +119,6 @@ My research focuses on the intersection of classical machine learning and quantu
           <li>Purely CPU based training is now possible up to 10-qubits!!</li>
         </ul>
         <b><a href="https://www.arxiv.org/abs/2505.09371">Follow it on arXiv!</a></b>
-      </p>
-    </div>
-  </div>
-</div>
-
-<p>
-</p>
-<div style="
-  position: relative;
-  padding: 2rem;
-  border-radius: 18px;
-  background: rgba(255,255,255,0.85);
-  box-shadow:
-    0 4px 24px 0 rgba(60,60,80,0.20),
-    0 1.5px 6px 0 rgba(60,60,80,0.10),
-    0 0 0 8px rgba(60,120,220,0.08);
-  border: 2px solid rgba(80,120,220,0.30);
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
-  margin-bottom: 2.5rem;
-">
-  <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
-    <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
-      <a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">
-        <img src="./img/kanqas.png" alt="KANQAS" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
-      </a>
-    </div>
-    <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
-      <h3 style="margin-top:0; color:#1a237e;">KANQAS: Kolmogorov-Arnold Network for Quantum Architecture Search</h3>
-      <p>
-        KANQAS uses Kolmogorov-Arnold Networks (KANs) for quantum architecture search, optimizing and automating quantum circuit design for quantum hardware. <b>Key findings:</b>
-        <ul>
-          <li>KANs outperform multi-layer perceptrons (MLPs) in generating maximally entangled states and maintain higher fidelity under hardware noise.</li>
-          <li>Enable more compact quantum circuits for molecular ground state discovery.</li>
-        </ul>
-        <b><a href="https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-024-00289-z">Published in EPJ Quantum Technology!</a></b>
       </p>
     </div>
   </div>
