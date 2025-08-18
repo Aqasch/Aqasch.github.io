@@ -146,7 +146,7 @@ My research focuses on the intersection of classical machine learning and quantu
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px;">
-      <h3 style="margin-top:0; color:#1a237e;">BenchRL-QAS (Quantum Architecture Search)</h3>
+      <h3 style="margin-top:0; color:#1a237e;">BenchRL-QAS (Benchmarking RL-algos for quantum Architecture Search)</h3>
       <p>
         BenchRL-QAS, is a unified benchmarking framework for systematically evaluating reinforcement learning (RL) algorithms in quantum architecture search (QAS) across diverse variational quantum algorithm tasks and system sizes ranging from 2- to 8-qubit. This work represents the most comprehensive RL-QAS benchmarking effort to date. Huge shout-out to my interns <a href="https://www.linkedin.com/in/aditi-das-43b3511aa/">Aditi Das</a>, <a href="https://www.linkedin.com/in/azhar-ikhtiarudin/">Azhar Ikhtiarudin</a> and Param Thakkar! Our primary findings are:
         <ul>
