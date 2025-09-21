@@ -221,7 +221,7 @@ My research focuses on the intersection of classical machine learning and quantu
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px;">
-      <h3 style="margin-top:0; color:#1a237e;">Awesome QAS (Quantum Architecture Search)</h3>
+      <h1 style="margin-top:0; color:#1a237e;">Awesome QAS (Quantum Architecture Search)</h1>
       <p>
         A curated list of standout libraries, tutorials, research papers, and essential resources focused on Quantum Architecture Search (QAS). This collection is designed to serve as a structured and thorough reference, empowering researchers and developers to accelerate their work and stay at the forefront of QAS advancements. <b>The repository contains:</b>
         <ul>
