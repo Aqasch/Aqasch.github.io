@@ -161,6 +161,79 @@ My research focuses on the intersection of classical machine learning and quantu
   </div>
 </div>
 
+<div style="
+  position: relative;
+  padding: 2rem;
+  border-radius: 18px;
+  background: rgba(255,255,255,0.85);
+  box-shadow:
+    0 4px 24px 0 rgba(14, 239, 47, 0.2),
+    0 1.5px 6px 0 rgba(14, 239, 47, 0.2),
+    0 0 0 8px rgba(14, 239, 47, 0.2);
+  border: 2px solid rgba(14, 239, 47, 0.2);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  margin-bottom: 2.5rem;
+">
+  <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
+    <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
+      <a href="https://arxiv.org/abs/2507.12189">
+        <img src="./img/benchRL-QAS.png" alt="awesomeQAS" style="width: 50%; max-width: 210px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+      </a>
+    </div>
+    <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px;">
+      <h1 style="margin-top:0; color:#1a237e;"> 💥 BenchRL-QAS at <a href="https://arxiv.org/abs/2507.12189">AAAI FSS-25!</a> 💥</h1>
+      <p>
+        BenchRL-QAS, is a unified benchmarking framework for systematically evaluating reinforcement learning (RL) algorithms in quantum architecture search (QAS) across diverse variational quantum algorithm tasks and system sizes ranging from 2- to 8-qubit. This work represents the most comprehensive RL-QAS benchmarking effort to date. Huge shout-out to my interns <a href="https://www.linkedin.com/in/aditi-das-43b3511aa/">Aditi Das</a>, <a href="https://www.linkedin.com/in/azhar-ikhtiarudin/">Azhar Ikhtiarudin</a> and Param Thakkar! Our primary findings are:
+        <ul>
+          <li>No single reinforcement learning algorithm is universally optimal for all quantum architecture search tasks.</li>
+          <li>RL-based quantum classifiers outperform baseline variational classifiers on quantum machine learning tasks.</li>
+          <li>The BenchRL-QAS framework provides a comprehensive benchmark and releases all experimental data publicly to support reproducibility <b>in the following repository:</b></li>
+        </ul>
+        <b><a href="https://github.com/azhar-ikhtiarudin/bench-rlqas">BenchRL-QAS!</a></b>
+      </p>
+    </div>
+  </div>
+</div>
+
+<p>
+</p>
+<div style="
+  position: relative;
+  padding: 2rem;
+  border-radius: 18px;
+  background: rgba(255,255,255,0.85);
+  box-shadow:
+    0 4px 24px 0 rgba(227, 28, 75, 0.2),
+    0 1.5px 6px 0 rgba(227, 28, 75, 0.2),
+    0 0 0 8px rgba(227, 28, 75, 0.2);
+  border: 2px solid rgba(227, 28, 75, 0.2);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  margin-bottom: 2.5rem;
+">
+  <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
+    <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
+      <a href="https://www.arxiv.org/abs/2505.09371">
+        <img src="./img/tensorrl-qas.png" alt="TensorRL-QAS" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+      </a>
+    </div>
+    <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
+      <h3 style="margin-top:0; color:#1a237e;">TensorRL-QAS: Reinforcement learning with tensor networks for scalable quantum architecture search</h3>
+      <p>
+        Introducing TensorRL-QAS, a scalable framework that combines tensor network (TN) methods with RL for designing quantum circuits. By warm-starting the architecture search with a matrix product state approximation of the target solution, TensorRL-QAS effectively narrows the search space to physically meaningful circuits, accelerating convergence to the desired solution. <b> Key findings:</b>
+        <ul>
+          <li>Scalability in noiseless (noisy) scenario upto 20-qubits (10-qubits)!</li>
+          <li>Accelerates training of each RL-episode up to 98%.</li>
+          <li>Reduces classicaloptimizer function evaluation by 100-fold.</li>
+          <li>Purely CPU based training is now possible up to 10-qubits!!</li>
+        </ul>
+        <b><a href="https://www.arxiv.org/abs/2505.09371">Follow it on arXiv!</a></b>
+      </p>
+    </div>
+  </div>
+</div>
+
 <p>
 </p>
 <div style="
