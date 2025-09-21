@@ -161,6 +161,8 @@ My research focuses on the intersection of classical machine learning and quantu
   </div>
 </div>
 
+<p>
+</p>
 <div style="
   position: relative;
   padding: 2rem;
@@ -191,44 +193,6 @@ My research focuses on the intersection of classical machine learning and quantu
           <li>The BenchRL-QAS framework provides a comprehensive benchmark and releases all experimental data publicly to support reproducibility <b>in the following repository:</b></li>
         </ul>
         <b><a href="https://github.com/azhar-ikhtiarudin/bench-rlqas">BenchRL-QAS!</a></b>
-      </p>
-    </div>
-  </div>
-</div>
-
-<p>
-</p>
-<div style="
-  position: relative;
-  padding: 2rem;
-  border-radius: 18px;
-  background: rgba(255,255,255,0.85);
-  box-shadow:
-    0 4px 24px 0 rgba(227, 28, 75, 0.2),
-    0 1.5px 6px 0 rgba(227, 28, 75, 0.2),
-    0 0 0 8px rgba(227, 28, 75, 0.2);
-  border: 2px solid rgba(227, 28, 75, 0.2);
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
-  margin-bottom: 2.5rem;
-">
-  <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
-    <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
-      <a href="https://www.arxiv.org/abs/2505.09371">
-        <img src="./img/tensorrl-qas.png" alt="TensorRL-QAS" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
-      </a>
-    </div>
-    <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
-      <h3 style="margin-top:0; color:#1a237e;">TensorRL-QAS: Reinforcement learning with tensor networks for scalable quantum architecture search</h3>
-      <p>
-        Introducing TensorRL-QAS, a scalable framework that combines tensor network (TN) methods with RL for designing quantum circuits. By warm-starting the architecture search with a matrix product state approximation of the target solution, TensorRL-QAS effectively narrows the search space to physically meaningful circuits, accelerating convergence to the desired solution. <b> Key findings:</b>
-        <ul>
-          <li>Scalability in noiseless (noisy) scenario upto 20-qubits (10-qubits)!</li>
-          <li>Accelerates training of each RL-episode up to 98%.</li>
-          <li>Reduces classicaloptimizer function evaluation by 100-fold.</li>
-          <li>Purely CPU based training is now possible up to 10-qubits!!</li>
-        </ul>
-        <b><a href="https://www.arxiv.org/abs/2505.09371">Follow it on arXiv!</a></b>
       </p>
     </div>
   </div>
@@ -294,7 +258,7 @@ My research focuses on the intersection of classical machine learning and quantu
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
-      <h3 style="margin-top:0; color:#1a237e;">Thermal state preparation of Sachdev-Ye-Kitaev model with reinforcement learning on QPU</h3>
+      <h1 style="margin-top:0; color:#1a237e;"> 💥 Thermal state preparation of SYK model with RL in <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ade361">Published in Machine Learning: Science and Technology!</a>! 💥 </h1>
       <p>
        The SYK model, known for its strong quantum correlations and chaotic behavior, serves as a key platform for quantum gravity studies. However, variationally preparing thermal states on near-term quantum devices for large systems presents a significant challenge due to the rapid growth in the complexity of parameterized quantum circuits. We address this by combining reinforcement learning with convolutional neural networks, iteratively refining the quantum circuit and its parameters using a composite reward signal from entropy and SYK Hamiltonian expectation values. <b>Key findings:</b>
         <ul>
