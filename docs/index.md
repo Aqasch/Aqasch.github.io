@@ -146,11 +146,11 @@ My research focuses on the intersection of classical machine learning and quantu
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
-      <h2 style="margin-top:0; color:#1a237e;"> 💥 TensorRL-QAS at NeurIPS 2025! 💥</h2>
+      <h2 style="margin-top:0; color:#1a237e;"> 💥 TensorRL-QAS at <a href="https://openreview.net/forum?id=0okFLZvtKs">NeurIPS 2025!</a> 💥</h2>
       <p>
         Introducing TensorRL-QAS, an improved QAS framework that combines tensor network (TN) methods with RL for designing quantum circuits. By warm-starting the architecture search with a matrix product state approximation of the target solution, TensorRL-QAS effectively narrows the search space to physically meaningful circuits, accelerating convergence to the desired solution. <b> Key findings:</b>
         <ul>
-          <li>Scalability in noiseless (noisy) scenario upto 20-qubits (10-qubits)!</li>
+          <li>Enhanced performance in noiseless (noisy) scenario upto 20-qubits (10-qubits)!</li>
           <li>Accelerates training of each RL-episode up to 98%.</li>
           <li>Reduces classicaloptimizer function evaluation by 100-fold.</li>
           <li>Purely CPU based training is now possible up to 10-qubits!!</li>
