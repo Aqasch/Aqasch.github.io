@@ -125,7 +125,6 @@ My research focuses on the intersection of classical machine learning and quantu
 <hr>
 
 ## **Research highlights**
-
 <div style="
   position: relative;
   padding: 2rem;
@@ -149,7 +148,7 @@ My research focuses on the intersection of classical machine learning and quantu
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
       <h3 style="margin-top:0; color:#1a237e;">TensorRL-QAS: Reinforcement learning with tensor networks for improved quantum architecture search</h3>
       <p>
-      <h4 style="margin-top:0; color:#1a237e;">💥**TensorRL-QAS at NeurIPS 2025!**💥</h4>
+      <h4 style="margin-top:0; color:#1a237e;">💥<b> TensorRL-QAS at NeurIPS 2025!</b> 💥</h4>
       <p>
         Introducing TensorRL-QAS, an improved framework that combines tensor network (TN) methods with RL for designing quantum circuits. By warm-starting the architecture search with a matrix product state approximation of the target solution, TensorRL-QAS effectively narrows the search space to physically meaningful circuits, accelerating convergence to the desired solution. <b> Key findings:</b>
         <ul>
@@ -164,6 +163,8 @@ My research focuses on the intersection of classical machine learning and quantu
   </div>
 </div>
 
+<p>
+</p>
 <div style="
   position: relative;
   padding: 2rem;
