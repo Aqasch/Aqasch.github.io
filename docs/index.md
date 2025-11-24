@@ -180,7 +180,7 @@ My research focuses on the intersection of classical machine learning and quantu
   <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
     <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
       <a href="https://arxiv.org/abs/2507.12189">
-        <img src="./img/benchRL-QAS.png" alt="awesomeQAS" style="width: 200%; max-width: 210px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+        <img src="./img/benchRL-QAS.png" alt="benchRL-QAS" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px;">
