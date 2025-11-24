@@ -258,7 +258,7 @@ My research focuses on the intersection of classical machine learning and quantu
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
-      <h1 style="margin-top:0; color:#1a237e;"> 💥 Thermal state preparation of SYK with RL in <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ade361">Machine Learning: Science and Technology!</a> </h1>
+      <h1 style="margin-top:0; color:#1a237e;"> 💥 Thermal state preparation of SYK with RL in <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ade361">MLST!</a> </h1>
       <p>
        The SYK model, known for its strong quantum correlations and chaotic behavior, serves as a key platform for quantum gravity studies. However, variationally preparing thermal states on near-term quantum devices for large systems presents a significant challenge due to the rapid growth in the complexity of parameterized quantum circuits. We address this by combining reinforcement learning with convolutional neural networks, iteratively refining the quantum circuit and its parameters using a composite reward signal from entropy and SYK Hamiltonian expectation values. <b>Key findings:</b>
         <ul>

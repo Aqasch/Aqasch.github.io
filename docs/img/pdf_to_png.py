@@ -1,6 +1,6 @@
 from pdf2image import convert_from_path
 
-img = 'benchrl-qas'
+img = 'sykrl'
 
 # Convert PDF to image objects
 pages = convert_from_path(f'{img}.pdf', dpi=300)
