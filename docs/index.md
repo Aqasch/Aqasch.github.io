@@ -8,8 +8,7 @@ title : "Intro"
 ---
 
 # 👋 Welcome, I am Akash
-I am a Postdoc at HelTeq, University of Helsinki, working in the group of Sabrina Maniscalco.
-My research focuses on the intersection of classical machine learning and quantum computing, leveraging near-term quantum hardware and beyond with advanced ML methods. I work in **Quantum Architecture Search**. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
+I am a researcher working in the intersection of classical machine learning and quantum computing, leveraging near-term quantum hardware and beyond with advanced ML methods. The field I work in called Quantum Architecture Search. **Kindly contact me via email: kunduaku339 [at] gmail [dot] com**. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
 
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
   <div style="
