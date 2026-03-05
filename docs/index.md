@@ -8,7 +8,7 @@ title : "Intro"
 ---
 
 # 👋 Welcome, I am Akash
-I am a researcher working in the intersection of classical machine learning and quantum computing, leveraging near-term quantum hardware and beyond with advanced ML methods. The field I work in called Quantum Architecture Search. **Kindly contact me via email: kunduaku339 [at] gmail [dot] com**. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
+Researcher at TU Delft in <a href="https://qutech.nl/lab/feld-group/"><b>Sebastian Feld group</b></a>, working in the intersection of classical machine learning and quantum computing, leveraging near-term quantum hardware and beyond with advanced RL methods. My expertise is in Quantum Architecture Search. **Kindly contact me via email: kunduaku339 [at] gmail [dot] com**. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
 
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
   <div style="
