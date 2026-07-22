@@ -147,7 +147,7 @@ margin-bottom: 2.5rem;
 <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
 <h1 style="margin-top:0; color:#1a237e;"> 💥 Replay-buffer engineering for noise-robust quantum circuit optimization</h1>
 <p>
-This paper argues that the replay buffer is not just a storage component, but a central algorithmic lever for quantum RL. It introduces three related ideas: an annealed replay strategy called <b>ReaPER+</b>, a curriculum RL method called <b>OptCRLQAS</b> that reduces repeated expensive quantum-classical evaluations, and a lightweight transfer scheme that reuses noiseless trajectories to accelerate noisy hardware training. <b>Key findings:</b>
+Our paper available on <a href="https://arxiv.org/abs/2604.21863">OpenReview</a> argues that the replay buffer is not just a storage component, but a central algorithmic lever for quantum RL. It introduces three related ideas: an annealed replay strategy called <b>ReaPER+</b>, a curriculum RL method called <b>OptCRLQAS</b> that reduces repeated expensive quantum-classical evaluations, and a lightweight transfer scheme that reuses noiseless trajectories to accelerate noisy hardware training. <b>Key findings:</b>
 <ul>
 <li>ReaPER+ improves sample efficiency by 4–32× over fixed PER, ReaPER, and uniform replay.</li>
 <li>It consistently finds more compact circuits on quantum compilation and quantum architecture search benchmarks.</li>
