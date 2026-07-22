@@ -125,6 +125,43 @@ Researcher at TU Delft in <a href="https://qutech.nl/lab/feld-group/"><b>Sebasti
 
 ## **Research highlights**
 <div style="
+position: relative;
+padding: 2rem;
+border-radius: 18px;
+background: rgba(255,255,255,0.85);
+box-shadow:
+0 4px 24px 0 rgba(227, 28, 75, 0.2),
+0 1.5px 6px 0 rgba(227, 28, 75, 0.2),
+0 0 0 8px rgba(227, 28, 75, 0.2);
+border: 2px solid rgba(227, 28, 75, 0.2);
+backdrop-filter: blur(6px);
+-webkit-backdrop-filter: blur(6px);
+margin-bottom: 2.5rem;
+">
+<div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
+<div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
+<a href="https://arxiv.org/abs/2604.21863">
+<img src="./img/buffer-eng.jpg" alt="Replay-buffer engineering for noise-robust quantum circuit optimization" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+</a>
+</div>
+<div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
+<h1 style="margin-top:0; color:#1a237e;"> 💥 Replay-buffer engineering for noise-robust quantum circuit optimization</h1>
+<p>
+This paper argues that the replay buffer is not just a storage component, but a central algorithmic lever for quantum RL. It introduces three related ideas: an annealed replay strategy called <b>ReaPER+</b>, a curriculum RL method called <b>OptCRLQAS</b> that reduces repeated expensive quantum-classical evaluations, and a lightweight transfer scheme that reuses noiseless trajectories to accelerate noisy hardware training. <b>Key findings:</b>
+<ul>
+<li>ReaPER+ improves sample efficiency by 4–32× over fixed PER, ReaPER, and uniform replay.</li>
+<li>It consistently finds more compact circuits on quantum compilation and quantum architecture search benchmarks.</li>
+<li>OptCRLQAS cuts wall-clock time per episode by up to 67.5% on a 12-qubit optimization task.</li>
+<li>Noiseless-trajectory transfer reduces steps to chemical accuracy by 85–90% and final energy error by up to 90% on 6-, 8-, and 12-qubit molecular tasks.</li>
+<li>The approach is validated on LunarLander-v3, suggesting the replay ideas generalize beyond quantum settings.</li>
+</ul>
+<b>Bottom line:</b> the paper shows that smarter experience replay, curriculum amortization, and trajectory transfer can materially improve scalability and noise robustness in quantum circuit optimization.
+</p>
+</div>
+</div>
+</div>
+
+<div style="
   position: relative;
   padding: 2rem;
   border-radius: 18px;
