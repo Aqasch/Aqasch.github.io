@@ -124,6 +124,43 @@ Researcher at TU Delft in <a href="https://qutech.nl/lab/feld-group/"><b>Sebasti
 <hr>
 
 ## **Research highlights**
+
+<div style="
+position: relative;
+padding: 2rem;
+border-radius: 18px;
+background: rgba(255,255,255,0.85);
+box-shadow:
+0 4px 24px 0 rgba(227, 28, 75, 0.2),
+0 1.5px 6px 0 rgba(227, 28, 75, 0.2),
+0 0 0 8px rgba(227, 28, 75, 0.2);
+border: 2px solid rgba(227, 28, 75, 0.2);
+backdrop-filter: blur(6px);
+-webkit-backdrop-filter: blur(6px);
+margin-bottom: 2.5rem;
+">
+<div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
+<div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
+<a href="https://research.tudelft.nl/en/publications/reinforcement-learning-for-quantum-circuit-optimization-a-review/">
+<img src="./img/review-paper.png" alt="Reinforcement Learning for Quantum Circuit Optimization: A Review" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+</a>
+</div>
+<div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
+<h1 style="margin-top:0; color:#1a237e;"> 💥 Reinforcement Learning for Quantum Circuit Optimization: A Review</h1>
+<p>
+This review available currently at <a href="https://openreview.net/forum?id=h6w1j1fjeZ">OpenReview</a> synthesizes progress in reinforcement learning for quantum circuit optimization (RL-QCO), framing the field as a sequential decision-making problem over circuit construction, compilation, routing, and rewriting. It organizes the literature around four core MDP design choices — state, reward, action space, and agent — and uses that lens to compare approaches across variational ansatz search, unitary synthesis, qubit mapping, ZX-calculus simplification, and fault-tolerant resource reduction. <b>Key findings:</b>
+<ul>
+<li>RL-QCO methods consistently trade off expressivity vs. trainability and sparse vs. shaped rewards.</li>
+<li>Abstract action spaces can improve search, while hardware-aware policies improve deployability.</li>
+<li>Benchmarking remains a major bottleneck, especially for reproducibility, generalization, and hardware-in-the-loop testing.</li>
+<li>Promising directions include reusable circuit priors, amortized reward evaluation, continual hardware adaptation, and integration with fault-tolerant compilation.</li>
+</ul>
+<b>Bottom line:</b> the paper presents RL-QCO not as a single algorithm, but as an emerging design paradigm for the quantum software stack.
+</p>
+</div>
+</div>
+</div>
+
 <div style="
 position: relative;
 padding: 2rem;
