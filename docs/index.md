@@ -8,7 +8,8 @@ title : "Intro"
 ---
 
 # 👋 Welcome, I am Akash
-Researcher at TU Delft in <a href="https://qutech.nl/lab/feld-group/"><b>Sebastian Feld group</b></a>, working in the intersection of classical machine learning and quantum computing, leveraging near-term quantum hardware and beyond with advanced RL methods. My expertise is in Quantum Architecture Search. **Kindly contact me via email: kunduaku339 [at] gmail [dot] com**. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
+Researcher at TU Delft in <a href="https://qutech.nl/lab/feld-group/"><b>Sebastian Feld group</b></a>, working in the intersection of classical machine learning and quantum computing, leveraging near-term quantum hardware and beyond with advanced RL methods. My expertise is in Quantum Architecture Search. Excluding reading my hobbies are: *Biking*, watching *Summoning Salt*, listening to *Summer Salt*, *Untitled YouTube Videos*, *Goppo Mir er Thek*, and *Advaita Vedanta*.
+**Contact me via email: kunduaku339 [at] gmail [dot] com**. My true self <a href="https://aqasch.github.io/arch-exp/#burden_numbers"><b>Resides Here</b></a>.
 
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
   <div style="
@@ -155,7 +156,7 @@ This review available currently at <a href="https://openreview.net/forum?id=h6w1
 <li>Benchmarking remains a major bottleneck, especially for reproducibility, generalization, and hardware-in-the-loop testing.</li>
 <li>Promising directions include reusable circuit priors, amortized reward evaluation, continual hardware adaptation, and integration with fault-tolerant compilation.</li>
 </ul>
-<b>Bottom line:</b> the paper presents RL-QCO not as a single algorithm, but as an emerging design paradigm for the quantum software stack.
+<b>Bottom line:</b> The paper presents RL-QCO not as a single algorithm, but as an emerging design paradigm for the quantum software stack.
 </p>
 </div>
 </div>
