@@ -158,6 +158,7 @@ Our paper available on <a href="https://arxiv.org/abs/2604.21863">arXiV</a> argu
 <li>The approach is validated on LunarLander-v3, suggesting the replay ideas generalize beyond quantum settings.</li>
 </ul>
 <b>Bottom line:</b> the paper shows that smarter experience replay, curriculum amortization, and trajectory transfer can materially improve scalability and noise robustness in quantum circuit optimization.
+<b><a href="https://github.com/Aqasch/replay_buffer_eng_for_quantum_optimization">Follow it on GitHub!</a></b>
 </p>
 </div>
 </div>
