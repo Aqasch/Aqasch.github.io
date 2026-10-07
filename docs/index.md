@@ -126,6 +126,10 @@ Researcher at TU Delft in <a href="https://qutech.nl/lab/feld-group/"><b>Sebasti
 
 ## **Research highlights**
 
+Serving as a reviewer for NeurIPS 2025, 2026, ICLR 2026, Nature Comm. Phys., IOP MLST, Neural Networks, ACM TQC.
+
+Serving as a Editor for Frontiers in artificial intelligence, Discover quantum science, frontiers in quantum science and technology.
+
 <div style="
 position: relative;
 padding: 2rem;
