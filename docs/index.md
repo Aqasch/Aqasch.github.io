@@ -142,21 +142,22 @@ margin-bottom: 2.5rem;
 ">
 <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
 <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
-<a href="https://research.tudelft.nl/en/publications/reinforcement-learning-for-quantum-circuit-optimization-a-review/">
-<img src="./img/review-paper.png" alt="Reinforcement Learning for Quantum Circuit Optimization: A Review" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+<a href="https://arxiv.org/abs/2604.21863">
+<img src="./img/buffer-eng.jpg" alt="Replay-buffer engineering for noise-aware quantum circuit optimization at NeurIPS 2026!" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
 </a>
 </div>
 <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
-<h1 style="margin-top:0; color:#1a237e;"> 💥 Reinforcement Learning for Quantum Circuit Optimization: A Review</h1>
+<h1 style="margin-top:0; color:#1a237e;"> 💥 Replay-buffer engineering for noise-aware quantum circuit optimization at <a href="https://neurips.cc/virtual/2026/loc/paris/poster/148828">NeurIPS 2026!</a></h1>
 <p>
-This review available currently at <a href="https://openreview.net/forum?id=h6w1j1fjeZ">OpenReview</a> synthesizes progress in reinforcement learning for quantum circuit optimization (RL-QCO), framing the field as a sequential decision-making problem over circuit construction, compilation, routing, and rewriting. It organizes the literature around four core MDP design choices — state, reward, action space, and agent — and uses that lens to compare approaches across variational ansatz search, unitary synthesis, qubit mapping, ZX-calculus simplification, and fault-tolerant resource reduction. <b>Key findings:</b>
+Our paper available on <a href="https://arxiv.org/abs/2604.21863">arXiV</a> argues that the replay buffer is not just a storage component, but a central algorithmic lever for quantum RL. It introduces three related ideas: an annealed replay strategy called <b>ReaPER+</b>, a curriculum RL method called <b>OptCRLQAS</b> that reduces repeated expensive quantum-classical evaluations, and a lightweight transfer scheme that reuses noiseless trajectories to accelerate noisy hardware training. <b>Key findings:</b>
 <ul>
-<li>RL-QCO methods consistently trade off expressivity vs. trainability and sparse vs. shaped rewards.</li>
-<li>Abstract action spaces can improve search, while hardware-aware policies improve deployability.</li>
-<li>Benchmarking remains a major bottleneck, especially for reproducibility, generalization, and hardware-in-the-loop testing.</li>
-<li>Promising directions include reusable circuit priors, amortized reward evaluation, continual hardware adaptation, and integration with fault-tolerant compilation.</li>
+<li>ReaPER+ improves sample efficiency by 4–32× over fixed PER, ReaPER, and uniform replay.</li>
+<li>It consistently finds more compact circuits on quantum compilation and quantum architecture search benchmarks.</li>
+<li>OptCRLQAS cuts wall-clock time per episode by up to 67.5% on a 12-qubit optimization task.</li>
+<li>Noiseless-trajectory transfer reduces steps to chemical accuracy by 85–90% and final energy error by up to 90% on 6-, 8-, and 12-qubit molecular tasks.</li>
+<li>The approach is validated on LunarLander-v3, suggesting the replay ideas generalize beyond quantum settings.</li>
 </ul>
-<b>Bottom line:</b> The paper presents RL-QCO not as a single algorithm, but as an emerging design paradigm for the quantum software stack.
+<b>Bottom line:</b> the paper shows that smarter experience replay, curriculum amortization, and trajectory transfer can materially improve scalability and noise robustness in quantum circuit optimization.
 </p>
 </div>
 </div>
@@ -178,22 +179,21 @@ margin-bottom: 2.5rem;
 ">
 <div style="display: flex; align-items: flex-start; gap: 2.5rem; flex-wrap: wrap;">
 <div style="flex: 0 0 390px; max-width: 390px; min-width: 220px;">
-<a href="https://arxiv.org/abs/2604.21863">
-<img src="./img/buffer-eng.png" alt="Replay-buffer engineering for noise-robust quantum circuit optimization" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
+<a href="https://research.tudelft.nl/en/publications/reinforcement-learning-for-quantum-circuit-optimization-a-review/">
+<img src="./img/review-paper.png" alt="Reinforcement Learning for Quantum Circuit Optimization: A Review" style="width: 200%; max-width: 390px; border-radius: 20px; box-shadow: 0 4px 10px rgba(12, 1, 1, 0.08); display: block;">
 </a>
 </div>
 <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
-<h1 style="margin-top:0; color:#1a237e;"> 💥 Replay-buffer engineering for noise-robust quantum circuit optimization</h1>
+<h1 style="margin-top:0; color:#1a237e;"> 💥 Reinforcement Learning for Quantum Circuit Optimization: A Review</h1>
 <p>
-Our paper available on <a href="https://arxiv.org/abs/2604.21863">arXiV</a> argues that the replay buffer is not just a storage component, but a central algorithmic lever for quantum RL. It introduces three related ideas: an annealed replay strategy called <b>ReaPER+</b>, a curriculum RL method called <b>OptCRLQAS</b> that reduces repeated expensive quantum-classical evaluations, and a lightweight transfer scheme that reuses noiseless trajectories to accelerate noisy hardware training. <b>Key findings:</b>
+This review available currently at <a href="https://openreview.net/forum?id=h6w1j1fjeZ">OpenReview</a> synthesizes progress in reinforcement learning for quantum circuit optimization (RL-QCO), framing the field as a sequential decision-making problem over circuit construction, compilation, routing, and rewriting. It organizes the literature around four core MDP design choices — state, reward, action space, and agent — and uses that lens to compare approaches across variational ansatz search, unitary synthesis, qubit mapping, ZX-calculus simplification, and fault-tolerant resource reduction. <b>Key findings:</b>
 <ul>
-<li>ReaPER+ improves sample efficiency by 4–32× over fixed PER, ReaPER, and uniform replay.</li>
-<li>It consistently finds more compact circuits on quantum compilation and quantum architecture search benchmarks.</li>
-<li>OptCRLQAS cuts wall-clock time per episode by up to 67.5% on a 12-qubit optimization task.</li>
-<li>Noiseless-trajectory transfer reduces steps to chemical accuracy by 85–90% and final energy error by up to 90% on 6-, 8-, and 12-qubit molecular tasks.</li>
-<li>The approach is validated on LunarLander-v3, suggesting the replay ideas generalize beyond quantum settings.</li>
+<li>RL-QCO methods consistently trade off expressivity vs. trainability and sparse vs. shaped rewards.</li>
+<li>Abstract action spaces can improve search, while hardware-aware policies improve deployability.</li>
+<li>Benchmarking remains a major bottleneck, especially for reproducibility, generalization, and hardware-in-the-loop testing.</li>
+<li>Promising directions include reusable circuit priors, amortized reward evaluation, continual hardware adaptation, and integration with fault-tolerant compilation.</li>
 </ul>
-<b>Bottom line:</b> the paper shows that smarter experience replay, curriculum amortization, and trajectory transfer can materially improve scalability and noise robustness in quantum circuit optimization.
+<b>Bottom line:</b> The paper presents RL-QCO not as a single algorithm, but as an emerging design paradigm for the quantum software stack.
 </p>
 </div>
 </div>
@@ -257,7 +257,7 @@ Our paper available on <a href="https://arxiv.org/abs/2604.21863">arXiV</a> argu
       </a>
     </div>
     <div style="flex: 2 1 340px; min-width: 260px; margin-left: 2rem; font-size: 14px">
-      <h1 style="margin-top:0; color:#1a237e;"> 💥 TensorRL-QAS at <a href="https://openreview.net/forum?id=0okFLZvtKs">NeurIPS!</a></h1>
+      <h1 style="margin-top:0; color:#1a237e;"> 💥 TensorRL-QAS at <a href="https://openreview.net/forum?id=0okFLZvtKs">NeurIPS 2025!</a></h1>
       <p>
         Introducing TensorRL-QAS, an improved QAS framework that combines tensor network (TN) methods with RL for designing quantum circuits. By warm-starting the architecture search with a matrix product state approximation of the target solution, TensorRL-QAS effectively narrows the search space to physically meaningful circuits, accelerating convergence to the desired solution. <b> Key findings:</b>
         <ul>
